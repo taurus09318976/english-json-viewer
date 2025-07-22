@@ -1,0 +1,829 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>영어 문항 JSON Delta 뷰어</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 20px;
+            text-align: center;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .file-selector {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+        }
+
+        .file-selector h2 {
+            margin-bottom: 15px;
+            color: #333;
+        }
+
+        select {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #ddd;
+            border-radius: 8px;
+            font-size: 16px;
+            background-color: white;
+            cursor: pointer;
+        }
+
+        select:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+
+        .content-area {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            min-height: 600px;
+        }
+
+        .json-panel, .viewer-panel {
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+
+        .panel-header {
+            background: #333;
+            color: white;
+            padding: 15px 20px;
+            font-weight: bold;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .panel-content {
+            padding: 20px;
+            height: 600px;
+            overflow-y: auto;
+        }
+
+        .json-tree {
+            font-family: 'Courier New', monospace;
+            font-size: 14px;
+            line-height: 1.4;
+        }
+
+        .json-key {
+            color: #d73a49;
+            font-weight: bold;
+        }
+
+        .json-string {
+            color: #032f62;
+        }
+
+        .json-number {
+            color: #005cc5;
+        }
+
+        .json-boolean {
+            color: #e36209;
+        }
+
+        .json-null {
+            color: #6f42c1;
+        }
+
+        .json-brace {
+            color: #24292e;
+            font-weight: bold;
+        }
+
+        .json-bracket {
+            color: #24292e;
+            font-weight: bold;
+        }
+
+        .json-expand {
+            cursor: pointer;
+            color: #586069;
+            margin-right: 5px;
+            user-select: none;
+        }
+
+        .json-expand:hover {
+            color: #0366d6;
+        }
+
+        .collapsed {
+            display: none;
+        }
+
+        .item-viewer {
+            margin-bottom: 20px;
+            border: 1px solid #e1e4e8;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        .item-header {
+            background: #f6f8fa;
+            padding: 12px 16px;
+            border-bottom: 1px solid #e1e4e8;
+            font-weight: bold;
+            cursor: pointer;
+            display: flex;
+            justify-content: between;
+            align-items: center;
+        }
+
+        .item-header:hover {
+            background: #f1f3f4;
+        }
+
+        .item-content {
+            padding: 16px;
+        }
+
+        .item-section {
+            margin-bottom: 15px;
+        }
+
+        .section-title {
+            font-weight: bold;
+            color: #0366d6;
+            margin-bottom: 8px;
+            border-bottom: 1px solid #e1e4e8;
+            padding-bottom: 4px;
+        }
+
+        .annotation-text {
+            background: #f8f9fa;
+            padding: 10px;
+            border-left: 4px solid #0366d6;
+            border-radius: 4px;
+            margin: 5px 0;
+            font-family: Arial, sans-serif;
+            line-height: 1.5;
+        }
+
+        .annotation-html {
+            background: #fff5f5;
+            border-left: 4px solid #dc3545;
+        }
+
+        .bbox-info {
+            font-family: 'Courier New', monospace;
+            font-size: 12px;
+            color: #6a737d;
+            margin-top: 5px;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #6a737d;
+        }
+
+        .error {
+            background: #f8d7da;
+            color: #721c24;
+            padding: 15px;
+            border-radius: 8px;
+            margin: 10px 0;
+        }
+
+        .stats {
+            background: #e7f3ff;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 10px;
+        }
+
+        .stat-item {
+            text-align: center;
+        }
+
+        .stat-number {
+            font-size: 2em;
+            font-weight: bold;
+            color: #0366d6;
+        }
+
+        .stat-label {
+            font-size: 0.9em;
+            color: #586069;
+        }
+
+        .toggle-btn {
+            background: #0366d6;
+            color: white;
+            border: none;
+            padding: 6px 12px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 12px;
+        }
+
+        .toggle-btn:hover {
+            background: #0256cc;
+        }
+
+        @media (max-width: 768px) {
+            .content-area {
+                grid-template-columns: 1fr;
+            }
+            
+            .header h1 {
+                font-size: 2em;
+            }
+        }
+    </style>
+    <link href="https://cdn.jsdelivr.net/npm/quill@2.0.2/dist/quill.snow.css" rel="stylesheet" />
+    <script src="https://cdn.jsdelivr.net/npm/quill@2.0.2/dist/quill.js"></script>
+</head>
+<body>
+    <div class="header">
+        <h1>🔍 영어 문항 JSON Delta 뷰어</h1>
+        <p>중고등학생 영어 문항 데이터를 구조화된 형태로 분석하고 시각화합니다</p>
+    </div>
+
+    <div class="container">
+        <div class="file-selector">
+            <h2>📂 JSON 파일 선택</h2>
+            <select id="fileSelect">
+                <option value="">파일을 선택하세요...</option>
+            </select>
+        </div>
+
+        <div id="statsArea"></div>
+
+        <div class="content-area">
+            <div class="json-panel">
+                <div class="panel-header">
+                    <span>🔧 JSON Delta 구조</span>
+                    <button class="toggle-btn" onclick="toggleAllJson()">전체 토글</button>
+                </div>
+                <div class="panel-content">
+                    <div id="jsonTree" class="json-tree">
+                        JSON 파일을 선택하세요...
+                    </div>
+                </div>
+            </div>
+
+            <div class="viewer-panel">
+                <div class="panel-header">
+                    <span>📝 문항 뷰어</span>
+                    <button class="toggle-btn" onclick="toggleAllItems()">전체 토글</button>
+                </div>
+                <div class="panel-content">
+                    <div id="itemViewer">
+                        JSON 파일을 선택하세요...
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let currentData = null;
+        let jsonExpanded = {};
+        let itemsExpanded = {};
+
+        // JSON 파일 목록 로드
+        async function loadFileList() {
+            try {
+                const response = await fetch('17차_output/output/');
+                const text = await response.text();
+                
+                // 간단한 파일 목록 파싱 (실제로는 서버에서 API로 제공하는 것이 좋음)
+                const files = [];
+                const parser = new DOMParser();
+                const doc = parser.parseFromString(text, 'text/html');
+                const links = doc.querySelectorAll('a[href$=".json"]');
+                
+                links.forEach(link => {
+                    files.push(link.getAttribute('href'));
+                });
+
+                // Hardcoded full file list
+                const fileList = [
+'ENG_3353702032983721408.json',
+'ENG_3353703026094245313.json',
+'ENG_3354487953991665267.json',
+'ENG_3354542488458102395.json',
+'ENG_3357318152177321967.json',
+'ENG_3358138854778340386.json',
+'ENG_3454773956039411701.json',
+'ENG_3455259272915452928.json',
+'ENG_3456147124486407219.json',
+'ENG_3457258796248728646.json',
+'ENG_3457311414606103625.json',
+'ENG_3457498846416864340.json',
+'ENG_3457580424304264280.json',
+'ENG_3457588489405596764.json',
+'ENG_3458367275919213681.json',
+'ENG_3458372944009364597.json',
+'ENG_3458379379799753849.json',
+'ENG_3459588782905361559.json',
+'ENG_3468563170841331031.json',
+'ENG_3598922251862279775.json',
+'ENG_3605354571162977353.json',
+'ENG_3606835933535536511.json',
+'ENG_3608396544186779469.json',
+'ENG_3608397308296693583.json',
+'ENG_3609148354841281537.json',
+'ENG_3610427845085496554.json',
+'ENG_3611903530685695801.json',
+'ENG_3612772779083957710.json',
+'ENG_3613391395915564819.json',
+'ENG_3613392057852233492.json',
+'ENG_3614031293689365663.json',
+'ENG_3614747270651578097.json',
+'ENG_3614747868918712050.json',
+'ENG_3615654362006685292.json',
+'ENG_3618438688792380499.json',
+'ENG_3618493443065513065.json',
+'ENG_3618561773637993658.json',
+'ENG_3618562475965809852.json',
+'ENG_3620626452732446280.json',
+'ENG_3620751517516039774.json',
+'ENG_3622747302164170492.json',
+'ENG_3622859508780369674.json',
+'ENG_3624356880106653536.json',
+'ENG_3628511610177324742.json',
+'ENG_3628513292898535111.json',
+'ENG_3634973571974957054.json',
+'ENG_3637866616126965026.json',
+'ENG_3638141874742494582.json',
+'ENG_3638142751444305272.json',
+'ENG_3638143426047772026.json',
+'ENG_3643786207910954526.json',
+'ENG_3644670117331076699.json',
+'ENG_3647292165681317007.json',
+'ENG_3647337308849439896.json',
+'ENG_3647542043221165227.json',
+'ENG_3647564126240113836.json',
+'ENG_3648240845624182005.json',
+'ENG_3648688864005981455.json',
+'ENG_3648808808509080855.json',
+'ENG_3648809576561640728.json',
+'ENG_3648812641591231769.json',
+'ENG_3649044203897357632.json',
+'ENG_3649375563736417632.json',
+'ENG_3649525852141520261.json',
+'ENG_3649526338546566534.json',
+'ENG_3650201815166748078.json',
+'ENG_3650221789943956912.json',
+'ENG_3651143660306695717.json',
+'ENG_3651210070668084809.json',
+'ENG_3651216427488118347.json',
+'ENG_3651593006789690981.json',
+'ENG_3651595026749720167.json',
+'ENG_3651596197405132394.json',
+'ENG_3651597395097028204.json',
+'ENG_3651700390350554831.json',
+'ENG_3651818652946138898.json',
+'ENG_3652296050087036749.json',
+'ENG_3652594165260223523.json',
+'ENG_3652699797137130569.json',
+'ENG_3653084355934291029.json',
+'ENG_3654610324687947514.json',
+'ENG_3654931862918268696.json',
+'ENG_3655150235287553817.json',
+'ENG_3655215841240155937.json',
+'ENG_3656715025134913486.json',
+'ENG_3656719539791464399.json',
+'ENG_3656825902634895314.json',
+'ENG_3657108583910212685.json',
+'ENG_3657597492419101875.json',
+'ENG_3657750060738806983.json',
+'ENG_3657750873393595592.json',
+'ENG_3658331924025312492.json',
+'ENG_3658426755141600547.json',
+'ENG_3658427390964532516.json',
+'ENG_3658428010463233317.json',
+'ENG_3658428787088950566.json',
+'ENG_3659147182914667923.json',
+'ENG_3660703797124007414.json',
+'ENG_3660721619208242680.json'
+                ];
+
+                const select = document.getElementById('fileSelect');
+                fileList.forEach(file => {
+                    const option = document.createElement('option');
+                    option.value = file;
+                    option.textContent = file.replace('.json', '');
+                    select.appendChild(option);
+                });
+            } catch (error) {
+                console.error('파일 목록 로드 실패:', error);
+                // 기본 파일 목록 사용
+                const defaultFiles = [
+                    'ENG_3657597492419101875.json',
+                    'ENG_3660703797124007414.json',
+                    'ENG_3660721619208242680.json'
+                ];
+                
+                const select = document.getElementById('fileSelect');
+                defaultFiles.forEach(file => {
+                    const option = document.createElement('option');
+                    option.value = file;
+                    option.textContent = file.replace('.json', '');
+                    select.appendChild(option);
+                });
+            }
+        }
+
+        // JSON 파일 로드
+        async function loadJsonFile(filename) {
+            try {
+                document.getElementById('jsonTree').innerHTML = '<div class="loading">파일을 로드하는 중...</div>';
+                document.getElementById('itemViewer').innerHTML = '<div class="loading">파일을 로드하는 중...</div>';
+                
+                const response = await fetch(`17차_output/output/${filename}`);
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+                }
+                
+                const data = await response.json();
+                currentData = data;
+                
+                displayStats(data);
+                displayJsonTree(data);
+                displayItemViewer(data);
+                
+            } catch (error) {
+                console.error('JSON 파일 로드 실패:', error);
+                document.getElementById('jsonTree').innerHTML = `<div class="error">파일 로드 실패: ${error.message}</div>`;
+                document.getElementById('itemViewer').innerHTML = `<div class="error">파일 로드 실패: ${error.message}</div>`;
+            }
+        }
+
+        // 통계 정보 표시
+        function displayStats(data) {
+            const stats = {
+                items: data.items ? data.items.length : 0,
+                images: data.images ? data.images.length : 0,
+                annotations: data.annotations ? data.annotations.length : 0,
+                categories: data.categories ? data.categories.length : 0
+            };
+
+            const statsHtml = `
+                <div class="stats">
+                    <div class="stat-item">
+                        <div class="stat-number">${stats.items}</div>
+                        <div class="stat-label">문항 수</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-number">${stats.images}</div>
+                        <div class="stat-label">이미지 수</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-number">${stats.annotations}</div>
+                        <div class="stat-label">주석 수</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-number">${stats.categories}</div>
+                        <div class="stat-label">카테고리 수</div>
+                    </div>
+                </div>
+            `;
+
+            document.getElementById('statsArea').innerHTML = statsHtml;
+        }
+
+        // JSON 트리 표시
+        function displayJsonTree(data) {
+            const jsonTree = document.getElementById('jsonTree');
+            jsonTree.innerHTML = createJsonNode(data, 'root', 0);
+        }
+
+        // JSON 노드 생성
+        function createJsonNode(value, key, depth) {
+            const indent = '  '.repeat(depth);
+            const nodeId = `node_${key}_${depth}_${Math.random().toString(36).substr(2, 9)}`;
+            
+            if (value === null) {
+                return `${indent}<span class="json-key">"${key}"</span>: <span class="json-null">null</span>`;
+            }
+            
+            if (typeof value === 'string') {
+                const displayValue = value.length > 100 ? value.substring(0, 100) + '...' : value;
+                return `${indent}<span class="json-key">"${key}"</span>: <span class="json-string">"${escapeHtml(displayValue)}"</span>`;
+            }
+            
+            if (typeof value === 'number') {
+                return `${indent}<span class="json-key">"${key}"</span>: <span class="json-number">${value}</span>`;
+            }
+            
+            if (typeof value === 'boolean') {
+                return `${indent}<span class="json-key">"${key}"</span>: <span class="json-boolean">${value}</span>`;
+            }
+            
+            if (Array.isArray(value)) {
+                const isExpanded = jsonExpanded[nodeId] !== false;
+                const toggleIcon = isExpanded ? '▼' : '▶';
+                const contentClass = isExpanded ? '' : 'collapsed';
+                
+                let html = `${indent}<span class="json-expand" onclick="toggleJsonNode('${nodeId}')">${toggleIcon}</span>`;
+                html += `<span class="json-key">"${key}"</span>: <span class="json-bracket">[</span>`;
+                html += ` <span style="color: #6a737d;">(${value.length} items)</span>\n`;
+                
+                html += `<div id="${nodeId}" class="${contentClass}">`;
+                value.slice(0, 10).forEach((item, index) => {
+                    html += createJsonNode(item, index, depth + 1) + '\n';
+                });
+                if (value.length > 10) {
+                    html += `${indent}  <span style="color: #6a737d;">... ${value.length - 10} more items</span>\n`;
+                }
+                html += `</div>`;
+                html += `${indent}<span class="json-bracket">]</span>`;
+                
+                return html;
+            }
+            
+            if (typeof value === 'object') {
+                const keys = Object.keys(value);
+                const isExpanded = jsonExpanded[nodeId] !== false;
+                const toggleIcon = isExpanded ? '▼' : '▶';
+                const contentClass = isExpanded ? '' : 'collapsed';
+                
+                let html = `${indent}<span class="json-expand" onclick="toggleJsonNode('${nodeId}')">${toggleIcon}</span>`;
+                html += `<span class="json-key">"${key}"</span>: <span class="json-brace">{</span>`;
+                html += ` <span style="color: #6a737d;">(${keys.length} keys)</span>\n`;
+                
+                html += `<div id="${nodeId}" class="${contentClass}">`;
+                keys.slice(0, 10).forEach(objKey => {
+                    html += createJsonNode(value[objKey], objKey, depth + 1) + '\n';
+                });
+                if (keys.length > 10) {
+                    html += `${indent}  <span style="color: #6a737d;">... ${keys.length - 10} more keys</span>\n`;
+                }
+                html += `</div>`;
+                html += `${indent}<span class="json-brace">}</span>`;
+                
+                return html;
+            }
+            
+            return `${indent}<span class="json-key">"${key}"</span>: <span>${escapeHtml(String(value))}</span>`;
+        }
+
+        // JSON 노드 토글
+        function toggleJsonNode(nodeId) {
+            const node = document.getElementById(nodeId);
+            const isExpanded = !node.classList.contains('collapsed');
+            
+            jsonExpanded[nodeId] = !isExpanded;
+            node.classList.toggle('collapsed');
+            
+            // 토글 아이콘 업데이트
+            const expandElement = node.parentElement.querySelector('.json-expand');
+            expandElement.textContent = isExpanded ? '▶' : '▼';
+        }
+
+        // 문항 뷰어 표시
+        function displayItemViewer(data) {
+            const viewer = document.getElementById('itemViewer');
+            
+            if (!data.items || data.items.length === 0) {
+                viewer.innerHTML = '<div class="error">문항 데이터가 없습니다.</div>';
+                return;
+            }
+
+            let html = '';
+            data.items.forEach((item, index) => {
+                const itemId = `item_${index}`;
+                const isExpanded = itemsExpanded[itemId] !== false;
+                const toggleIcon = isExpanded ? '▼' : '▶';
+                const contentClass = isExpanded ? '' : 'collapsed';
+
+                html += `
+                    <div class="item-viewer">
+                        <div class="item-header" onclick="toggleItem('${itemId}')">
+                            <span>${toggleIcon} 문항 ${item.id} (Image: ${item.imageIds ? item.imageIds.join(', ') : 'N/A'})</span>
+                            <span style="font-size: 0.9em; color: #6a737d;">${item.answerType || 'N/A'}</span>
+                        </div>
+                        <div id="${itemId}" class="item-content ${contentClass}">
+                            ${createItemContent(item, data)}
+                        </div>
+                    </div>
+                `;
+            });
+
+            viewer.innerHTML = html;
+
+            // Initialize Quill for all rendered areas
+            document.querySelectorAll('.annotation-html').forEach(el => {
+                const quill = new Quill(el, {
+                    theme: 'snow',
+                    readOnly: true
+                });
+                quill.clipboard.dangerouslyPasteHTML(el.dataset.html);
+            });
+        }
+
+        // 문항 내용 생성
+        function createItemContent(item, data) {
+            let html = '';
+
+            // 지문 영역
+            if (item.passageAreaInfo && item.passageAreaInfo.annotationIds) {
+                html += `<div class="item-section">
+                    <div class="section-title">📖 지문 영역</div>`;
+                item.passageAreaInfo.annotationIds.forEach(id => {
+                    const annotation = findAnnotation(data, id);
+                    if (annotation) {
+                        html += createAnnotationDisplay(annotation);
+                    }
+                });
+                html += `</div>`;
+            }
+
+            // 문제 영역
+            if (item.questionAreaInfo && item.questionAreaInfo.annotationIds) {
+                html += `<div class="item-section">
+                    <div class="section-title">❓ 문제 영역</div>`;
+                item.questionAreaInfo.annotationIds.forEach(id => {
+                    const annotation = findAnnotation(data, id);
+                    if (annotation) {
+                        html += createAnnotationDisplay(annotation);
+                    }
+                });
+                html += `</div>`;
+            }
+
+            // 답안 영역
+            if (item.answerAreaInfo && item.answerAreaInfo.annotationIds) {
+                html += `<div class="item-section">
+                    <div class="section-title">✅ 답안 영역</div>`;
+                item.answerAreaInfo.annotationIds.forEach(id => {
+                    const annotation = findAnnotation(data, id);
+                    if (annotation) {
+                        html += createAnnotationDisplay(annotation);
+                    }
+                });
+                html += `</div>`;
+            }
+
+            // 해설 영역
+            if (item.explanationAreaInfo && item.explanationAreaInfo.annotationIds) {
+                html += `<div class="item-section">
+                    <div class="section-title">💡 해설 영역</div>`;
+                item.explanationAreaInfo.annotationIds.forEach(id => {
+                    const annotation = findAnnotation(data, id);
+                    if (annotation) {
+                        html += createAnnotationDisplay(annotation);
+                    }
+                });
+                html += `</div>`;
+            }
+
+            return html;
+        }
+
+        // 주석 찾기
+        function findAnnotation(data, id) {
+            if (!data.annotations) return null;
+            return data.annotations.find(ann => ann.id === id);
+        }
+
+        // 주석 표시 생성
+        function createAnnotationDisplay(annotation) {
+            if (!annotation) return '';
+
+            const hasHtml = annotation.html && annotation.html.trim();
+            let htmlRender = '';
+            if (hasHtml) {
+                const uniqueId = Math.random().toString(36).substr(2, 9);
+                htmlRender = `<div><strong>HTML Rendered:</strong></div><div id="quill-${uniqueId}" class="annotation-html" data-html='${escapeHtml(annotation.html)}'></div>`;
+            }
+
+            return `
+                <div class="annotation-text ${hasHtml ? 'annotation-html' : ''}">
+                    ${htmlRender}
+                    <div><strong>텍스트:</strong> ${escapeHtml(annotation.text || '')}</div>
+                    <div class="bbox-info">
+                        위치: [${annotation.bbox ? annotation.bbox.map(n => n.toFixed(1)).join(', ') : 'N/A'}] | 
+                        이미지 ID: ${annotation.image_id || 'N/A'} | 
+                        카테고리 ID: ${annotation.category_id || 'N/A'}
+                    </div>
+                </div>
+            `;
+        }
+
+        // 문항 토글
+        function toggleItem(itemId) {
+            const item = document.getElementById(itemId);
+            const isExpanded = !item.classList.contains('collapsed');
+            
+            itemsExpanded[itemId] = !isExpanded;
+            item.classList.toggle('collapsed');
+            
+            // 토글 아이콘 업데이트
+            const header = item.parentElement.querySelector('.item-header');
+            const currentText = header.querySelector('span').textContent;
+            const newIcon = isExpanded ? '▶' : '▼';
+            header.querySelector('span').textContent = currentText.replace(/^[▼▶]/, newIcon);
+        }
+
+        // 전체 JSON 토글
+        function toggleAllJson() {
+            const allNodes = document.querySelectorAll('#jsonTree [id^="node_"]');
+            const shouldExpand = allNodes.length > 0 && allNodes[0].classList.contains('collapsed');
+            
+            allNodes.forEach(node => {
+                const nodeId = node.id;
+                jsonExpanded[nodeId] = shouldExpand;
+                
+                if (shouldExpand) {
+                    node.classList.remove('collapsed');
+                } else {
+                    node.classList.add('collapsed');
+                }
+                
+                // 토글 아이콘 업데이트
+                const expandElement = node.parentElement.querySelector('.json-expand');
+                if (expandElement) {
+                    expandElement.textContent = shouldExpand ? '▼' : '▶';
+                }
+            });
+        }
+
+        // 전체 문항 토글
+        function toggleAllItems() {
+            const allItems = document.querySelectorAll('[id^="item_"]');
+            const shouldExpand = allItems.length > 0 && allItems[0].classList.contains('collapsed');
+            
+            allItems.forEach(item => {
+                const itemId = item.id;
+                itemsExpanded[itemId] = shouldExpand;
+                
+                if (shouldExpand) {
+                    item.classList.remove('collapsed');
+                } else {
+                    item.classList.add('collapsed');
+                }
+                
+                // 토글 아이콘 업데이트
+                const header = item.parentElement.querySelector('.item-header');
+                const currentText = header.querySelector('span').textContent;
+                const newIcon = shouldExpand ? '▼' : '▶';
+                header.querySelector('span').textContent = currentText.replace(/^[▼▶]/, newIcon);
+            });
+        }
+
+        // HTML 이스케이프
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        // 이벤트 리스너
+        document.getElementById('fileSelect').addEventListener('change', function(e) {
+            if (e.target.value) {
+                loadJsonFile(e.target.value);
+            }
+        });
+
+        // 초기화
+        loadFileList();
+    </script>
+</body>
+</html> 

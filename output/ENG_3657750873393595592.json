@@ -1,0 +1,5399 @@
+{
+    "info": {
+        "html_url": "",
+        "provider": "crowdworks"
+    },
+    "items": [
+        {
+            "id": 1,
+            "imageIds": [
+                0
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -1
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": [
+                    1,
+                    2
+                ]
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    4,
+                    5,
+                    6
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -2
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "imageIds": [
+                0
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -3
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": [
+                    1,
+                    2
+                ]
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    7,
+                    8,
+                    9
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -4
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "imageIds": [
+                0
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -5
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": [
+                    1,
+                    2
+                ]
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    10,
+                    11,
+                    12,
+                    13
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -6
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "imageIds": [
+                1
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -7
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": [
+                    16,
+                    17
+                ]
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    19,
+                    20,
+                    21
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -8
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "imageIds": [
+                1
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -9
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": [
+                    16,
+                    17
+                ]
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    22,
+                    23,
+                    24
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -10
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "imageIds": [
+                1
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -11
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": [
+                    16,
+                    17
+                ]
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    25,
+                    26,
+                    27
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -12
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "imageIds": [
+                2
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -13
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": [
+                    30,
+                    31
+                ]
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    33,
+                    34,
+                    35
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -14
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "imageIds": [
+                2
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -15
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": [
+                    30,
+                    31
+                ]
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    36,
+                    37,
+                    38
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -16
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "imageIds": [
+                2
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -17
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": [
+                    30,
+                    31
+                ]
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    39,
+                    40,
+                    41
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -18
+                ]
+            }
+        },
+        {
+            "id": 10,
+            "imageIds": [
+                2
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -19
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": [
+                    30,
+                    31
+                ]
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    42,
+                    43,
+                    44
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -20
+                ]
+            }
+        },
+        {
+            "id": 11,
+            "imageIds": [
+                3
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -21
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    46,
+                    47,
+                    48
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -22
+                ]
+            }
+        },
+        {
+            "id": 12,
+            "imageIds": [
+                3
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -23
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    49,
+                    50,
+                    51
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -24
+                ]
+            }
+        },
+        {
+            "id": 13,
+            "imageIds": [
+                3
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -25
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    52,
+                    53,
+                    54
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -26
+                ]
+            }
+        },
+        {
+            "id": 14,
+            "imageIds": [
+                4
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -27
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    55,
+                    56,
+                    57
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -28
+                ]
+            }
+        },
+        {
+            "id": 15,
+            "imageIds": [
+                4
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -29
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    58,
+                    59,
+                    60
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -30
+                ]
+            }
+        },
+        {
+            "id": 16,
+            "imageIds": [
+                5
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -31
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    61,
+                    62,
+                    63,
+                    64,
+                    65,
+                    66,
+                    67
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -32
+                ]
+            }
+        },
+        {
+            "id": 17,
+            "imageIds": [
+                5
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -33
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    68,
+                    69,
+                    70,
+                    71
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -34
+                ]
+            }
+        },
+        {
+            "id": 18,
+            "imageIds": [
+                6
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -35
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    72,
+                    73,
+                    74,
+                    75
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -36
+                ]
+            }
+        },
+        {
+            "id": 19,
+            "imageIds": [
+                6
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -37
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    76,
+                    77,
+                    78,
+                    79
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -38
+                ]
+            }
+        },
+        {
+            "id": 20,
+            "imageIds": [
+                7
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -39
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": [
+                    81,
+                    82
+                ]
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    84,
+                    85,
+                    86
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -40
+                ]
+            }
+        },
+        {
+            "id": 21,
+            "imageIds": [
+                7
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -41
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": [
+                    81,
+                    82
+                ]
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    87,
+                    88,
+                    89
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -42
+                ]
+            }
+        },
+        {
+            "id": 22,
+            "imageIds": [
+                7
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -43
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": [
+                    81,
+                    82
+                ]
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    90,
+                    91,
+                    92
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -44
+                ]
+            }
+        },
+        {
+            "id": 23,
+            "imageIds": [
+                7
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -45
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": [
+                    81,
+                    82
+                ]
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    93,
+                    94,
+                    95
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -46
+                ]
+            }
+        },
+        {
+            "id": 24,
+            "imageIds": [
+                8
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -47
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": [
+                    98,
+                    99
+                ]
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    101,
+                    102,
+                    103
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -48
+                ]
+            }
+        },
+        {
+            "id": 25,
+            "imageIds": [
+                8
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -49
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": [
+                    98,
+                    99
+                ]
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    104,
+                    105,
+                    106
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -50
+                ]
+            }
+        },
+        {
+            "id": 26,
+            "imageIds": [
+                8
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -51
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": [
+                    98,
+                    99
+                ]
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    107,
+                    108,
+                    109
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -52
+                ]
+            }
+        },
+        {
+            "id": 27,
+            "imageIds": [
+                8
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -53
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": [
+                    98,
+                    99
+                ]
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    110,
+                    111,
+                    112
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -54
+                ]
+            }
+        }
+    ],
+    "images": [
+        {
+            "id": 0,
+            "width": 2480,
+            "height": 3509,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3657750873393595592/ENG_3657750873393595592_PAGE_0000.png",
+            "file_name": "ENG_3657750873393595592_PAGE_0000.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 1,
+            "width": 2480,
+            "height": 3509,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3657750873393595592/ENG_3657750873393595592_PAGE_0001.png",
+            "file_name": "ENG_3657750873393595592_PAGE_0001.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 2,
+            "width": 2480,
+            "height": 3509,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3657750873393595592/ENG_3657750873393595592_PAGE_0002.png",
+            "file_name": "ENG_3657750873393595592_PAGE_0002.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 3,
+            "width": 2480,
+            "height": 3509,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3657750873393595592/ENG_3657750873393595592_PAGE_0003.png",
+            "file_name": "ENG_3657750873393595592_PAGE_0003.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 4,
+            "width": 2480,
+            "height": 3509,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3657750873393595592/ENG_3657750873393595592_PAGE_0004.png",
+            "file_name": "ENG_3657750873393595592_PAGE_0004.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 5,
+            "width": 2480,
+            "height": 3509,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3657750873393595592/ENG_3657750873393595592_PAGE_0005.png",
+            "file_name": "ENG_3657750873393595592_PAGE_0005.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 6,
+            "width": 2480,
+            "height": 3509,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3657750873393595592/ENG_3657750873393595592_PAGE_0006.png",
+            "file_name": "ENG_3657750873393595592_PAGE_0006.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 7,
+            "width": 2480,
+            "height": 3509,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3657750873393595592/ENG_3657750873393595592_PAGE_0007.png",
+            "file_name": "ENG_3657750873393595592_PAGE_0007.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 8,
+            "width": 2480,
+            "height": 3509,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3657750873393595592/ENG_3657750873393595592_PAGE_0008.png",
+            "file_name": "ENG_3657750873393595592_PAGE_0008.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 9,
+            "width": 3534,
+            "height": 5000,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3657750873393595592/ENG_3657750873393595592_PAGE_0010.png",
+            "file_name": "ENG_3657750873393595592_PAGE_0010.png",
+            "page_type": "정답지",
+            "bboxCheckStatus": true
+        }
+    ],
+    "licenses": [],
+    "categories": [
+        {
+            "id": 0,
+            "name": "[공통] 발문",
+            "objectColor": "#FF9700",
+            "supercategory": "layout"
+        },
+        {
+            "id": 1,
+            "name": "[그룹] 공통 본문",
+            "objectColor": "#875000",
+            "supercategory": "layout"
+        },
+        {
+            "id": 2,
+            "name": "[단일] 지시문",
+            "objectColor": "#FF0000",
+            "supercategory": "layout"
+        },
+        {
+            "id": 3,
+            "name": "[단일] 본문",
+            "objectColor": "#B62828",
+            "supercategory": "layout"
+        },
+        {
+            "id": 4,
+            "name": "[공통] 보기",
+            "objectColor": "#2E00FF",
+            "supercategory": "layout"
+        },
+        {
+            "id": 5,
+            "name": "[공통] 조건",
+            "objectColor": "#00DE22",
+            "supercategory": "layout"
+        },
+        {
+            "id": 6,
+            "name": "[답안] 객관식",
+            "objectColor": "#BD00FF",
+            "supercategory": "layout"
+        },
+        {
+            "id": 7,
+            "name": "[답안] 주관식",
+            "objectColor": "#FF00A2",
+            "supercategory": "layout"
+        },
+        {
+            "id": 8,
+            "name": "[답안] 공백 선지",
+            "objectColor": "#6A7500",
+            "supercategory": "layout"
+        },
+        {
+            "id": 9,
+            "name": "[정답] 정답/해설",
+            "objectColor": "#DE00CA",
+            "supercategory": "layout"
+        },
+        {
+            "id": 10,
+            "name": "[공통] 도표",
+            "objectColor": "#00D8FF",
+            "supercategory": "layout"
+        },
+        {
+            "id": 11,
+            "name": "[공통] 그림",
+            "objectColor": "#005C6D",
+            "supercategory": "layout"
+        },
+        {
+            "id": 12,
+            "name": "[그룹] 공백 지시문",
+            "objectColor": "#C6AC62",
+            "supercategory": "layout"
+        },
+        {
+            "id": 13,
+            "name": "[단일] 공백 지시문",
+            "objectColor": "#FFCBA5",
+            "supercategory": "layout"
+        },
+        {
+            "id": 14,
+            "name": "[각주] 단어",
+            "objectColor": "#00FFD5",
+            "supercategory": "layout"
+        },
+        {
+            "id": 99,
+            "name": "[그룹] 문항 구분",
+            "objectColor": "#7A3245",
+            "supercategory": "layout"
+        },
+        {
+            "id": 100,
+            "name": "[단일] 문항 구분",
+            "objectColor": "#32517A",
+            "supercategory": "layout"
+        }
+    ],
+    "annotations": [
+        {
+            "id": 0,
+            "area": 38350.105,
+            "bbox": [
+                202.8990545769541,
+                350.53340292275567,
+                918.4850181190398,
+                41.75365344467633
+            ],
+            "html": "",
+            "text": "99",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.08181413491006213,
+                0.09989552662375482,
+                0.3703568621447741,
+                0.011899017795576042
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 99,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1,
+            "area": 40011.58,
+            "bbox": [
+                202.89905457695403,
+                402.7254697286012,
+                589.709130951429,
+                67.84968684759912
+            ],
+            "html": "",
+            "text": "다음 글을 읽고, 물음에 답하시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.0818141349100621,
+                0.1147692988682249,
+                0.23778593989976973,
+                0.01933590391781109
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 0,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2,
+            "area": 2244352.744,
+            "bbox": [
+                161.14973557154315,
+                475.7943632567849,
+                1043.7329751352722,
+                2150.3131524008354
+            ],
+            "html": "",
+            "text": "In technological design, an aspiration towards seamlessness aims to make the technological experience for humans blend seamlessly into our everyday lives. Essentially, this aspiration aims towards experiences where people are no longer aware of the technology, the interface or the differences between human-technology and human-human interaction. Considering the metaphor of seams in clothing, we can say that we aspire to seamless aesthetics by stitching the seams closely, pressing them flat and making sure they are hidden on the inside so that we wear clothing rather than pieces of fabric. When designers and engineers talk about technological seamlessness, they are often referring to ease of use and convenience. For example, in interface design, an aspiration towards seamlessness ensures the experience for the user flows and is not stressful or irritating. Most of us would have had experiences of poor interface designs or apps in workplaces that make things more complicated and irritating, and have longed for more seamless interfaces. Technological seamlessness can also include less visible screens in new technologies, or virtual reality technologies with a seamless technological design. The aim is to immerse the user experience such that the visual interaction might be described as inside the screen rather than a body interacting with a digital console or object as separate entities. Similarly, seamlessness in humanoid robotic design aims to make humanoids indistinguishable from a human body.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06497973208529965,
+                0.13559258001048302,
+                0.4208600706190614,
+                0.6127994164721674
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3,
+            "area": 18194.51,
+            "bbox": [
+                213.33638432830674,
+                2631.3267223382045,
+                871.5170342379523,
+                20.876826722338592
+            ],
+            "html": "",
+            "text": "99",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.08602273561625272,
+                0.7498793737070973,
+                0.35141815896691625,
+                0.0059495088977881425
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 99,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4,
+            "area": 43852.038,
+            "bbox": [
+                1319.6933379716957,
+                293.12212943632557,
+                600.1464607027817,
+                73.06889352818376
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"4\">위 글의 주제로 가장 적절한 것은?</span></div>",
+            "text": "윗글의 주제로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5321344104724579,
+                0.08353437715483772,
+                0.24199454060596037,
+                0.020823281142258124
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 5,
+            "area": 488963.841,
+            "bbox": [
+                1267.5066892149318,
+                366.19102296450933,
+                1064.6076346379775,
+                459.2901878914406
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"5\">① increasing need for human control over Al<br>② role of user frustration in innovation design<br>③ ethical issues in humanoid robot engineering<br>④ pursuit of invisible interaction through seamless design<br>⑤ comparison between real and digital environments</span></div>",
+            "text": "① increasing need for human control over Al\n② role of user frustration in innovation design\n③ ethical issues in humanoid robot engineering\n④ pursuit of invisible interaction through seamless design\n⑤ comparison between real and digital environments",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5110914069415048,
+                0.10435765829709585,
+                0.42927727203144256,
+                0.13088919575133673
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 6,
+            "area": 28435.731,
+            "bbox": [
+                1335.3493325987247,
+                898.5501043841335,
+                908.0476883676865,
+                31.315240083507433
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5384473115317439,
+                0.25607013519069066,
+                0.36614826143858326,
+                0.008924263346682084
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 7,
+            "area": 48046.581,
+            "bbox": [
+                1330.1306677230484,
+                1102.099164926931,
+                767.1437367244246,
+                62.63048016701464
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"7\">위 글에 관한 내용으로 일치하지 <u>않는</u> 것은?</span></div>",
+            "text": "윗글에 관한 내용으로 일치하지 <u>않는</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5363430111786486,
+                0.314077846944124,
+                0.3093321519050099,
+                0.017848526693364102
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8,
+            "area": 684336.926,
+            "bbox": [
+                1267.5066892149318,
+                1175.168058455115,
+                1048.9516400109485,
+                652.4008350730685
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"8\">① Seamless interfaces reduce the feeling of separation between users and technology.<br>② Good interface design aims to reduce stress and irritation.<br>③ Virtual reality seeks to immerse users inside the digital world.<br>④ The metaphor of hidden seams in clothing helps explain technological seamlessness.<br>⑤ Technological seams should be exposed to enhance transparency.</span></div>",
+            "text": "① Seamless interfaces reduce the feeling of separation between users and technology.\n② Good interface design aims to reduce stress and irritation.\n③ Virtual reality seeks to immerse users inside the digital world.\n④ The metaphor of hidden seams in clothing helps explain technological seamlessness.\n⑤ Technological seams should be exposed to enhance transparency.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5110914069415048,
+                0.33490112808638217,
+                0.42296437097215667,
+                0.1859221530558759
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9,
+            "area": 18739.256,
+            "bbox": [
+                1345.7866623500772,
+                1884.9801670146137,
+                897.610358616334,
+                20.876826722338365
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5426559122379344,
+                0.5371844306111752,
+                0.36193966073239275,
+                0.0059495088977880774
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 10,
+            "area": 146345.962,
+            "bbox": [
+                1272.7253540906086,
+                2025.8987473903967,
+                1038.5143102595957,
+                140.91858037578277
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"10\">위 글의 내용을 <u>한 문장</u>으로 요약하고자 한다. 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.</span></div>",
+            "text": "윗글의 내용을 <u>한 문장</u>으로 요약하고자 한다. 빈칸에 들어갈 말로 가장 적절한 것을 고르시오. ",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5131957072946002,
+                0.5773436156712445,
+                0.418755770265966,
+                0.040159185060069186
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11,
+            "area": 213921.68,
+            "bbox": [
+                1309.2560082203427,
+                2203.3517745302715,
+                975.8903317514796,
+                219.20668058455067
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"11\">Seamless technology design ______(A)______ interfaces to create smooth, natural, and ______(B)______ user experiences.</span></div>",
+            "text": "Seamless technology design ______(A)______ interfaces to create smooth, natural, and ______(B)______ user experiences.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5279258097662672,
+                0.6279144413024428,
+                0.39350416602882243,
+                0.0624698434267742
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12,
+            "area": 324886.402,
+            "bbox": [
+                1314.4746730960194,
+                2479.969728601253,
+                876.7356991136287,
+                370.56367432150273
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"12\"><table style=\"width: 100%; text-align: center;\"><tbody><tr><td style=\"width: 12%;\"></td><td style=\"width: 44%;\">(A)</td><td style=\"width: 44%;\">(B)</td></tr><tr><td style=\"width: 12%;\">①</td><td style=\"width: 44%;\">conceals</td><td style=\"width: 44%;\">detached </td></tr><tr><td style=\"width: 12%;\">②</td><td style=\"width: 44%;\">conceals</td><td style=\"width: 44%;\">immersive </td></tr><tr><td style=\"width: 12%;\">③</td><td style=\"width: 44%;\">reveals</td><td style=\"width: 44%;\">immersive </td></tr><tr><td style=\"width: 12%;\">④</td><td style=\"width: 44%;\">reveals</td><td style=\"width: 44%;\">isolated </td></tr><tr><td style=\"width: 12%;\">⑤</td><td style=\"width: 44%;\">exposes</td><td style=\"width: 44%;\">isolated</td></tr></tbody></table></span></div>",
+            "text": "(A)&&(B)\n① conceals&&detached \n② conceals&&immersive \n③ reveals&&immersive \n④ reveals&&isolated \n⑤ exposes&&isolated\n",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5300301101193626,
+                0.7067454341981342,
+                0.3535224593200116,
+                0.10560378293573745
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13,
+            "area": 28108.884,
+            "bbox": [
+                1330.1306677230484,
+                2928.821503131524,
+                897.6103586163338,
+                31.31524008350698
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5363430111786486,
+                0.8346598755005767,
+                0.36193966073239264,
+                0.008924263346681954
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14,
+            "area": 22334.578,
+            "bbox": [
+                1351.0053272257537,
+                2981.0135699373695,
+                855.8610396109225,
+                26.09603340292233
+            ],
+            "html": "",
+            "text": "99",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5447602125910297,
+                0.8495336477450469,
+                0.34510525790763,
+                0.0074368861222349186
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 99,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 15,
+            "area": 10329.165,
+            "bbox": [
+                162.93969786610904,
+                211.08466656055407,
+                1006.0555660509551,
+                10.266992286691845
+            ],
+            "html": "",
+            "text": "99",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06570149107504397,
+                0.06015521988046568,
+                0.4056675669560303,
+                0.0029259026180370037
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 99,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16,
+            "area": 34999.268,
+            "bbox": [
+                206.56965863872705,
+                238.748528647178,
+                592.8541728514556,
+                59.03520564847841
+            ],
+            "html": "",
+            "text": "다음 글을 읽고, 물음에 답하시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.0832942171930351,
+                0.06803890813541692,
+                0.23905410195623208,
+                0.016823940053712856
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 0,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17,
+            "area": 2311069.116,
+            "bbox": [
+                147.53999999999996,
+                306.3400000000006,
+                1075.35,
+                2149.1320179884747
+            ],
+            "html": "",
+            "text": "In technological design, an aspiration towards seamlessness aims to make the technological experience for humans blend seamlessly into our everyday lives. Essentially, this aspiration aims towards experiences where people are no longer aware of the technology, the interface or the differences between human-technology and human-human interaction. Considering the metaphor of seams in clothing, we can say that we aspire to seamless aesthetics by stitching the seams closely, pressing them flat and making sure they are hidden on the inside so that we wear clothing rather than pieces of fabric. When designers and engineers talk about technological seamlessness, they are often referring to ease of use and convenience. For example, in interface design, an aspiration towards seamlessness ensures the experience for the user flows and is not stressful or irritating. Most of us would have had experiences of poor interface designs or apps in workplaces that make things more complicated and irritating, and have longed for more seamless interfaces. Technological seamlessness can also include less visible screens in new technologies, or virtual reality technologies with a seamless technological design. The aim is to immerse the user experience such that the visual interaction might be described as inside the screen rather than a body interacting with a digital console or object as separate entities. Similarly, seamlessness in humanoid robotic design aims to __________ from a human body.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.05949193548387095,
+                0.08730122542034785,
+                0.4336088709677419,
+                0.6124628150437375
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 18,
+            "area": 8003.785,
+            "bbox": [
+                162.939697866109,
+                2486.3642502145676,
+                1039.4196537006046,
+                7.700244215018756
+            ],
+            "html": "",
+            "text": "99",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06570149107504394,
+                0.7085677544071153,
+                0.4191208281050825,
+                0.002194426963527716
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 99,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 19,
+            "area": 66111.924,
+            "bbox": [
+                1333.2492338845675,
+                300.3722841546749,
+                990.6567563665014,
+                66.73544986349731
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"19\">위 글의 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.</span></div>",
+            "text": "윗글의 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5376004975340998,
+                0.08560053694918066,
+                0.39945836950262154,
+                0.019018367017240613
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 20,
+            "area": 413904.387,
+            "bbox": [
+                1269.0875268660116,
+                431.27643580999654,
+                1047.1190585428317,
+                395.279203037638
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"20\">① separate machines clearly<br>② emphasize robotic features prominently<br>③ make robots distinguishable<br>④ make humanoids indistinguishable<br>⑤ highlight differences between robots and humans</span></div>",
+            "text": "① separate machines clearly\n② emphasize robotic features prominently\n③ make robots distinguishable\n④ make humanoids indistinguishable\n⑤ highlight differences between robots and humans",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5117288414782305,
+                0.12290579532915262,
+                0.422225426831787,
+                0.1126472507944252
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 21,
+            "area": 15335.648,
+            "bbox": [
+                1271.653995146754,
+                879.6017787173652,
+                995.7896929279859,
+                15.400488430037967
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5127637077204653,
+                0.25067021337058,
+                0.4015281019870911,
+                0.004388853927055562
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 22,
+            "area": 54544.314,
+            "bbox": [
+                1325.549829042341,
+                1033.6066630177436,
+                885.4315568560698,
+                61.60195372015164
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"22\">위 글에서 필자가 주장하는 바로 가장 적절한 것은?</span></div>",
+            "text": "윗글에서 필자가 주장하는 바로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5344958988073956,
+                0.29455875264113524,
+                0.3570288535709959,
+                0.017555415708222184
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 23,
+            "area": 688718.67,
+            "bbox": [
+                1263.97,
+                1100.913007713308,
+                1052.2500000000002,
+                654.52
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"23\">① Seamless technology hides interfaces to create stress-free user experiences.<br>② Technological seamlessness means users constantly notice the technology around them.<br>③ Designers aim to highlight technological seams for transparency and clarity.<br>④ Seamlessness in design complicates user interaction and causes frustration.<br>⑤ Technological seams should be made more visible to improve usability.</span></div>",
+            "text": "① Seamless technology hides interfaces to create stress-free user experiences.\n② Technological seamlessness means users constantly notice the technology around them.\n③ Designers aim to highlight technological seams for transparency and clarity.\n④ Seamlessness in design complicates user interaction and causes frustration.\n⑤ Technological seams should be made more visible to improve usability.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5096653225806451,
+                0.3137398141103756,
+                0.42429435483870975,
+                0.18652607580507266
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 24,
+            "area": 15928.521,
+            "bbox": [
+                1269.103536797658,
+                1823.8798661593964,
+                1034.2867171391192,
+                15.400488430038195
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5117352970958299,
+                0.519771976676944,
+                0.4170510956206126,
+                0.0043888539270556266
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 25,
+            "area": 115755.155,
+            "bbox": [
+                1335.831712096956,
+                2031.7864599649072,
+                980.3908832435327,
+                118.07041129695631
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"25\">다음 <u>다섯 명</u>의 학생 중, 위 글을 읽고 난 후의 반응으로 적절하지 <u>않은</u> 것은?</span></div>",
+            "text": "다음 <u>다섯 명</u>의 학생 중, 윗글을 읽고 난 후의 반응으로 적절하지 <u>않은</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5386418193939339,
+                0.5790215046921936,
+                0.3953189045336825,
+                0.033647880107425567
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 26,
+            "area": 800444.392,
+            "bbox": [
+                1274.2364733591423,
+                2165.2573596919024,
+                1075.3502096309956,
+                744.3569407851624
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"26\">① Mina: I feel amazed by how seamless technology can improve daily life.<br>② Jisoo: I think seamless design helps reduce user frustration and stress.<br>③ Taehyun: I learned that technology should disappear into the background for better experience.<br>④ Hana: The idea of hiding technological seams makes technology feel more natural and easy.<br>⑤ Minho: I believe users always want to see the technology they use clearly.</span></div>",
+            "text": "① Mina: I feel amazed by how seamless technology can improve daily life.\n② Jisoo: I think seamless design helps reduce user frustration and stress.\n③ Taehyun: I learned that technology should disappear into the background for better experience.\n④ Hana: The idea of hiding technological seams makes technology feel more natural and easy.\n⑤ Minho: I believe users always want to see the technology they use clearly.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5138050295802993,
+                0.617058238726675,
+                0.4336089554963692,
+                0.21212793980768377
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 27,
+            "area": 21817.726,
+            "bbox": [
+                1281.9358782013692,
+                2986.3315788590985,
+                1062.517868227284,
+                20.53398457338335
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5169096283070037,
+                0.8510491817780275,
+                0.4284346242851952,
+                0.00585180523607391
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 28,
+            "area": 21923.125,
+            "bbox": [
+                1271.6700050784002,
+                3040.5184619237534,
+                1067.6508047887683,
+                20.53398457338335
+            ],
+            "html": "",
+            "text": "99",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5127701633380646,
+                0.8664914397046889,
+                0.43050435676966464,
+                0.00585180523607391
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 99,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 29,
+            "area": 20820.914,
+            "bbox": [
+                200.77118039916058,
+                219.64127038024589,
+                831.4485083795589,
+                25.041736227045078
+            ],
+            "html": "",
+            "text": "99",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.08095612112869378,
+                0.06259369346829464,
+                0.3352614953143383,
+                0.007136430956695662
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 99,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 30,
+            "area": 32275.77,
+            "bbox": [
+                212.85761260898187,
+                250.59898815439337,
+                582.4214765173986,
+                55.41651769753307
+            ],
+            "html": "",
+            "text": "다음 글을 읽고, 물음에 답하시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.08582968250362172,
+                0.07141606957947945,
+                0.23484736956346716,
+                0.015792681019530654
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 0,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 31,
+            "area": 2959473.093,
+            "bbox": [
+                147.4760769093682,
+                307.1976112739053,
+                1072.1363885239784,
+                2760.351317440402
+            ],
+            "html": "",
+            "text": "\"Hi! I'm over here!\" shouted Laura, waving brightly at Cathy at the entrance of Darlingdale Farmer's Market. Seeing her friend, Cathy rushed over in delight. Cathy had recently moved into Laura's town, and this was going to be her first experience at a real farmer's market. Born and raised in a big city, where large supermarkets were more common, Cathy had never had a chance to buy freshly-picked fruits or vegetables.\n\nEntering the market, Laura said, \"Let me show you around. Are you ready?\" Cathy answered excitedly, \"Absolutely! I'm going to buy some fresh peaches!\" The market was already crowded with people of all ages. \"Cathy, you can taste the best of the season here,\" said Laura. Cathy smiled and began to look around. Meanwhile, Laura found some strawberry jam for sale. She walked over to buy some. Curious to explore more, Cathy said, \"While you're buying jam, I'll look around the market and get some peaches.\"\n\nWandering away from Laura, Cathy began to search for peaches. Cathy walked past booths of fresh flowers and hand-made soaps, which smelled heavenly. From a fruit stand, she picked out some beautiful, ripe peaches. The fruit seller told her, \"Those peaches are a great choice because they're only here until this week. If you miss them now, you'll have to wait another year for the season.\" Hearing that, Cathy said, \"Oh, I'll get some more then! They're really cheap!\" She bought two bags of peaches.\n\nCarrying the bags of peaches, Cathy came back and noticed Laura holding a box of blueberries and jars of jam. \"Cathy, those peaches look delicious! I bought some blueberries. Would you like to go to my place and make blueberry pancakes together?\" Laura asked. \"Yes, that's an excellent idea!\" replied Cathy happily. As they walked out of the market, Cathy thanked her friend for the special experience, saying \"I really love this place! Thank you for the wonderful day.\"",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.05946616004410008,
+                0.08754562874719445,
+                0.432313059888701,
+                0.786648993285951
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 32,
+            "area": 30213.924,
+            "bbox": [
+                184.03706811874082,
+                3053.2403921765226,
+                987.1713059355968,
+                30.60656649972134
+            ],
+            "html": "",
+            "text": "99",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07420849520916968,
+                0.870116954168288,
+                0.39805294594177293,
+                0.00872230450262791
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 99,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 33,
+            "area": 36676.721,
+            "bbox": [
+                1336.977039782571,
+                309.33690925330933,
+                621.725993337591,
+                58.991776903825496
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"33\">위 글의 제목으로 가장 적절한 것은?</span></div>",
+            "text": "윗글의 제목으로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5391036450736173,
+                0.08815528904340533,
+                0.25069596505548025,
+                0.01681156366595198
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 34,
+            "area": 299833.545,
+            "bbox": [
+                1268.4610767841293,
+                373.4001028053483,
+                962.1444277569474,
+                311.63049526989425
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"34\">① Cathy&apos;s First Cooking Class<br>② How to Buy the Best Peaches<br>③ Exploring Supermarkets in the City<br>④ Why Laura Prefers Homemade Jam<br>⑤ A Day of Friendship at the Farmers&apos; Market</span></div>",
+            "text": "① Cathy's First Cooking Class\n② How to Buy the Best Peaches\n③ Exploring Supermarkets in the City\n④ Why Laura Prefers Homemade Jam\n⑤ A Day of Friendship at the Farmers' Market",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5114762406387618,
+                0.10641211251221097,
+                0.3879614628052207,
+                0.08880891857221267
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 35,
+            "area": 15366.16,
+            "bbox": [
+                1287.876899650647,
+                735.9967839331017,
+                920.4329641258655,
+                16.69449081803009
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5193052014720351,
+                0.20974544996668615,
+                0.3711423242443006,
+                0.004757620637797119
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 36,
+            "area": 50588.465,
+            "bbox": [
+                1328.7999999999997,
+                818.3999999999999,
+                756.2080079933808,
+                66.89755247936228
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"36\">위 글에 관한 내용으로 일치하지 <u>않는</u> 것은?</span></div>",
+            "text": "윗글에 관한 내용으로 일치하지 <u>않는</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5358064516129031,
+                0.2332288401253918,
+                0.3049225838682987,
+                0.01906456326000635
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 37,
+            "area": 671963.864,
+            "bbox": [
+                1285.1456622365622,
+                890.5105359692768,
+                1023.3212410825336,
+                656.6499721758485
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"37\">① Cathy had never bought freshly-picked fruits before.<br>② The market was already crowded when the girls arrived.<br>③ Laura mentioned that the market had seasonal treats perfect for this time of year.<br>④ Laura bought jam while Cathy chose blueberries.<br>⑤ Cathy and Laura planned to make pancakes together.</span></div>",
+            "text": "① Cathy had never bought freshly-picked fruits before.\n② The market was already crowded when the girls arrived.\n③ Laura mentioned that the market had seasonal treats perfect for this time of year.\n④ Laura bought jam while Cathy chose blueberries.\n⑤ Cathy and Laura planned to make pancakes together.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5182038960631299,
+                0.2537790071157814,
+                0.41262953269457,
+                0.1871330784200195
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 38,
+            "area": 19660.328,
+            "bbox": [
+                1287.9264264786339,
+                1599.3945047196476,
+                1009.4174198721735,
+                19.476905954368476
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5193251719671911,
+                0.4557978069876454,
+                0.4070231531742635,
+                0.005550557410763316
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 39,
+            "area": 114878.236,
+            "bbox": [
+                1333.1503820894227,
+                1683.068743437584,
+                973.680075772952,
+                117.9835538076511
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"39\">위 글을 읽고 추론할 수 있는 내용으로 적절하지 <u>않은</u> 것은?</span></div>",
+            "text": "윗글을 읽고 추론할 수 있는 내용으로 적절하지 <u>않은</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5375606379392833,
+                0.4796434150577327,
+                0.39261293377941614,
+                0.03362312733190399
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 40,
+            "area": 681449.721,
+            "bbox": [
+                1282.3648979944899,
+                1812.998826481587,
+                1051.1288835032549,
+                648.3027267668335
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"40\">① Cathy was unfamiliar with outdoor local markets.<br>② Laura and Cathy were unlikely to have become close friends before visiting the market.<br>③ The market offered both food and handmade goods.<br>④ Laura is likely to visit the market more often than Cathy.<br>⑤ Laura seems to care about giving Cathy a good experience.</span></div>",
+            "text": "① Cathy was unfamiliar with outdoor local markets.\n② Laura and Cathy were unlikely to have become close friends before visiting the market.\n③ The market offered both food and handmade goods.\n④ Laura is likely to visit the market more often than Cathy.\n⑤ Laura seems to care about giving Cathy a good experience.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5170826201590685,
+                0.516671081926927,
+                0.4238422917351834,
+                0.18475426810112097
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 41,
+            "area": 22468.946,
+            "bbox": [
+                1290.757463752157,
+                2511.11062116637,
+                1009.4174198721735,
+                22.25932109070618
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5204667192549021,
+                0.7156200117316529,
+                0.4070231531742635,
+                0.006343494183729319
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 42,
+            "area": 46090.742,
+            "bbox": [
+                1357.4455325304366,
+                2602.958249550216,
+                720.217938696675,
+                63.995548135781064
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"42\">위 글을 읽고 답할 수 <u>없는</u> 질문을 고르시오.</span></div>",
+            "text": "윗글을 읽고 답할 수 <u>없는</u> 질문을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5473570695687244,
+                0.741794884454322,
+                0.29041045915188507,
+                0.01823754577822202
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 43,
+            "area": 609477.425,
+            "bbox": [
+                1268.4886879009794,
+                2671.1231448097724,
+                1052.2891094133363,
+                579.1919914193777
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"43\">① What did the fruit seller say about the peaches?<br>② What kind of products did Cathy pass while exploring?<br>③ How long did Cathy and Laura stay at the market?<br>④ What did Laura plan to make with the blueberries?<br>⑤ What did Cathy say about her experience?</span></div>",
+            "text": "① What did the fruit seller say about the peaches?\n② What kind of products did Cathy pass while exploring?\n③ How long did Cathy and Laura stay at the market?\n④ What did Laura plan to make with the blueberries?\n⑤ What did Cathy say about her experience?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5114873741536207,
+                0.7612206169306847,
+                0.42431012476344204,
+                0.16505898872025582
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 44,
+            "area": 23149.824,
+            "bbox": [
+                1271.2418410262017,
+                3298.6494199384497,
+                1040.0058265349662,
+                22.25932109070709
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5125975165428233,
+                0.9400539811736819,
+                0.419357188118938,
+                0.006343494183729578
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 45,
+            "area": 14314.269,
+            "bbox": [
+                1271.1853534498955,
+                3333.2198604255655,
+                889.7113352934498,
+                16.088666428316174
+            ],
+            "html": "",
+            "text": "99",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5125747392943127,
+                0.9499059163367243,
+                0.35875457068284267,
+                0.0045849719088960315
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 99,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 46,
+            "area": 46141.51,
+            "bbox": [
+                235.9400000000001,
+                308.4,
+                823.7196196518041,
+                56.01603823487943
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"46\">다음 글의 밑줄 친 부분 중, 어법상 <u>틀린</u> 것은?</span></div>",
+            "text": "다음 글의 밑줄 친 부분 중, 어법상 <u>틀린</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.09513709677419359,
+                0.08788828726132801,
+                0.33214500792411455,
+                0.015963533267278264
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 47,
+            "area": 1312646.773,
+            "bbox": [
+                163.35715045669156,
+                382.88,
+                1043.6799999999998,
+                1257.71
+            ],
+            "html": "<div class=\"contents question\"><span class=\"47\">In technological design, an aspiration towards seamlessness aims ① <u>to make</u> the technological experience for humans blend seamlessly into our everyday lives. Essentially, this aspiration aims towards experiences ② <u>where</u> people are no longer aware of the technology, the interface or the differences between human-technology and human-human interaction. ③ <u>Consider</u> the metaphor of seams in clothing, we can say that we aspire to seamless aesthetics by stitching the seams closely, pressing them flat and making sure they ④ <u>are hidden</u> on the inside so that we wear clothing rather than pieces of fabric. When designers and engineers talk about technological seamlessness, they are often referring to ease of use and convenience. For example, in interface design, an aspiration towards seamlessness ⑤ <u>ensures</u> the experience for the user flows and is not stressful or irritating.</span></div>",
+            "text": "In technological design, an aspiration towards seamlessness aims ① <u>to make</u> the technological experience for humans blend seamlessly into our everyday lives. Essentially, this aspiration aims towards experiences ② <u>where</u> people are no longer aware of the technology, the interface or the differences between human-technology and human-human interaction. ③ <u>Consider</u> the metaphor of seams in clothing, we can say that we aspire to seamless aesthetics by stitching the seams closely, pressing them flat and making sure they ④ <u>are hidden</u> on the inside so that we wear clothing rather than pieces of fabric. When designers and engineers talk about technological seamlessness, they are often referring to ease of use and convenience. For example, in interface design, an aspiration towards seamlessness ⑤ <u>ensures</u> the experience for the user flows and is not stressful or irritating.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06586981873253692,
+                0.10911370760900542,
+                0.42083870967741926,
+                0.35842405243659164
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 48,
+            "area": 35591.518,
+            "bbox": [
+                163.00272078950934,
+                1715.8275585260856,
+                1044.1026017001566,
+                34.088142196250146
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06572690354415699,
+                0.4889790705403493,
+                0.4210091135887728,
+                0.009714489084140823
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 49,
+            "area": 50345.349,
+            "bbox": [
+                244.858924592356,
+                1905.5764083833376,
+                815.97,
+                61.700000000000045
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"49\">다음 글의 밑줄 친 부분 중, 어법상 <u>틀린</u> 것은?</span></div>",
+            "text": "다음 글의 밑줄 친 부분 중, 어법상 <u>틀린</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.09873343733562742,
+                0.543053977880689,
+                0.3290201612903226,
+                0.017583357081789697
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 50,
+            "area": 959857.825,
+            "bbox": [
+                170.30141679510598,
+                1977.57,
+                1031.85,
+                930.2300000000002
+            ],
+            "html": "<div class=\"contents question\"><span class=\"50\">Most of us ① <u>would have had</u> experiences of poor interface designs or apps in workplaces that ② <u>make</u> things more complicated and irritating, and have longed for more seamless interfaces. Technological seamlessness can also include less visible screens in new technologies, or virtual reality technologies with a seamless technological design. The aim is to immerse the user experience such ③ <u>that</u> the visual interaction might be described as inside the screen rather than a body ④ <u>interacted</u> with a digital console or object as separate entities. Similarly, seamlessness in humanoid robotic design aims to make humanoids ⑤ <u>indistinguishable</u> from a human body.</span></div>",
+            "text": "Most of us ① <u>would have had</u> experiences of poor interface designs or apps in workplaces that ② <u>make</u> things more complicated and irritating, and have longed for more seamless interfaces. Technological seamlessness can also include less visible screens in new technologies, or virtual reality technologies with a seamless technological design. The aim is to immerse the user experience such ③ <u>that</u> the visual interaction might be described as inside the screen rather than a body ④ <u>interacted</u> with a digital console or object as separate entities. Similarly, seamlessness in humanoid robotic design aims to make humanoids ⑤ <u>indistinguishable</u> from a human body.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06866992612705886,
+                0.5635708178968367,
+                0.4160685483870967,
+                0.26509831860929045
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 51,
+            "area": 53001.477,
+            "bbox": [
+                179.63799005222404,
+                2993.228049359278,
+                1015.219208730432,
+                52.206929283341196
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07243467340815485,
+                0.8530145481217664,
+                0.40936258416549676,
+                0.01487800777524685
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 52,
+            "area": 48344.274,
+            "bbox": [
+                1351.4100000000003,
+                305.50442955823917,
+                827.7008557282861,
+                58.40790581150287
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"52\">다음 글의 밑줄 친 부분 중, 어법상 <u>틀린</u> 것은?</span></div>",
+            "text": "다음 글의 밑줄 친 부분 중, 어법상 <u>틀린</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5449233870967743,
+                0.08706310332238221,
+                0.3337503450517283,
+                0.01664517122014901
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 53,
+            "area": 1375358.258,
+            "bbox": [
+                1279.4797388583952,
+                368.6400000000002,
+                1034.9599354228671,
+                1328.9
+            ],
+            "html": "<div class=\"contents question\"><span class=\"53\">&quot;Hi! I&apos;m over here!&quot; shouted Laura, waving brightly at Cathy at the entrance of Darlingdale Farmer&apos;s Market. ① <u>Seeing</u> her friend, Cathy rushed over in delight. Cathy had recently moved into Laura&apos;s town, and this was going to be her first experience at a real farmer&apos;s market. Born and raised in a big city, ② <u>where</u> large supermarkets were more common, Cathy had never had a chance to buy freshly-picked fruits or vegetables.<br>Entering the market, Laura said, &quot;Let me show you around. Are you ready?&quot; Cathy answered ③ <u>excited</u>, &quot;Absolutely! I&apos;m going to buy some fresh peaches!&quot; The market was already crowded with people of all ages. &quot;Cathy, you can taste the best of the season here,&quot; said Laura. Cathy smiled and began ④ <u>to look</u> around. Meanwhile, Laura found some strawberry jam for sale. She walked over to buy some. Curious to explore more, Cathy said, &quot; ⑤ <u>While</u> you&apos;re buying jam, l&apos;ll look around the market and get some peaches.&quot;</span></div>",
+            "text": "\"Hi! I'm over here!\" shouted Laura, waving brightly at Cathy at the entrance of Darlingdale Farmer's Market. ① <u>Seeing</u> her friend, Cathy rushed over in delight. Cathy had recently moved into Laura's town, and this was going to be her first experience at a real farmer's market. Born and raised in a big city, ② <u>where</u> large supermarkets were more common, Cathy had never had a chance to buy freshly-picked fruits or vegetables.\nEntering the market, Laura said, \"Let me show you around. Are you ready?\" Cathy answered ③ <u>excited</u>, \"Absolutely! I'm going to buy some fresh peaches!\" The market was already crowded with people of all ages. \"Cathy, you can taste the best of the season here,\" said Laura. Cathy smiled and began ④ <u>to look</u> around. Meanwhile, Laura found some strawberry jam for sale. She walked over to buy some. Curious to explore more, Cathy said, \" ⑤ <u>While</u> you're buying jam, l'll look around the market and get some peaches.\"",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5159192495396755,
+                0.10505557138785986,
+                0.4173225546059948,
+                0.3787118837275577
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 54,
+            "area": 44985.961,
+            "bbox": [
+                1270.7614386877356,
+                1816.1990982439486,
+                1053.171328682972,
+                42.71476032273381
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.512403805922474,
+                0.517583100098019,
+                0.42466585833990805,
+                0.012172915452474726
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 55,
+            "area": 121108.869,
+            "bbox": [
+                241.63884160897055,
+                299.51546750296063,
+                962.6262795804521,
+                125.81089050520933
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"55\">다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 <u>않은</u> 것은?</span></div>",
+            "text": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 <u>않은</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.0974350167778107,
+                0.08535636007493891,
+                0.38815575789534357,
+                0.03585377329872024
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 56,
+            "area": 1476477.773,
+            "bbox": [
+                153.23438736178628,
+                435.1553338288894,
+                1060.8534509662124,
+                1391.782976213878
+            ],
+            "html": "<div class=\"contents question\"><span class=\"56\">&quot;Hi! I&apos;m over here!&quot; shouted Laura, waving ① <u>brightly</u> at Cathy at the entrance of Darlingdale Farmer&apos;s Market. Seeing her friend, Cathy rushed over in delight. Cathy had recently moved into Laura&apos;s town, and this was going to be her first experience at a real farmer&apos;s market. Born and raised in a big city, where large supermarkets were more ② <u>rare</u>, Cathy had never had a chance to buy freshly-picked fruits or vegetables.<br>Entering the market, Laura said, &quot;Let me show you around. Are you ready?&quot; Cathy answered ③ <u>excitedly</u>, &quot;Absolutely! I&apos;m going to buy some fresh peaches!&quot; The market was already ④ <u>packed</u> with people of all ages. &quot;Cathy, you can taste the best of the season here,&quot; said Laura. Cathy smiled and began to look around. Meanwhile, Laura found some strawberry jam for sale. She walked over to buy some. ⑤ <u>Curious</u> to explore more, Cathy said, &quot;While you&apos;re buying jam, l&apos;ll look around the market and get some peaches.&quot;</span></div>",
+            "text": "\"Hi! I'm over here!\" shouted Laura, waving ① <u>brightly</u> at Cathy at the entrance of Darlingdale Farmer's Market. Seeing her friend, Cathy rushed over in delight. Cathy had recently moved into Laura's town, and this was going to be her first experience at a real farmer's market. Born and raised in a big city, where large supermarkets were more ② <u>rare</u>, Cathy had never had a chance to buy freshly-picked fruits or vegetables.\nEntering the market, Laura said, \"Let me show you around. Are you ready?\" Cathy answered ③ <u>excitedly</u>, \"Absolutely! I'm going to buy some fresh peaches!\" The market was already ④ <u>packed</u> with people of all ages. \"Cathy, you can taste the best of the season here,\" said Laura. Cathy smiled and began to look around. Meanwhile, Laura found some strawberry jam for sale. She walked over to buy some. ⑤ <u>Curious</u> to explore more, Cathy said, \"While you're buying jam, l'll look around the market and get some peaches.\"",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06178805942007511,
+                0.12401120941262166,
+                0.4277634882928276,
+                0.39663236711709265
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 57,
+            "area": 20705.972,
+            "bbox": [
+                163.1062754678719,
+                1866.2542133256459,
+                1053.3128150696307,
+                19.65795164143924
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06576865946285158,
+                0.5318478806855645,
+                0.4247229093022704,
+                0.005602152077925119
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 58,
+            "area": 124931.184,
+            "bbox": [
+                1344.8465578362486,
+                301.4812626671045,
+                962.9165660151473,
+                129.74248083349715
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"58\">다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 <u>않은</u> 것은?</span></div>",
+            "text": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 <u>않은</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.542276837837197,
+                0.0859165752827314,
+                0.3882728088770755,
+                0.03697420371430526
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 59,
+            "area": 1517021.521,
+            "bbox": [
+                1254.4503087817654,
+                439.08692415717724,
+                1080.8247169557774,
+                1403.577747198742
+            ],
+            "html": "<div class=\"contents question\"><span class=\"59\">Wandering away from Laura, Cathy began to search for peaches. Cathy walked past booths of fresh flowers and hand-made soaps, which smelled ① <u>unpleasant</u>. From a fruit stand, she picked out some beautiful, ripe peaches. The fruit seller told her, &quot;Those peaches are a great choice because they&apos;re only here until this week. If you miss them now, you&apos;ll have to wait another year for the season.&quot; Hearing that, Cathy said, &quot;Oh, l&apos;ll get some more then! They&apos;re really ② <u>inexpensive</u>!&quot; She bought two bags of peaches. <br>Carrying the bags of peaches, Cathy came back and noticed Laura holding a box of blueberries and jars of jam. &quot;Cathy, those peaches look ③ <u>tasty</u>! I bought some blueberries. Would you like to go to my place and make blueberry pancakes together?&quot; Laura asked. &quot;Yes, that&apos;s a(n) ④ <u>excellent</u> idea!&quot; replied Cathy happily. As they walked out of the market, Cathy thanked her friend for the special experience, saying &quot;I really love this place! Thank you for the ⑤ <u>wonderful</u> day.&quot;</span></div>",
+            "text": "Wandering away from Laura, Cathy began to search for peaches. Cathy walked past booths of fresh flowers and hand-made soaps, which smelled ① <u>unpleasant</u>. From a fruit stand, she picked out some beautiful, ripe peaches. The fruit seller told her, \"Those peaches are a great choice because they're only here until this week. If you miss them now, you'll have to wait another year for the season.\" Hearing that, Cathy said, \"Oh, l'll get some more then! They're really ② <u>inexpensive</u>!\" She bought two bags of peaches. \nCarrying the bags of peaches, Cathy came back and noticed Laura holding a box of blueberries and jars of jam. \"Cathy, those peaches look ③ <u>tasty</u>! I bought some blueberries. Would you like to go to my place and make blueberry pancakes together?\" Laura asked. \"Yes, that's a(n) ④ <u>excellent</u> idea!\" replied Cathy happily. As they walked out of the market, Cathy thanked her friend for the special experience, saying \"I really love this place! Thank you for the ⑤ <u>wonderful</u> day.\"",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5058267374120022,
+                0.1251316398282067,
+                0.4358164181273296,
+                0.3999936583638478
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 60,
+            "area": 25032.593,
+            "bbox": [
+                1262.3108521778072,
+                1901.638526280236,
+                1061.1733584656727,
+                23.58954196972695
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5089963113620191,
+                0.5419317544258295,
+                0.42789248325228735,
+                0.006722582493510103
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 61,
+            "area": 119103.417,
+            "bbox": [
+                224.17755458140687,
+                304.3080772812435,
+                979.9916169067328,
+                121.53513908742804
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"61\">주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.</span></div>",
+            "text": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.09039417523443825,
+                0.08672216508442392,
+                0.3951579100430374,
+                0.034635263347799386
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 62,
+            "area": 245067.298,
+            "bbox": [
+                197.06155349502006,
+                455.1027692108688,
+                982.3539959933744,
+                249.46943631055217
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"62\">In technological design, an aspiration towards seamlessness aims to make the technological experience for humans blend seamlessly into our everyday lives.</span></div>",
+            "text": "In technological design, an aspiration towards seamlessness aims to make the technological experience for humans blend seamlessly into our everyday lives.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07946030382863713,
+                0.12969585899426297,
+                0.3961104822553929,
+                0.07109416822757257
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 63,
+            "area": 718761.238,
+            "bbox": [
+                163.35571281402247,
+                760.271760342752,
+                1041.126613399516,
+                690.3687113679746
+            ],
+            "html": "",
+            "text": "(A) Technological seamlessness can also include less visible screens in new technologies, or virtual reality technologies with a seamless technological design. The aim is to immerse the user experience such that the visual interaction might be described as inside the screen rather than a body interacting with a digital console or object as separate entities. Similarly, seamlessness in humanoid robotic design aims to make humanoids indistinguishable from a human body.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06586923903791228,
+                0.2166633685787267,
+                0.41980911830625645,
+                0.19674229449073086
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 64,
+            "area": 694465.084,
+            "bbox": [
+                164.99,
+                1461.1799999999998,
+                1040.75,
+                667.27368134282
+            ],
+            "html": "",
+            "text": "(B) Essentially, this aspiration aims towards experiences where people are no longer aware of the technology, the interface or the differences between human-technology and human-human interaction. Considering the metaphor of seams in clothing, we can say that we aspire to seamless aesthetics by stitching the seams closely, pressing them flat and making sure they are hidden on the inside so that we wear clothing rather than pieces of fabric.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06652822580645161,
+                0.41640923339982894,
+                0.41965725806451615,
+                0.19016063874118555
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 65,
+            "area": 708681.511,
+            "bbox": [
+                164.98953669717105,
+                2141.4976735031555,
+                1042.9344721670896,
+                679.5072265220756
+            ],
+            "html": "",
+            "text": "(C) When designers and engineers talk about technological seamlessness, they are often referring to ease of use and convenience. For example, in interface design, an aspiration towards seamlessness ensures the experience for the user flows and is not stressful or irritating. Most of us would have had experiences of poor interface designs or apps in workplaces that make things more complicated and irritating, and have longed for more seamless interfaces.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06652803899079478,
+                0.610287168282461,
+                0.42053809361576194,
+                0.1936469725055787
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 66,
+            "area": 211444.859,
+            "bbox": [
+                164.98965873418263,
+                2875.538395932992,
+                1043.870243763928,
+                202.55856514571315
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"66\"><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 50%;\">① (A) - (C) - (B)</td></tr><tr><td style=\"width: 50%;\">② (B) - (A) - (C)</td></tr><tr><td style=\"width: 50%;\">③ (B) - (C) - (A)</td></tr><tr><td style=\"width: 50%;\">④ (C) - (A) - (B)</td></tr><tr><td style=\"width: 50%;\">⑤ (C) - (B) - (A)</td></tr></tbody></table></span></div>",
+            "text": "① (A) - (C) - (B)\n② (B) - (A) - (C)\n③ (B) - (C) - (A)\n④ (C) - (A) - (B)\n⑤ (C) - (B) - (A)",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06652808819926719,
+                0.8194751769544006,
+                0.4209154208725516,
+                0.0577254389129989
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 67,
+            "area": 27288.026,
+            "bbox": [
+                164.98953669717116,
+                3134.539492415335,
+                1044.1223246410834,
+                26.13489332777226
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06652803899079482,
+                0.8932856917684056,
+                0.4210170663875336,
+                0.00744796048098383
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 68,
+            "area": 120618.246,
+            "bbox": [
+                1325.531438952112,
+                305.4385283419709,
+                992.4557392203321,
+                121.53513908742815
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"68\">글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 것을 고르시오.</span></div>",
+            "text": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5344884834484323,
+                0.08704432269648643,
+                0.40018376581465004,
+                0.034635263347799414
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 69,
+            "area": 246548.962,
+            "bbox": [
+                1308.8572050938483,
+                461.70751906582393,
+                997.796078155302,
+                247.09353691711829
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"69\">For example, in interface design, an aspiration towards seamlessness ensures the experience for the user flows and is not stressful or irritating.</span></div>",
+            "text": "For example, in interface design, an aspiration towards seamlessness ensures the experience for the user flows and is not stressful or irritating.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.527765002053971,
+                0.13157809035788656,
+                0.4023371282884282,
+                0.07041708091111949
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 70,
+            "area": 1992154.176,
+            "bbox": [
+                1267.8600000000001,
+                762.4600000000002,
+                1052.44,
+                1892.8909736220376
+            ],
+            "html": "<div class=\"contents question\"><span class=\"70\">In technological design, an aspiration towards seamlessness aims to make the technological experience for humans blend seamlessly into our everyday lives. Essentially, this aspiration aims towards experiences where people are no longer aware of the technology, the interface or the differences between human-technology and human-human interaction. Considering the metaphor of seams in clothing, we can say that we aspire to seamless aesthetics by stitching the seams closely, pressing them flat and making sure they are hidden on the inside so that we wear clothing rather than pieces of fabric. (①) When designers and engineers talk about technological seamlessness, they are often referring to ease of use and convenience. (②) Most of us would have had experiences of poor interface designs or apps in workplaces that make things more complicated and irritating, and have longed for more seamless interfaces. (③) Technological seamlessness can also include less visible screens in new technologies, or virtual reality technologies with a seamless technological design. (④) The aim is to immerse the user experience such that the visual interaction might be described as inside the screen rather than a body interacting with a digital console or object as separate entities. (⑤) Similarly, seamlessness in humanoid robotic design aims to make humanoids indistinguishable from a human body.</span></div>",
+            "text": "In technological design, an aspiration towards seamlessness aims to make the technological experience for humans blend seamlessly into our everyday lives. Essentially, this aspiration aims towards experiences where people are no longer aware of the technology, the interface or the differences between human-technology and human-human interaction. Considering the metaphor of seams in clothing, we can say that we aspire to seamless aesthetics by stitching the seams closely, pressing them flat and making sure they are hidden on the inside so that we wear clothing rather than pieces of fabric. (①) When designers and engineers talk about technological seamlessness, they are often referring to ease of use and convenience. (②) Most of us would have had experiences of poor interface designs or apps in workplaces that make things more complicated and irritating, and have longed for more seamless interfaces. (③) Technological seamlessness can also include less visible screens in new technologies, or virtual reality technologies with a seamless technological design. (④) The aim is to immerse the user experience such that the visual interaction might be described as inside the screen rather than a body interacting with a digital console or object as separate entities. (⑤) Similarly, seamlessness in humanoid robotic design aims to make humanoids indistinguishable from a human body.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.511233870967742,
+                0.2172869763465375,
+                0.4243709677419355,
+                0.5394388639561235
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 71,
+            "area": 27505.336,
+            "bbox": [
+                1269.726302217381,
+                2709.808469750953,
+                1052.4372919590442,
+                26.13489332777226
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5119864121844279,
+                0.7722452179398556,
+                0.4243698757899372,
+                0.00744796048098383
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 72,
+            "area": 130058.063,
+            "bbox": [
+                202.8990545769541,
+                301.8207939641709,
+                996.7649912541854,
+                130.48016701461376
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"72\">글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 것을 고르시오.</span></div>",
+            "text": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 것을 고르시오. ",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.08181413491006213,
+                0.08601333541298686,
+                0.40192136744120377,
+                0.03718443061117519
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 73,
+            "area": 125509.435,
+            "bbox": [
+                192.46172482560144,
+                458.3969943817074,
+                1001.9836561298617,
+                125.26096033402928
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"73\">Meanwhile, Laura found some strawberry jam for sale.</span></div>",
+            "text": "Meanwhile, Laura found some strawberry jam for sale.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07760553420387155,
+                0.13063465214639708,
+                0.4040256677942991,
+                0.035697053386728204
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 74,
+            "area": 1413996.703,
+            "bbox": [
+                150.71240582019038,
+                630.6308148409977,
+                1054.1703048866257,
+                1341.33611691023
+            ],
+            "html": "<div class=\"contents question\"><span class=\"74\">&quot;Hi! I&apos;m over here!&quot; shouted Laura, waving brightly at Cathy at the entrance of Darlingdale Farmer&apos;s Market. Seeing her friend, Cathy rushed over in delight. Cathy had recently moved into Laura&apos;s town, and this was going to be her first experience at a real farmer&apos;s market. Born and raised in a big city, where large supermarkets were more common, Cathy had never had a chance to buy freshly-picked fruits or vegetables.<br>Entering the market, Laura said, &quot;Let me show you around. Are you ready?&quot; Cathy answered excitedly, &quot;Absolutely! I&apos;m going to buy some fresh peaches!&quot; (①) The market was already crowded with people of all ages. (②) &quot;Cathy, you can taste the best of the season here,&quot; said Laura. (③) Cathy smiled and began to look around. (④) She walked over to buy some. (⑤) Curious to explore more, Cathy said, &quot;While you&apos;re buying jam, I&apos;ll look around the market and get some peaches.&quot;</span></div>",
+            "text": "\"Hi! I'm over here!\" shouted Laura, waving brightly at Cathy at the entrance of Darlingdale Farmer's Market. Seeing her friend, Cathy rushed over in delight. Cathy had recently moved into Laura's town, and this was going to be her first experience at a real farmer's market. Born and raised in a big city, where large supermarkets were more common, Cathy had never had a chance to buy freshly-picked fruits or vegetables.\nEntering the market, Laura said, \"Let me show you around. Are you ready?\" Cathy answered excitedly, \"Absolutely! I'm going to buy some fresh peaches!\" (①) The market was already crowded with people of all ages. (②) \"Cathy, you can taste the best of the season here,\" said Laura. (③) Cathy smiled and began to look around. (④) She walked over to buy some. (⑤) Curious to explore more, Cathy said, \"While you're buying jam, I'll look around the market and get some peaches.\"",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06077113137910903,
+                0.17971810055314838,
+                0.4250686713252523,
+                0.38225594668288115
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 75,
+            "area": 34128.325,
+            "bbox": [
+                182.02439507424867,
+                2090.2689564810416,
+                934.1410127460689,
+                36.534446764091626
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07339693349768092,
+                0.5956879328814596,
+                0.37666976320406004,
+                0.01041164057112899
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 76,
+            "area": 125509.435,
+            "bbox": [
+                1314.4746730960194,
+                307.0400006447554,
+                1001.983656129861,
+                125.26096033402922
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"76\">글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 것을 고르시오.</span></div>",
+            "text": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 것을 고르시오. ",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5300301101193626,
+                0.08750071263743386,
+                0.40402566779429877,
+                0.03569705338672819
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 77,
+            "area": 193493.712,
+            "bbox": [
+                1298.8186784689901,
+                458.39699438170743,
+                1001.9836561298621,
+                193.1106471816285
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"77\">Carrying the bags of peaches, Cathy came back and noticed Laura holding a box of blueberries and jars of jam.</span></div>",
+            "text": "Carrying the bags of peaches, Cathy came back and noticed Laura holding a box of blueberries and jars of jam.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5237172090600767,
+                0.1306346521463971,
+                0.4040256677942992,
+                0.05503295730453933
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 78,
+            "area": 1342474.953,
+            "bbox": [
+                1259.0944225305861,
+                703.7,
+                1054.17,
+                1273.49
+            ],
+            "html": "<div class=\"contents question\"><span class=\"78\">Wandering away from Laura, Cathy began to search for peaches. Cathy walked past booths of fresh flowers and hand-made soaps, which smelled heavenly. From a fruit stand, she picked out some beautiful, ripe peaches. The fruit seller told her, &quot;Those peaches are a great choice because they&apos;re only here until this week. If you miss them now, you&apos;ll have to wait another year for the season.&quot; (①) Hearing that, Cathy said, &quot;Oh, I&apos;ll get some more then! They&apos;re really cheap!&quot; (②) She bought two bags of peaches. (③) &quot;Cathy, those peaches look delicious! I bought some blueberries. Would you like to go to my place and make blueberry pancakes together?&quot; (④) Laura asked. &quot;Yes, that&apos;s an excellent idea!&quot; replied Cathy happily. (⑤) As they walked out of the market, Cathy thanked her friend for the special experience, saying &quot;I really love this place! Thank you for the wonderful day.&quot;</span></div>",
+            "text": "Wandering away from Laura, Cathy began to search for peaches. Cathy walked past booths of fresh flowers and hand-made soaps, which smelled heavenly. From a fruit stand, she picked out some beautiful, ripe peaches. The fruit seller told her, \"Those peaches are a great choice because they're only here until this week. If you miss them now, you'll have to wait another year for the season.\" (①) Hearing that, Cathy said, \"Oh, I'll get some more then! They're really cheap!\" (②) She bought two bags of peaches. (③) \"Cathy, those peaches look delicious! I bought some blueberries. Would you like to go to my place and make blueberry pancakes together?\" (④) Laura asked. \"Yes, that's an excellent idea!\" replied Cathy happily. (⑤) As they walked out of the market, Cathy thanked her friend for the special experience, saying \"I really love this place! Thank you for the wonderful day.\"",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5076993639236235,
+                0.2005414648047877,
+                0.4250685483870968,
+                0.3629210601310915
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 79,
+            "area": 27291.765,
+            "bbox": [
+                1304.0373433446664,
+                2058.953716397534,
+                871.5170342379517,
+                31.31524008350698
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.525821509413172,
+                0.5867636695347775,
+                0.351418158966916,
+                0.008924263346681954
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 80,
+            "area": 31218.135,
+            "bbox": [
+                160.56891519114072,
+                369.63253270458983,
+                1068.4406576838437,
+                29.218407596785994
+            ],
+            "html": "",
+            "text": "99",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06474553031900836,
+                0.1053384248231946,
+                0.43082284584025954,
+                0.008326704929263606
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 99,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 81,
+            "area": 36295.642,
+            "bbox": [
+                202.20357122021414,
+                439.83,
+                588.26,
+                61.69999999999999
+            ],
+            "html": "",
+            "text": "다음 글을 읽고, 물음에 답하시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.081533698072667,
+                0.12534340267882588,
+                0.2372016129032258,
+                0.01758335708178968
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 0,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 82,
+            "area": 2388449.352,
+            "bbox": [
+                165.40802998813513,
+                501.5317465590888,
+                1048.4299999999998,
+                2278.12
+            ],
+            "html": "",
+            "text": "In technological design, an aspiration towards seamlessness aims to make the technological experience for humans blend seamlessly into our everyday lives. Essentially, this ______①______ aims towards experiences (A) [ <u>no / aware / people / longer / be / technology / where / the / of</u> ], the interface or the differences between human-technology and human-human interaction. Considering the metaphor of seams in clothing, we can say that we aspire to seamless aesthetics by stitching the seams closely, pressing them flat and (B) [ <u>make / the / inside / we / they / wear / that / sure / so / hide / clothing / on</u> ] rather than pieces of fabric. When designers and engineers talk about technological seamlessness, they are often referring to ease of use and ______②______. For example, in interface design, an aspiration towards seamlessness ensures the experience for the user flows and is not stressful or irritating. Most of us would have had experiences of poor interface designs or apps in workplaces that make things more complicated and irritating, and have longed for more seamless interfaces. Technological seamlessness can also include less visible screens in new technologies, or virtual reality technologies with a seamless technological design. The aim (C) [ <u>visual / such / be / describe / the / user / the / to / experience / immerse / interaction / that / might</u> ] as inside the screen rather than a body interacting with a digital console or object as separate entities. Similarly, seamlessness in humanoid robotic design aims to make humanoids ______③______ from a human body.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06669678628553835,
+                0.14292725749760296,
+                0.42275403225806446,
+                0.6492220005699629
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 83,
+            "area": 30260.827,
+            "bbox": [
+                155.91791508188703,
+                2798.6385856668244,
+                1062.659358671107,
+                28.476506881822388
+            ],
+            "html": "",
+            "text": "99",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.062870127049148,
+                0.7975601555049371,
+                0.42849167688351086,
+                0.00811527696831644
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 99,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 84,
+            "area": 206576.398,
+            "bbox": [
+                1282.169336586377,
+                239.05,
+                1022.2000000000003,
+                202.08999999999997
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"84\">위 글을 읽고, 괄호 (A) 안의 단어들을 글의 흐름과 어법에 맞도록 <u>한 번씩</u> <u>모두</u> 사용하여 문장을 완성하시오. (단, 필요하면 어형 변화할 것, 새로운 단어 추가 금지)</span></div>",
+            "text": "윗글을 읽고, 괄호 (A) 안의 단어들을 글의 흐름과 어법에 맞도록 <u>한 번씩</u> <u>모두</u> 사용하여 문장을 완성하시오. (단, 필요하면 어형 변화할 것, 새로운 단어 추가 금지) ",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5170037647525714,
+                0.06812482188657737,
+                0.4121774193548388,
+                0.0575919065260758
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 85,
+            "area": 144013.498,
+            "bbox": [
+                1284.9871016374632,
+                444.86611875796586,
+                1019.7645457164704,
+                141.22230338446536
+            ],
+            "html": "<div class=\"open-ended-set\"><span>➝_________________________________________________</span></div>",
+            "text": "_____",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5181399603376867,
+                0.12677860323680987,
+                0.41119538133728645,
+                0.04024574049144068
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 7,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 86,
+            "area": 24770.654,
+            "bbox": [
+                1282.5532960390944,
+                637.011470281965,
+                1017.3307401181012,
+                24.348672997321728
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.517158587112538,
+                0.18153646915986463,
+                0.4102140081121376,
+                0.0069389207743863575
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 87,
+            "area": 198639.05,
+            "bbox": [
+                1285.7035323385653,
+                673.6671936096525,
+                1019.7600000000002,
+                194.78999999999996
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"87\">위 글을 읽고, 괄호 (B) 안의 단어들을 글의 흐름과 어법에 맞도록 <u>한 번씩</u> <u>모두</u> 사용하여 문장을 완성하시오. (단, 필요하면 어형 변화할 것, 새로운 단어 추가 금지)</span></div>",
+            "text": "윗글을 읽고, 괄호 (B) 안의 단어들을 글의 흐름과 어법에 맞도록 <u>한 번씩</u> <u>모두</u> 사용하여 문장을 완성하시오. (단, 필요하면 어형 변화할 것, 새로운 단어 추가 금지)",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5184288436849054,
+                0.19198267130511612,
+                0.4111935483870969,
+                0.05551154174978625
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 88,
+            "area": 150046.16,
+            "bbox": [
+                1284.9871016374632,
+                874.6103744876752,
+                1027.0659625115763,
+                146.0920379839299
+            ],
+            "html": "<div class=\"open-ended-set\"><span>➝_________________________________________________</span></div>",
+            "text": "_____",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5181399603376867,
+                0.24924775562487184,
+                0.4141395010127324,
+                0.04163352464631801
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 7,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 89,
+            "area": 19816.523,
+            "bbox": [
+                1289.8547128342004,
+                1068.4486925964434,
+                1017.3307401181012,
+                19.47893839785752
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5201027067879841,
+                0.30448808566441815,
+                0.4102140081121376,
+                0.0055511366195091245
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 90,
+            "area": 199587.467,
+            "bbox": [
+                1284.9871016374632,
+                1094.8797722734598,
+                1024.6321569132074,
+                194.7893839785736
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"90\">위 글을 읽고, 괄호 (C) 안의 단어들을 글의 흐름과 어법에 맞도록 <u>한 번씩</u> <u>모두</u> 사용하여 문장을 완성하시오. (단, 필요하면 어형 변화할 것, 새로운 단어 추가 금지)</span></div>",
+            "text": "윗글을 읽고, 괄호 (C) 안의 단어들을 글의 흐름과 어법에 맞도록 <u>한 번씩</u> <u>모두</u> 사용하여 문장을 완성하시오. (단, 필요하면 어형 변화할 것, 새로운 단어 추가 금지) ",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5181399603376867,
+                0.3120204537684411,
+                0.4131581277875836,
+                0.0555113661950908
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 91,
+            "area": 149645.992,
+            "bbox": [
+                1280.588953188325,
+                1295.97,
+                1026.5897772514709,
+                145.76999999999998
+            ],
+            "html": "<div class=\"open-ended-set\"><span>➝_________________________________________________</span></div>",
+            "text": "_____",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.516366513382389,
+                0.36932744371615844,
+                0.413947490827206,
+                0.04154174978626389
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 7,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 92,
+            "area": 22346.922,
+            "bbox": [
+                1282.5532960390944,
+                1482.7274385623582,
+                1019.7645457164701,
+                21.913805697589623
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.517158587112538,
+                0.42254985424974584,
+                0.41119538133728634,
+                0.006245028696947741
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 93,
+            "area": 102532.398,
+            "bbox": [
+                1279.9417773355485,
+                1506.4944807389052,
+                1027.0700000000002,
+                99.82999999999993
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"93\">위 글을 읽고 문맥상 빈칸 ①, ②, ③에 들어갈 말을 각각 <u>한 단어</u>로 쓰시오.</span></div>",
+            "text": "윗글을 읽고 문맥상 빈칸 ①, ②, ③에 들어갈 말을 각각 <u>한 단어</u>로 쓰시오. ",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5161055553772373,
+                0.42932302101422204,
+                0.41414112903225814,
+                0.028449700769449963
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 94,
+            "area": 143729.05,
+            "bbox": [
+                1284.9871016374632,
+                1652.5210087330493,
+                881.0376266094559,
+                163.13610908205533
+            ],
+            "html": "<div class=\"open-ended-set\"><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 10.3838%;\">①</td><td style=\"width: 23.095%;\">___________</td><td style=\"width: 10.3838%;\">②</td><td style=\"width: 23.095%;\">___________</td><td style=\"width: 10.3838%;\">③</td><td style=\"width: 22.7369%;\">___________</td></tr></tbody></table></div>",
+            "text": "\n\n| ① |   | ② |   | ③ |   |\n\n",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5181399603376867,
+                0.4709378765269448,
+                0.35525710750381284,
+                0.04649076918838852
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 7,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 95,
+            "area": 29824.244,
+            "bbox": [
+                1299.532118908403,
+                1895.65,
+                1003.1700000000001,
+                29.730000000000018
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.524004886656614,
+                0.5402251353662012,
+                0.4045040322580645,
+                0.008472499287546315
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 96,
+            "area": 40888.141,
+            "bbox": [
+                1266.0174236936684,
+                1939.597294731846,
+                1076.8914036533085,
+                37.96867584243023
+            ],
+            "html": "",
+            "text": "99",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5104908966506727,
+                0.552749300294057,
+                0.4342304046989147,
+                0.010820369291088695
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 99,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 97,
+            "area": 19959.627,
+            "bbox": [
+                164.5656763462914,
+                220.40167821955316,
+                1037.1022233464034,
+                19.24557351809085
+            ],
+            "html": "",
+            "text": "99",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06635712755898847,
+                0.06281039561685756,
+                0.41818638038161426,
+                0.00548463195157904
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 99,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 98,
+            "area": 27430.403,
+            "bbox": [
+                216.32168104716413,
+                249.08000000000004,
+                574.3384218668461,
+                47.75999999999999
+            ],
+            "html": "",
+            "text": "다음 글을 읽고, 물음에 답하시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.08722648429321135,
+                0.07098318609290397,
+                0.2315880733334057,
+                0.01361071530350527
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 0,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 99,
+            "area": 2994572.076,
+            "bbox": [
+                163.18801274652992,
+                305.1758601311933,
+                1047.7173323169466,
+                2858.187016122987
+            ],
+            "html": "",
+            "text": "\"Hi! I'm over here!\" shouted Laura, waving brightly at Cathy at the entrance of Darlingdale Farmer's Market. Seeing her friend, Cathy rushed over in delight. Cathy had recently moved into Laura's town, and this was going to be her first experience at a real farmer's market. Born and raised in a big city, where large supermarkets were more ______①______, Cathy had never had a chance to buy freshly-picked fruits or vegetables.\nEntering the market, Laura said, \"Let me show you around. Are you ready?\" Cathy answered excitedly, \"Absolutely! I'm going to buy some fresh peaches!\" The market was already ______②______ with people of all ages. \"Cathy, you can taste the best of the season here,\" said Laura. Cathy smiled and began to look around. Meanwhile, Laura found some strawberry jam for sale. She walked over to buy some. Curious to explore more, Cathy said, \"While you're buying jam, I'll look around the market and get some peaches.\"\n(A) [ <u>from / wander / search / away / to / begin / Cathy / for / Laura</u> ] peaches. Cathy walked past booths of fresh flowers and hand-made soaps, which smelled heavenly. From a fruit stand, she picked out some beautiful, ripe peaches. The fruit seller told her, \"Those peaches are a great choice (B) [ <u>week / be / here / until / this / they / only / because</u> ]. If you miss them now, you'll have to wait another year for the season.\" ______③______ that, Cathy said, \"Oh, I'll get some more then! They're really cheap!\" She bought two bags of peaches.\nCarrying the bags of peaches, Cathy came back and noticed Laura holding a box of blueberries and jars of jam. \"Cathy, those peaches look delicious! I bought some blueberries. Would you like to go to my place and make blueberry pancakes together?\" Laura asked. \"Yes, that's an excellent idea!\" replied Cathy happily. As they walked out of the market, Cathy (C) [ <u>special / thank / friend / the / experience / her / say / for</u> ] \"I really love this place! Thank you for the wonderful day.\"",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06580161804295562,
+                0.08696946712202716,
+                0.42246666625683327,
+                0.8145303551219685
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 100,
+            "area": 22220.36,
+            "bbox": [
+                163.3541760476204,
+                3176.860471544091,
+                1049.609021958187,
+                21.170130869899367
+            ],
+            "html": "",
+            "text": "99",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06586861937404048,
+                0.9053463868749191,
+                0.4232294443379786,
+                0.006033095146736782
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 99,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 101,
+            "area": 190368.184,
+            "bbox": [
+                1278.5099676097407,
+                247.26608577129494,
+                1030.3677933246736,
+                184.75750577367208
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"101\">위 글을 읽고, 괄호 (A) 안의 단어들을 글의 흐름과 어법에 맞도록 <u>한 번씩</u> <u>모두</u> 사용하여 문장을 완성하시오. (단, 필요하면 어형 변화할 것, 새로운 단어 추가 금지)</span></div>",
+            "text": "윗글을 읽고, 괄호 (A) 안의 단어들을 글의 흐름과 어법에 맞도록 <u>한 번씩</u> <u>모두</u> 사용하여 문장을 완성하시오. (단, 필요하면 어형 변화할 것, 새로운 단어 추가 금지)",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5155282127458631,
+                0.07046625413830007,
+                0.4154708844051103,
+                0.052652466735158755
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 102,
+            "area": 151040.081,
+            "bbox": [
+                1278.8873592189166,
+                438.8066083940224,
+                1030.510864424141,
+                146.56816015252627
+            ],
+            "html": "<div class=\"open-ended-set\"><span>➝_________________________________________________</span></div>",
+            "text": "_____",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5156803867818212,
+                0.12505175502821955,
+                0.41552857436457297,
+                0.04176921064477808
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 7,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 103,
+            "area": 23862.678,
+            "bbox": [
+                1276.9684845872412,
+                637.8501450219907,
+                1033.2539776197004,
+                23.09468822170902
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5149066470109843,
+                0.1817754759253322,
+                0.4166346683950405,
+                0.006581558341894848
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 104,
+            "area": 194018.966,
+            "bbox": [
+                1277.3083464277474,
+                678.2241900649741,
+                1030.5108644241413,
+                188.2745471877978
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"104\">위 글을 읽고, 괄호 (B) 안의 단어들을 글의 흐름과 어법에 맞도록 <u>한 번씩</u> <u>모두</u> 사용하여 문장을 완성하시오. (단, 필요하면 어형 변화할 것, 새로운 단어 추가 금지)</span></div>",
+            "text": "윗글을 읽고, 괄호 (B) 안의 단어들을 글의 흐름과 어법에 맞도록 <u>한 번씩</u> <u>모두</u> 사용하여 문장을 완성하시오. (단, 필요하면 어형 변화할 것, 새로운 단어 추가 금지)",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5150436880757047,
+                0.1932813308820103,
+                0.41552857436457313,
+                0.05365475838922707
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 105,
+            "area": 149576.853,
+            "bbox": [
+                1278.386601188078,
+                872.5595884130786,
+                1029.4057318929974,
+                145.30408006158575
+            ],
+            "html": "<div class=\"open-ended-set\"><span>➝_________________________________________________</span></div>",
+            "text": "_____",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5154784682209992,
+                0.24866331958195456,
+                0.4150829564084667,
+                0.0414089712344217
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 7,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 106,
+            "area": 23648.254,
+            "bbox": [
+                1276.2199999999998,
+                1068.010013718585,
+                1033.25,
+                22.887253106339813
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5146048387096773,
+                0.3043630703102266,
+                0.416633064516129,
+                0.006522443176500374
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 107,
+            "area": 199390.795,
+            "bbox": [
+                1277.0310127363798,
+                1099.7904918416739,
+                1032.8935485037339,
+                193.04099142040036
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"107\">위 글을 읽고, 괄호 (C) 안의 단어들을 글의 흐름과 어법에 맞도록 <u>한 번씩</u> <u>모두</u> 사용하여 문장을 완성하시오. (단, 필요하면 어형 변화할 것, 새로운 단어 추가 금지)</span></div>",
+            "text": "윗글을 읽고, 괄호 (C) 안의 단어들을 글의 흐름과 어법에 맞도록 <u>한 번씩</u> <u>모두</u> 사용하여 문장을 완성하시오. (단, 필요하면 어형 변화할 것, 새로운 단어 추가 금지)",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5149318599743467,
+                0.31341991788021484,
+                0.4164893340740862,
+                0.055013106702878414
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 108,
+            "area": 142181.793,
+            "bbox": [
+                1276.215478868694,
+                1299.1418627773014,
+                1033.2539776197,
+                137.60585065434975
+            ],
+            "html": "<div class=\"open-ended-set\"><span>➝_________________________________________________</span></div>",
+            "text": "_____",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5146030156728605,
+                0.37023136585275046,
+                0.4166346683950403,
+                0.039215118453790186
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 7,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 109,
+            "area": 19697.212,
+            "bbox": [
+                1276.26,
+                1481.1762540716613,
+                1032.89,
+                19.069999999999936
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5146209677419354,
+                0.42210779540372223,
+                0.4164879032258065,
+                0.005434596751211153
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 110,
+            "area": 106930.473,
+            "bbox": [
+                1274.7486337869072,
+                1505.1204229367354,
+                1035.7796363803832,
+                103.2367014687668
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"110\">위 글을 읽고 문맥상 빈칸 ①, ②, ③에 들어갈 말을 각각 <u>한 단어</u>로 쓰시오.</span></div>",
+            "text": "윗글을 읽고 문맥상 빈칸 ①, ②, ③에 들어갈 말을 각각 <u>한 단어</u>로 쓰시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5140115458818174,
+                0.42893143999337,
+                0.4176530791856384,
+                0.029420547583005642
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 111,
+            "area": 138105.957,
+            "bbox": [
+                1276.1751550006563,
+                1647.6012903977712,
+                878.0190833301642,
+                157.29265967588185
+            ],
+            "html": "<div class=\"open-ended-set\"><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 10.3838%;\">①</td><td style=\"width: 23.095%;\">___________</td><td style=\"width: 10.3838%;\">②</td><td style=\"width: 23.095%;\">___________</td><td style=\"width: 10.3838%;\">③</td><td style=\"width: 22.7369%;\">___________</td></tr></tbody></table></div>",
+            "text": "| ① |   | ② |   | ③ |   |",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5145867560486518,
+                0.46953584793324915,
+                0.3540399529557114,
+                0.044825494350493544
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 7,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 112,
+            "area": 23886.276,
+            "bbox": [
+                1276.3899999999999,
+                1876.871619919103,
+                1034.2199999999998,
+                23.095933471291573
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5146733870967741,
+                0.5348736448900265,
+                0.417024193548387,
+                0.006581913214959126
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 113,
+            "area": 24729.717,
+            "bbox": [
+                1275.333231373699,
+                1915.1431087975718,
+                1037.6589166629212,
+                23.832221163012264
+            ],
+            "html": "",
+            "text": "99",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5142472707152012,
+                0.5457803102871392,
+                0.4184108534931134,
+                0.006791741568256559
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 99,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 114,
+            "area": 5645804.126,
+            "bbox": [
+                244.72442038522922,
+                558.2649381997678,
+                1491.385247992107,
+                3785.6108160309022
+            ],
+            "html": "",
+            "text": "1) (4)\n2) (5)\n3) (2)\n4) (4)\n5) (1)\n6) (5)\n7) (5)\n8) (4)\n9) (2)\n10) ③\n11) (3)\n12) (4)\n13) (3)\n14) (2)\n15) (1)\n16) (3)\n17) (2)\n18) (5)\n19) (3)\n20) (A): where people are no longer aware of the technology\n21) (B): making sure they are hidden on the inside so that we wear clothing\n22) (C): is to immerse the user experience such that the visual interaction might be described\n23) (1): aspiration (2): convenience (3): indistinguishable\n24) (A): Wandering away from Laura, Cathy began to search for\n25) (B): because they're only here until this week\n26) (C): thanked her friend for the special experience, saying\n27) (1) : common (2) : crowded (3) : Hearing",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06924856264437726,
+                0.11165298763995356,
+                0.422010539895899,
+                0.7571221632061804
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 9,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": -1,
+            "area": 488963.841,
+            "bbox": [
+                1267.5066892149318,
+                366.19102296450933,
+                1064.6076346379775,
+                459.2901878914406
+            ],
+            "html": "<div class=\"answer\">④</div>",
+            "text": "④",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5110914069415048,
+                0.10435765829709585,
+                0.42927727203144256,
+                0.13088919575133673
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -2,
+            "area": 488963.841,
+            "bbox": [
+                1267.5066892149318,
+                366.19102296450933,
+                1064.6076346379775,
+                459.2901878914406
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--2\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5110914069415048,
+                0.10435765829709585,
+                0.42927727203144256,
+                0.13088919575133673
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -3,
+            "area": 684336.926,
+            "bbox": [
+                1267.5066892149318,
+                1175.168058455115,
+                1048.9516400109485,
+                652.4008350730685
+            ],
+            "html": "<div class=\"answer\">⑤</div>",
+            "text": "⑤",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5110914069415048,
+                0.33490112808638217,
+                0.42296437097215667,
+                0.1859221530558759
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -4,
+            "area": 684336.926,
+            "bbox": [
+                1267.5066892149318,
+                1175.168058455115,
+                1048.9516400109485,
+                652.4008350730685
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--4\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5110914069415048,
+                0.33490112808638217,
+                0.42296437097215667,
+                0.1859221530558759
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -5,
+            "area": 324886.402,
+            "bbox": [
+                1314.4746730960194,
+                2479.969728601253,
+                876.7356991136287,
+                370.56367432150273
+            ],
+            "html": "<div class=\"answer\">②</div>",
+            "text": "②",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5300301101193626,
+                0.7067454341981342,
+                0.3535224593200116,
+                0.10560378293573745
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -6,
+            "area": 324886.402,
+            "bbox": [
+                1314.4746730960194,
+                2479.969728601253,
+                876.7356991136287,
+                370.56367432150273
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--6\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5300301101193626,
+                0.7067454341981342,
+                0.3535224593200116,
+                0.10560378293573745
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -7,
+            "area": 413904.387,
+            "bbox": [
+                1269.0875268660116,
+                431.27643580999654,
+                1047.1190585428317,
+                395.279203037638
+            ],
+            "html": "<div class=\"answer\">④</div>",
+            "text": "④",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5117288414782305,
+                0.12290579532915262,
+                0.422225426831787,
+                0.1126472507944252
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -8,
+            "area": 413904.387,
+            "bbox": [
+                1269.0875268660116,
+                431.27643580999654,
+                1047.1190585428317,
+                395.279203037638
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--8\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5117288414782305,
+                0.12290579532915262,
+                0.422225426831787,
+                0.1126472507944252
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -9,
+            "area": 688718.67,
+            "bbox": [
+                1263.97,
+                1100.913007713308,
+                1052.2500000000002,
+                654.52
+            ],
+            "html": "<div class=\"answer\">①</div>",
+            "text": "①",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5096653225806451,
+                0.3137398141103756,
+                0.42429435483870975,
+                0.18652607580507266
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -10,
+            "area": 688718.67,
+            "bbox": [
+                1263.97,
+                1100.913007713308,
+                1052.2500000000002,
+                654.52
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--10\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5096653225806451,
+                0.3137398141103756,
+                0.42429435483870975,
+                0.18652607580507266
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -11,
+            "area": 800444.392,
+            "bbox": [
+                1274.2364733591423,
+                2165.2573596919024,
+                1075.3502096309956,
+                744.3569407851624
+            ],
+            "html": "<div class=\"answer\">⑤</div>",
+            "text": "⑤",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5138050295802993,
+                0.617058238726675,
+                0.4336089554963692,
+                0.21212793980768377
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -12,
+            "area": 800444.392,
+            "bbox": [
+                1274.2364733591423,
+                2165.2573596919024,
+                1075.3502096309956,
+                744.3569407851624
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--12\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5138050295802993,
+                0.617058238726675,
+                0.4336089554963692,
+                0.21212793980768377
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -13,
+            "area": 299833.545,
+            "bbox": [
+                1268.4610767841293,
+                373.4001028053483,
+                962.1444277569474,
+                311.63049526989425
+            ],
+            "html": "<div class=\"answer\">⑤</div>",
+            "text": "⑤",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5114762406387618,
+                0.10641211251221097,
+                0.3879614628052207,
+                0.08880891857221267
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -14,
+            "area": 299833.545,
+            "bbox": [
+                1268.4610767841293,
+                373.4001028053483,
+                962.1444277569474,
+                311.63049526989425
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--14\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5114762406387618,
+                0.10641211251221097,
+                0.3879614628052207,
+                0.08880891857221267
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -15,
+            "area": 671963.864,
+            "bbox": [
+                1285.1456622365622,
+                890.5105359692768,
+                1023.3212410825336,
+                656.6499721758485
+            ],
+            "html": "<div class=\"answer\">④</div>",
+            "text": "④",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5182038960631299,
+                0.2537790071157814,
+                0.41262953269457,
+                0.1871330784200195
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -16,
+            "area": 671963.864,
+            "bbox": [
+                1285.1456622365622,
+                890.5105359692768,
+                1023.3212410825336,
+                656.6499721758485
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--16\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5182038960631299,
+                0.2537790071157814,
+                0.41262953269457,
+                0.1871330784200195
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -17,
+            "area": 681449.721,
+            "bbox": [
+                1282.3648979944899,
+                1812.998826481587,
+                1051.1288835032549,
+                648.3027267668335
+            ],
+            "html": "<div class=\"answer\">②</div>",
+            "text": "②",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5170826201590685,
+                0.516671081926927,
+                0.4238422917351834,
+                0.18475426810112097
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -18,
+            "area": 681449.721,
+            "bbox": [
+                1282.3648979944899,
+                1812.998826481587,
+                1051.1288835032549,
+                648.3027267668335
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--18\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5170826201590685,
+                0.516671081926927,
+                0.4238422917351834,
+                0.18475426810112097
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -19,
+            "area": 609477.425,
+            "bbox": [
+                1268.4886879009794,
+                2671.1231448097724,
+                1052.2891094133363,
+                579.1919914193777
+            ],
+            "html": "<div class=\"answer\">③</div>",
+            "text": "③",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5114873741536207,
+                0.7612206169306847,
+                0.42431012476344204,
+                0.16505898872025582
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -20,
+            "area": 609477.425,
+            "bbox": [
+                1268.4886879009794,
+                2671.1231448097724,
+                1052.2891094133363,
+                579.1919914193777
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--20\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5114873741536207,
+                0.7612206169306847,
+                0.42431012476344204,
+                0.16505898872025582
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -21,
+            "area": 1312646.773,
+            "bbox": [
+                163.35715045669156,
+                382.88,
+                1043.6799999999998,
+                1257.71
+            ],
+            "html": "<div class=\"answer\">③</div>",
+            "text": "③",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06586981873253692,
+                0.10911370760900542,
+                0.42083870967741926,
+                0.35842405243659164
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -22,
+            "area": 1312646.773,
+            "bbox": [
+                163.35715045669156,
+                382.88,
+                1043.6799999999998,
+                1257.71
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--22\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06586981873253692,
+                0.10911370760900542,
+                0.42083870967741926,
+                0.35842405243659164
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -23,
+            "area": 959857.825,
+            "bbox": [
+                170.30141679510598,
+                1977.57,
+                1031.85,
+                930.2300000000002
+            ],
+            "html": "<div class=\"answer\">④</div>",
+            "text": "④",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06866992612705886,
+                0.5635708178968367,
+                0.4160685483870967,
+                0.26509831860929045
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -24,
+            "area": 959857.825,
+            "bbox": [
+                170.30141679510598,
+                1977.57,
+                1031.85,
+                930.2300000000002
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--24\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06866992612705886,
+                0.5635708178968367,
+                0.4160685483870967,
+                0.26509831860929045
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -25,
+            "area": 1375358.258,
+            "bbox": [
+                1279.4797388583952,
+                368.6400000000002,
+                1034.9599354228671,
+                1328.9
+            ],
+            "html": "<div class=\"answer\">③</div>",
+            "text": "③",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5159192495396755,
+                0.10505557138785986,
+                0.4173225546059948,
+                0.3787118837275577
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -26,
+            "area": 1375358.258,
+            "bbox": [
+                1279.4797388583952,
+                368.6400000000002,
+                1034.9599354228671,
+                1328.9
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--26\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5159192495396755,
+                0.10505557138785986,
+                0.4173225546059948,
+                0.3787118837275577
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -27,
+            "area": 1476477.773,
+            "bbox": [
+                153.23438736178628,
+                435.1553338288894,
+                1060.8534509662124,
+                1391.782976213878
+            ],
+            "html": "<div class=\"answer\">②</div>",
+            "text": "②",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06178805942007511,
+                0.12401120941262166,
+                0.4277634882928276,
+                0.39663236711709265
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -28,
+            "area": 1476477.773,
+            "bbox": [
+                153.23438736178628,
+                435.1553338288894,
+                1060.8534509662124,
+                1391.782976213878
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--28\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06178805942007511,
+                0.12401120941262166,
+                0.4277634882928276,
+                0.39663236711709265
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -29,
+            "area": 1517021.521,
+            "bbox": [
+                1254.4503087817654,
+                439.08692415717724,
+                1080.8247169557774,
+                1403.577747198742
+            ],
+            "html": "<div class=\"answer\">①</div>",
+            "text": "①",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5058267374120022,
+                0.1251316398282067,
+                0.4358164181273296,
+                0.3999936583638478
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -30,
+            "area": 1517021.521,
+            "bbox": [
+                1254.4503087817654,
+                439.08692415717724,
+                1080.8247169557774,
+                1403.577747198742
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--30\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5058267374120022,
+                0.1251316398282067,
+                0.4358164181273296,
+                0.3999936583638478
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -31,
+            "area": 211444.859,
+            "bbox": [
+                164.98965873418263,
+                2875.538395932992,
+                1043.870243763928,
+                202.55856514571315
+            ],
+            "html": "<div class=\"answer\">③</div>",
+            "text": "③",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06652808819926719,
+                0.8194751769544006,
+                0.4209154208725516,
+                0.0577254389129989
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -32,
+            "area": 211444.859,
+            "bbox": [
+                164.98965873418263,
+                2875.538395932992,
+                1043.870243763928,
+                202.55856514571315
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--32\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06652808819926719,
+                0.8194751769544006,
+                0.4209154208725516,
+                0.0577254389129989
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -33,
+            "area": 1992154.176,
+            "bbox": [
+                1267.8600000000001,
+                762.4600000000002,
+                1052.44,
+                1892.8909736220376
+            ],
+            "html": "<div class=\"answer\">②</div>",
+            "text": "②",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.511233870967742,
+                0.2172869763465375,
+                0.4243709677419355,
+                0.5394388639561235
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -34,
+            "area": 1992154.176,
+            "bbox": [
+                1267.8600000000001,
+                762.4600000000002,
+                1052.44,
+                1892.8909736220376
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--34\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.511233870967742,
+                0.2172869763465375,
+                0.4243709677419355,
+                0.5394388639561235
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -35,
+            "area": 1413996.703,
+            "bbox": [
+                150.71240582019038,
+                630.6308148409977,
+                1054.1703048866257,
+                1341.33611691023
+            ],
+            "html": "<div class=\"answer\">⑤</div>",
+            "text": "⑤",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06077113137910903,
+                0.17971810055314838,
+                0.4250686713252523,
+                0.38225594668288115
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -36,
+            "area": 1413996.703,
+            "bbox": [
+                150.71240582019038,
+                630.6308148409977,
+                1054.1703048866257,
+                1341.33611691023
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--36\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06077113137910903,
+                0.17971810055314838,
+                0.4250686713252523,
+                0.38225594668288115
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -37,
+            "area": 1342474.953,
+            "bbox": [
+                1259.0944225305861,
+                703.7,
+                1054.17,
+                1273.49
+            ],
+            "html": "<div class=\"answer\">③</div>",
+            "text": "③",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5076993639236235,
+                0.2005414648047877,
+                0.4250685483870968,
+                0.3629210601310915
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -38,
+            "area": 1342474.953,
+            "bbox": [
+                1259.0944225305861,
+                703.7,
+                1054.17,
+                1273.49
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--38\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5076993639236235,
+                0.2005414648047877,
+                0.4250685483870968,
+                0.3629210601310915
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -39,
+            "area": 144013.498,
+            "bbox": [
+                1284.9871016374632,
+                444.86611875796586,
+                1019.7645457164704,
+                141.22230338446536
+            ],
+            "html": "<div class=\"answer\">(A) where people are no longer aware of the technology</div>",
+            "text": "(A) where people are no longer aware of the technology",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5181399603376867,
+                0.12677860323680987,
+                0.41119538133728645,
+                0.04024574049144068
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -40,
+            "area": 144013.498,
+            "bbox": [
+                1284.9871016374632,
+                444.86611875796586,
+                1019.7645457164704,
+                141.22230338446536
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--40\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5181399603376867,
+                0.12677860323680987,
+                0.41119538133728645,
+                0.04024574049144068
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -41,
+            "area": 150046.16,
+            "bbox": [
+                1284.9871016374632,
+                874.6103744876752,
+                1027.0659625115763,
+                146.0920379839299
+            ],
+            "html": "<div class=\"answer\">(B) making sure they are hidden on the inside so that we wear clothing</div>",
+            "text": "(B) making sure they are hidden on the inside so that we wear clothing",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5181399603376867,
+                0.24924775562487184,
+                0.4141395010127324,
+                0.04163352464631801
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -42,
+            "area": 150046.16,
+            "bbox": [
+                1284.9871016374632,
+                874.6103744876752,
+                1027.0659625115763,
+                146.0920379839299
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--42\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5181399603376867,
+                0.24924775562487184,
+                0.4141395010127324,
+                0.04163352464631801
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -43,
+            "area": 149645.992,
+            "bbox": [
+                1280.588953188325,
+                1295.97,
+                1026.5897772514709,
+                145.76999999999998
+            ],
+            "html": "<div class=\"answer\">(C) is to immerse the user experience such that the visual interaction might be described</div>",
+            "text": "(C) is to immerse the user experience such that the visual interaction might be described",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.516366513382389,
+                0.36932744371615844,
+                0.413947490827206,
+                0.04154174978626389
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -44,
+            "area": 149645.992,
+            "bbox": [
+                1280.588953188325,
+                1295.97,
+                1026.5897772514709,
+                145.76999999999998
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--44\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.516366513382389,
+                0.36932744371615844,
+                0.413947490827206,
+                0.04154174978626389
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -45,
+            "area": 143729.05,
+            "bbox": [
+                1284.9871016374632,
+                1652.5210087330493,
+                881.0376266094559,
+                163.13610908205533
+            ],
+            "html": "<div class=\"answer\">① aspiration    ② convenience    ③ indistinguishable</div>",
+            "text": "① aspiration    ② convenience    ③ indistinguishable",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5181399603376867,
+                0.4709378765269448,
+                0.35525710750381284,
+                0.04649076918838852
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -46,
+            "area": 143729.05,
+            "bbox": [
+                1284.9871016374632,
+                1652.5210087330493,
+                881.0376266094559,
+                163.13610908205533
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--46\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5181399603376867,
+                0.4709378765269448,
+                0.35525710750381284,
+                0.04649076918838852
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -47,
+            "area": 151040.081,
+            "bbox": [
+                1278.8873592189166,
+                438.8066083940224,
+                1030.510864424141,
+                146.56816015252627
+            ],
+            "html": "<div class=\"answer\">Wandering away from Laura, Cathy began to search for</div>",
+            "text": "Wandering away from Laura, Cathy began to search for",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5156803867818212,
+                0.12505175502821955,
+                0.41552857436457297,
+                0.04176921064477808
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -48,
+            "area": 151040.081,
+            "bbox": [
+                1278.8873592189166,
+                438.8066083940224,
+                1030.510864424141,
+                146.56816015252627
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--48\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5156803867818212,
+                0.12505175502821955,
+                0.41552857436457297,
+                0.04176921064477808
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -49,
+            "area": 149576.853,
+            "bbox": [
+                1278.386601188078,
+                872.5595884130786,
+                1029.4057318929974,
+                145.30408006158575
+            ],
+            "html": "<div class=\"answer\">because they&apos;re only here until this week</div>",
+            "text": "because they&apos;re only here until this week",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5154784682209992,
+                0.24866331958195456,
+                0.4150829564084667,
+                0.0414089712344217
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -50,
+            "area": 149576.853,
+            "bbox": [
+                1278.386601188078,
+                872.5595884130786,
+                1029.4057318929974,
+                145.30408006158575
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--50\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5154784682209992,
+                0.24866331958195456,
+                0.4150829564084667,
+                0.0414089712344217
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -51,
+            "area": 142181.793,
+            "bbox": [
+                1276.215478868694,
+                1299.1418627773014,
+                1033.2539776197,
+                137.60585065434975
+            ],
+            "html": "<div class=\"answer\">thanked her friend for the special experience, saying</div>",
+            "text": "thanked her friend for the special experience, saying",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5146030156728605,
+                0.37023136585275046,
+                0.4166346683950403,
+                0.039215118453790186
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -52,
+            "area": 142181.793,
+            "bbox": [
+                1276.215478868694,
+                1299.1418627773014,
+                1033.2539776197,
+                137.60585065434975
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--52\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5146030156728605,
+                0.37023136585275046,
+                0.4166346683950403,
+                0.039215118453790186
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -53,
+            "area": 138105.957,
+            "bbox": [
+                1276.1751550006563,
+                1647.6012903977712,
+                878.0190833301642,
+                157.29265967588185
+            ],
+            "html": "<div class=\"answer\">① common    ② crowded    ③ Hearing</div>",
+            "text": "① common    ② crowded    ③ Hearing",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5145867560486518,
+                0.46953584793324915,
+                0.3540399529557114,
+                0.044825494350493544
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -54,
+            "area": 138105.957,
+            "bbox": [
+                1276.1751550006563,
+                1647.6012903977712,
+                878.0190833301642,
+                157.29265967588185
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--54\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5145867560486518,
+                0.46953584793324915,
+                0.3540399529557114,
+                0.044825494350493544
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "category_id": 9
+        }
+    ]
+}

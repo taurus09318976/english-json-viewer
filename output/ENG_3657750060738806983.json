@@ -1,0 +1,5436 @@
+{
+    "info": {
+        "html_url": "",
+        "provider": "crowdworks"
+    },
+    "items": [
+        {
+            "id": 1,
+            "imageIds": [
+                0
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -1
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": [
+                    1,
+                    2
+                ]
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    4,
+                    5,
+                    6
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -2
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "imageIds": [
+                0
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -3
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": [
+                    1,
+                    2
+                ]
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    7,
+                    8,
+                    9
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -4
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "imageIds": [
+                0
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -5
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": [
+                    1,
+                    2
+                ]
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    10,
+                    11,
+                    12,
+                    13
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -6
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "imageIds": [
+                1
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -7
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": [
+                    16,
+                    17
+                ]
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    19,
+                    20,
+                    21
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -8
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "imageIds": [
+                1
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -9
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": [
+                    16,
+                    17
+                ]
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    22,
+                    23,
+                    24
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -10
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "imageIds": [
+                1
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -11
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": [
+                    16,
+                    17
+                ]
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    25,
+                    26,
+                    27
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -12
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "imageIds": [
+                2
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -13
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": [
+                    30,
+                    31
+                ]
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    33,
+                    34,
+                    35
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -14
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "imageIds": [
+                2
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -15
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": [
+                    30,
+                    31
+                ]
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    36,
+                    37,
+                    38
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -16
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "imageIds": [
+                2
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -17
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": [
+                    30,
+                    31
+                ]
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    39,
+                    40,
+                    41,
+                    42
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -18
+                ]
+            }
+        },
+        {
+            "id": 10,
+            "imageIds": [
+                3
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -19
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": [
+                    30,
+                    31
+                ]
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    43,
+                    44,
+                    45
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -20
+                ]
+            }
+        },
+        {
+            "id": 11,
+            "imageIds": [
+                3
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -21
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    47,
+                    48,
+                    49
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -22
+                ]
+            }
+        },
+        {
+            "id": 12,
+            "imageIds": [
+                4
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -23
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    50,
+                    51,
+                    52
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -24
+                ]
+            }
+        },
+        {
+            "id": 13,
+            "imageIds": [
+                4
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -25
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    53,
+                    54,
+                    55
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -26
+                ]
+            }
+        },
+        {
+            "id": 14,
+            "imageIds": [
+                4
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -27
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    56,
+                    57,
+                    58
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -28
+                ]
+            }
+        },
+        {
+            "id": 15,
+            "imageIds": [
+                5
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -29
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    59,
+                    60,
+                    61
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -30
+                ]
+            }
+        },
+        {
+            "id": 16,
+            "imageIds": [
+                5
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -31
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    62,
+                    63,
+                    64,
+                    65,
+                    66,
+                    67,
+                    68
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -32
+                ]
+            }
+        },
+        {
+            "id": 17,
+            "imageIds": [
+                6
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -33
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    69,
+                    70,
+                    71,
+                    72
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -34
+                ]
+            }
+        },
+        {
+            "id": 18,
+            "imageIds": [
+                6
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -35
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    73,
+                    74,
+                    75,
+                    76
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -36
+                ]
+            }
+        },
+        {
+            "id": 19,
+            "imageIds": [
+                7
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -37
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    77,
+                    78,
+                    79,
+                    80
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -38
+                ]
+            }
+        },
+        {
+            "id": 20,
+            "imageIds": [
+                8
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -39
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": [
+                    82,
+                    83
+                ]
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    85,
+                    86,
+                    87
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -40
+                ]
+            }
+        },
+        {
+            "id": 21,
+            "imageIds": [
+                8
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -41
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": [
+                    82,
+                    83
+                ]
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    88,
+                    89,
+                    90
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -42
+                ]
+            }
+        },
+        {
+            "id": 22,
+            "imageIds": [
+                8
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -43
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": [
+                    82,
+                    83
+                ]
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    91,
+                    92,
+                    93
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -44
+                ]
+            }
+        },
+        {
+            "id": 23,
+            "imageIds": [
+                8
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -45
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": [
+                    82,
+                    83
+                ]
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    94,
+                    95,
+                    96
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -46
+                ]
+            }
+        },
+        {
+            "id": 24,
+            "imageIds": [
+                9
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -47
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": [
+                    99,
+                    100
+                ]
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    102,
+                    103,
+                    104
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -48
+                ]
+            }
+        },
+        {
+            "id": 25,
+            "imageIds": [
+                9
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -49
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": [
+                    99,
+                    100
+                ]
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    105,
+                    106,
+                    107
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -50
+                ]
+            }
+        },
+        {
+            "id": 26,
+            "imageIds": [
+                9
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -51
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": [
+                    99,
+                    100
+                ]
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    108,
+                    109,
+                    110
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -52
+                ]
+            }
+        },
+        {
+            "id": 27,
+            "imageIds": [
+                9
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -53
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": [
+                    99,
+                    100
+                ]
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    111,
+                    112,
+                    113
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -54
+                ]
+            }
+        }
+    ],
+    "images": [
+        {
+            "id": 0,
+            "width": 2480,
+            "height": 3509,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3657750060738806983/ENG_3657750060738806983_PAGE_0000.png",
+            "file_name": "ENG_3657750060738806983_PAGE_0000.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 1,
+            "width": 2480,
+            "height": 3509,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3657750060738806983/ENG_3657750060738806983_PAGE_0001.png",
+            "file_name": "ENG_3657750060738806983_PAGE_0001.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 2,
+            "width": 2480,
+            "height": 3509,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3657750060738806983/ENG_3657750060738806983_PAGE_0002.png",
+            "file_name": "ENG_3657750060738806983_PAGE_0002.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 3,
+            "width": 2480,
+            "height": 3509,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3657750060738806983/ENG_3657750060738806983_PAGE_0003.png",
+            "file_name": "ENG_3657750060738806983_PAGE_0003.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 4,
+            "width": 2480,
+            "height": 3509,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3657750060738806983/ENG_3657750060738806983_PAGE_0004.png",
+            "file_name": "ENG_3657750060738806983_PAGE_0004.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 5,
+            "width": 2480,
+            "height": 3509,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3657750060738806983/ENG_3657750060738806983_PAGE_0005.png",
+            "file_name": "ENG_3657750060738806983_PAGE_0005.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 6,
+            "width": 2480,
+            "height": 3509,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3657750060738806983/ENG_3657750060738806983_PAGE_0006.png",
+            "file_name": "ENG_3657750060738806983_PAGE_0006.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 7,
+            "width": 2480,
+            "height": 3509,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3657750060738806983/ENG_3657750060738806983_PAGE_0007.png",
+            "file_name": "ENG_3657750060738806983_PAGE_0007.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 8,
+            "width": 2480,
+            "height": 3509,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3657750060738806983/ENG_3657750060738806983_PAGE_0008.png",
+            "file_name": "ENG_3657750060738806983_PAGE_0008.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 9,
+            "width": 2480,
+            "height": 3509,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3657750060738806983/ENG_3657750060738806983_PAGE_0009.png",
+            "file_name": "ENG_3657750060738806983_PAGE_0009.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 10,
+            "width": 3534,
+            "height": 5000,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3657750060738806983/ENG_3657750060738806983_PAGE_0011.png",
+            "file_name": "ENG_3657750060738806983_PAGE_0011.png",
+            "page_type": "정답지",
+            "bboxCheckStatus": true
+        }
+    ],
+    "licenses": [],
+    "categories": [
+        {
+            "id": 0,
+            "name": "[공통] 발문",
+            "objectColor": "#FF9700",
+            "supercategory": "layout"
+        },
+        {
+            "id": 1,
+            "name": "[그룹] 공통 본문",
+            "objectColor": "#875000",
+            "supercategory": "layout"
+        },
+        {
+            "id": 2,
+            "name": "[단일] 지시문",
+            "objectColor": "#FF0000",
+            "supercategory": "layout"
+        },
+        {
+            "id": 3,
+            "name": "[단일] 본문",
+            "objectColor": "#B62828",
+            "supercategory": "layout"
+        },
+        {
+            "id": 4,
+            "name": "[공통] 보기",
+            "objectColor": "#2E00FF",
+            "supercategory": "layout"
+        },
+        {
+            "id": 5,
+            "name": "[공통] 조건",
+            "objectColor": "#00DE22",
+            "supercategory": "layout"
+        },
+        {
+            "id": 6,
+            "name": "[답안] 객관식",
+            "objectColor": "#BD00FF",
+            "supercategory": "layout"
+        },
+        {
+            "id": 7,
+            "name": "[답안] 주관식",
+            "objectColor": "#FF00A2",
+            "supercategory": "layout"
+        },
+        {
+            "id": 8,
+            "name": "[답안] 공백 선지",
+            "objectColor": "#6A7500",
+            "supercategory": "layout"
+        },
+        {
+            "id": 9,
+            "name": "[정답] 정답/해설",
+            "objectColor": "#DE00CA",
+            "supercategory": "layout"
+        },
+        {
+            "id": 10,
+            "name": "[공통] 도표",
+            "objectColor": "#00D8FF",
+            "supercategory": "layout"
+        },
+        {
+            "id": 11,
+            "name": "[공통] 그림",
+            "objectColor": "#005C6D",
+            "supercategory": "layout"
+        },
+        {
+            "id": 12,
+            "name": "[그룹] 공백 지시문",
+            "objectColor": "#C6AC62",
+            "supercategory": "layout"
+        },
+        {
+            "id": 13,
+            "name": "[단일] 공백 지시문",
+            "objectColor": "#FFCBA5",
+            "supercategory": "layout"
+        },
+        {
+            "id": 14,
+            "name": "[각주] 단어",
+            "objectColor": "#00FFD5",
+            "supercategory": "layout"
+        },
+        {
+            "id": 99,
+            "name": "[그룹] 문항 구분",
+            "objectColor": "#7A3245",
+            "supercategory": "layout"
+        },
+        {
+            "id": 100,
+            "name": "[단일] 문항 구분",
+            "objectColor": "#32517A",
+            "supercategory": "layout"
+        }
+    ],
+    "annotations": [
+        {
+            "id": 0,
+            "area": 26007.473,
+            "bbox": [
+                158.7968442601856,
+                361.61607837372685,
+                1058.850913560143,
+                24.5619780579662
+            ],
+            "html": "",
+            "text": "99",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06403098558878452,
+                0.10305388383406294,
+                0.4269560135323157,
+                0.006999708765450613
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 99,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1,
+            "area": 32641.417,
+            "bbox": [
+                209.16423007837068,
+                412.49204136763007,
+                588.053258758831,
+                55.50758603675837
+            ],
+            "html": "",
+            "text": "다음 글을 읽고, 물음에 답하시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.08434041535418173,
+                0.11755259087136793,
+                0.23711824949952864,
+                0.01581863380927853
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 0,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2,
+            "area": 1932057.914,
+            "bbox": [
+                153.31000000000006,
+                479.13000000000056,
+                1068.31,
+                1808.5180459618077
+            ],
+            "html": "",
+            "text": "Shoppers confronted with the choice of thirty different varieties of gourmet chocolates are more likely to walk away without buying any, compared with when they are presented with only half a dozen choices. If employees are given a free trip to Paris, they are happy. If you give them a free trip to Hawaii, they are happy. But if you offer them the choice between the two destinations, they are less happy, no matter what they choose. Why might choice be so disruptive? The reason is that choice forces us to make comparisons and acknowledge relative disadvantages. People who choose Paris complain that it doesn't have the ocean and those who choose Hawaii regret that it doesn't have the museums. Psychologist Barry Schwartz calls this the 'tyranny of choice' because rather than providing freedom, it actually constrains our decision-making. He argues that wider choice increases unhappiness because we worry that we are going to make the wrong decision and so we get stressed about trying to process all the comparisons in an effort to get it right. This both increases our fear of making the wrong choice and raises expectations that we should be able to get the best choice. Having made the choice, we then start to regret, wondering whether it was the right one.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.0618185483870968,
+                0.13654317469364508,
+                0.4307701612903226,
+                0.515394142479854
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3,
+            "area": 29657.362,
+            "bbox": [
+                153.80883102696964,
+                2305.5194383943985,
+                1065.3971325002367,
+                27.83690846569516
+            ],
+            "html": "",
+            "text": "99",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.062019689930229695,
+                0.6570303329707605,
+                0.4295956179436438,
+                0.007933003267510732
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 99,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4,
+            "area": 33663.314,
+            "bbox": [
+                1330.0532876666362,
+                309.41608742201913,
+                580.656362422242,
+                57.97458986061423
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"4\">위 글의 주제로 가장 적절한 것은?</span></div>",
+            "text": "윗글의 주제로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5363118095429984,
+                0.08817785335480739,
+                0.23413563000896853,
+                0.016521684200802005
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 5,
+            "area": 395241.234,
+            "bbox": [
+                1278.6422136389956,
+                376.1377582291997,
+                1035.9391472698153,
+                381.52939250040924
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"5\">① freedom growing with more available choices<br>② how to choose the best vacation spot<br>③ why people always prefer fewer options<br>④ benefits of comparing travel destinations<br>⑤ psychological effects of having too many choices </span></div>",
+            "text": "① freedom growing with more available choices\n② how to choose the best vacation spot\n③ why people always prefer fewer options\n④ benefits of comparing travel destinations\n⑤ psychological effects of having too many choices ",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5155815377576595,
+                0.10719229359623815,
+                0.41771739809266745,
+                0.10872880948999979
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 6,
+            "area": 27183.906,
+            "bbox": [
+                1278.6422136389956,
+                818.2165144388761,
+                1037.5757020048386,
+                26.199443261830766
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5155815377576595,
+                0.23317655013932062,
+                0.41837729919549943,
+                0.0074663560164806965
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 7,
+            "area": 41674.262,
+            "bbox": [
+                1335.7250093219445,
+                1037.0264383942829,
+                750.7849781637906,
+                55.50758603675854
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"7\">위 글에 관한 내용으로 일치하지 <u>않는</u> 것은?</span></div>",
+            "text": "윗글에 관한 내용으로 일치하지 <u>않는</u> 것은? ",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5385987940814293,
+                0.29553332527622767,
+                0.30273587829185106,
+                0.01581863380927858
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8,
+            "area": 695689.851,
+            "bbox": [
+                1268.822885228855,
+                1104.6314829380708,
+                1049.0315851500025,
+                663.1734075650891
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"8\">① People feel more stress when given too many choices.<br>② Choosing between Paris and Hawaii can reduce overall happiness.<br>③ According to Schwartz, decision-making becomes easier with broader comparisons.<br>④ Wider choices often raise expectations about making the best decision.<br>⑤ More options can lead to regret after making a decision.</span></div>",
+            "text": "① People feel more stress when given too many choices.\n② Choosing between Paris and Hawaii can reduce overall happiness.\n③ According to Schwartz, decision-making becomes easier with broader comparisons.\n④ Wider choices often raise expectations about making the best decision.\n⑤ More options can lead to regret after making a decision.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5116221311406673,
+                0.3147995106691567,
+                0.4229966069153236,
+                0.18899213666716702
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9,
+            "area": 24123.572,
+            "bbox": [
+                1267.1863304938315,
+                1820.113379559038,
+                1052.3046946200493,
+                22.924512854102204
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5109622300378353,
+                0.5186985977654711,
+                0.4243164091209876,
+                0.006533061514420691
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 10,
+            "area": 122721.507,
+            "bbox": [
+                1265.5497757588082,
+                2044.1431871148552,
+                1055.577804090096,
+                116.26002947437337
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"10\">위 글의 내용을 <u>한 문장</u>으로 요약하고자 한다. 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.</span></div>",
+            "text": "윗글의 내용을 <u>한 문장</u>으로 요약하고자 한다. 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.   ",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5103023289350033,
+                0.5825429430364364,
+                0.4256362113266516,
+                0.03313195482313291
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11,
+            "area": 239445.618,
+            "bbox": [
+                1301.553979929323,
+                2188.6665767933096,
+                1001.5714978343237,
+                239.06991976420431
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"11\">More choices create ______(A)______ to choose perfectly, resulting in regret and ______(B)______ happiness.</span></div>",
+            "text": "More choices create ______(A)______ to choose perfectly, resulting in regret and ______(B)______ happiness. ",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5248201531973077,
+                0.623729431973015,
+                0.4038594749331951,
+                0.06813049865038595
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12,
+            "area": 298765.702,
+            "bbox": [
+                1303.1905346643466,
+                2506.75261224694,
+                877.1933379725447,
+                340.5927624037986
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"12\"><table style=\"width: 100%; text-align: center;\"><tbody><tr><td style=\"width: 12%;\"></td><td style=\"width: 44%;\">(A)</td><td style=\"width: 44%;\">(B)</td></tr><tr><td style=\"width: 12%;\">①</td><td style=\"width: 44%;\">pressure</td><td style=\"width: 44%;\">increased </td></tr><tr><td style=\"width: 12%;\">②</td><td style=\"width: 44%;\">pressure</td><td style=\"width: 44%;\">reduced </td></tr><tr><td style=\"width: 12%;\">③</td><td style=\"width: 44%;\">comfort</td><td style=\"width: 44%;\">reduced </td></tr><tr><td style=\"width: 12%;\">④</td><td style=\"width: 44%;\">comfort</td><td style=\"width: 44%;\">increased </td></tr><tr><td style=\"width: 12%;\">⑤</td><td style=\"width: 44%;\">stress</td><td style=\"width: 44%;\">increased</td></tr></tbody></table></span></div>",
+            "text": "(A)&&(B)\n① pressure&&increased \n② pressure&&reduced \n③ comfort&&reduced \n④ comfort&&increased \n⑤ stress&&increased\n",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5254800543001398,
+                0.7143780599164833,
+                0.35370699111796156,
+                0.09706262821424867
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13,
+            "area": 17284.719,
+            "bbox": [
+                1268.1678933349908,
+                2901.4959335081544,
+                1055.5778040900964,
+                16.374652038643944
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5113580215060447,
+                0.8268725943311924,
+                0.42563621132665175,
+                0.0046664725103003546
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14,
+            "area": 17284.719,
+            "bbox": [
+                1267.1863304938315,
+                2930.0577970427544,
+                1055.577804090096,
+                16.374652038643944
+            ],
+            "html": "",
+            "text": "99",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5109622300378353,
+                0.8350121963644213,
+                0.4256362113266516,
+                0.0046664725103003546
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 99,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 15,
+            "area": 43159.779,
+            "bbox": [
+                171.972269224211,
+                196.59138021994883,
+                1036.8705259615763,
+                41.62504162504163
+            ],
+            "html": "",
+            "text": "99",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06934365694524637,
+                0.05602490174407205,
+                0.4180929540167646,
+                0.011862365809359256
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 99,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16,
+            "area": 33164.445,
+            "bbox": [
+                211.91591709431987,
+                246.54143016999882,
+                585.8401687615969,
+                56.610056610056574
+            ],
+            "html": "",
+            "text": "다음 글을 읽고, 물음에 답하시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.08544996657029026,
+                0.07025974071530317,
+                0.23622587450064392,
+                0.016132817500728577
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 0,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17,
+            "area": 1830693.567,
+            "bbox": [
+                144.22030036444175,
+                308.2505030988576,
+                1061.3789872045766,
+                1724.8255234297103
+            ],
+            "html": "",
+            "text": "Shoppers confronted with the choice of thirty different varieties of gourmet chocolates are more likely to walk away without buying any, compared with when they are presented with only half a dozen choices. If employees are given a free trip to Paris, they are happy. If you give them a free trip to Hawaii, they are happy. But if you offer them the choice between the two destinations, they are less happy, no matter what they choose. Why might choice be so disruptive? The reason is that choice forces us to __________. People who choose Paris complain that it doesn't have the ocean and those who choose Hawaii regret that it doesn't have the museums. Psychologist Barry Schwartz calls this the 'tyranny of choice' because rather than providing freedom, it actually constrains our decision-making. He argues that wider choice increases unhappiness because we worry that we are going to make the wrong decision and so we get stressed about trying to process all the comparisons in an effort to get it right. This both increases our fear of making the wrong choice and raises expectations that we should be able to get the best choice. Having made the choice, we then start to regret, wondering whether it was the right one.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.05815334692114587,
+                0.08784568341375253,
+                0.42797539806636153,
+                0.49154332386141647
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 18,
+            "area": 39521.33,
+            "bbox": [
+                144.83382099893174,
+                2055.952977303801,
+                1055.482976292131,
+                37.443834248626445
+            ],
+            "html": "",
+            "text": "99",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.0584007342737628,
+                0.5859085144781423,
+                0.42559797431134316,
+                0.010670799158913207
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 99,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 19,
+            "area": 58450.458,
+            "bbox": [
+                1337.5545365252647,
+                308.3475658795619,
+                975.6355643740499,
+                59.91013479780332
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"19\">위 글의 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.</span></div>",
+            "text": "윗글의 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5393365066634132,
+                0.0878733445082821,
+                0.39340143724760074,
+                0.01707327865426142
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 20,
+            "area": 408418.216,
+            "bbox": [
+                1277.668977586704,
+                438.15285794146905,
+                1035.5211233126115,
+                394.4083874188715
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"20\">① choose quickly without regrets<br>② focus only on benefits and positives<br>③ simplify options and increase satisfaction<br>④ ignore differences and avoid tough decisions<br>⑤ make comparisons and acknowledge relative disadvantages</span></div>",
+            "text": "① choose quickly without regrets\n② focus only on benefits and positives\n③ simplify options and increase satisfaction\n④ ignore differences and avoid tough decisions\n⑤ make comparisons and acknowledge relative disadvantages",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5151891038656065,
+                0.12486544825918183,
+                0.4175488400454079,
+                0.11239908447388756
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 21,
+            "area": 54675.844,
+            "bbox": [
+                1272.6785143418238,
+                899.0791195347967,
+                1043.0068181799306,
+                52.42136794807789
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5131768202991225,
+                0.25622089470926096,
+                0.42056726539513334,
+                0.014939118822478737
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 22,
+            "area": 49194.557,
+            "bbox": [
+                1325.0783784130645,
+                1036.3731784464292,
+                895.7881524559689,
+                54.91762356465301
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"22\">위 글에서 필자가 주장하는 바로 가장 적절한 것은?</span></div>",
+            "text": "윗글에서 필자가 주장하는 바로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5343057977472034,
+                0.29534715829194336,
+                0.3612049001838584,
+                0.015650505433072958
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 23,
+            "area": 611151.114,
+            "bbox": [
+                1280.1642092091438,
+                1102.1568519504553,
+                1033.0258916901716,
+                591.6125811283075
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"23\">① More choices always lead to greater happiness.<br>② Having too many choices can cause stress and regret.<br>③ People prefer to have as many options as possible.<br>④ Comparing options makes decision-making easier and better.<br>⑤ Choice always increases freedom without any downside.</span></div>",
+            "text": "① More choices always lead to greater happiness.\n② Having too many choices can cause stress and regret.\n③ People prefer to have as many options as possible.\n④ Comparing options makes decision-making easier and better.\n⑤ Choice always increases freedom without any downside.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5161952456488483,
+                0.31409428667724576,
+                0.416542698262166,
+                0.16859862671083142
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 24,
+            "area": 41358.807,
+            "bbox": [
+                1277.668977586704,
+                1774.2369676320354,
+                1035.5211233126115,
+                39.94008986520225
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5151891038656065,
+                0.505624670171569,
+                0.4175488400454079,
+                0.011382185769507624
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 25,
+            "area": 125670.977,
+            "bbox": [
+                1337.5545365252647,
+                1963.338396102592,
+                968.1498695067294,
+                129.80529206190704
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"25\">다음 다섯 명의 학생 중, 위 글을 읽고 난 후의 반응으로 적절하지 <u>않은</u> 것은?</span></div>",
+            "text": "다음 다섯 명의 학생 중, 윗글을 읽고 난 후의 반응으로 적절하지 <u>않은</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5393365066634132,
+                0.5595150744094021,
+                0.3903830118978747,
+                0.036992103750899695
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 26,
+            "area": 690175.087,
+            "bbox": [
+                1280.1642092091438,
+                2100.6324550142244,
+                1035.5211233126115,
+                666.5002496255611
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"26\">① Mina: Having fewer chocolate choices causes shoppers to feel unhappy.<br>② Joon: I understand why I regret some decisions after reading this.<br>③ Sora: It&apos;s interesting how choice can cause stress, not freedom.<br>④ Hyun: I will try to limit my options to avoid feeling overwhelmed.<br>⑤ Minho: I feel relieved knowing others struggle with too many choices too.</span></div>",
+            "text": "① Mina: Having fewer chocolate choices causes shoppers to feel unhappy.\n② Joon: I understand why I regret some decisions after reading this.\n③ Sora: It's interesting how choice can cause stress, not freedom.\n④ Hyun: I will try to limit my options to avoid feeling overwhelmed.\n⑤ Minho: I feel relieved knowing others struggle with too many choices too.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5161952456488483,
+                0.5986413379920845,
+                0.4175488400454079,
+                0.18994022502865804
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 27,
+            "area": 49231.929,
+            "bbox": [
+                1277.668977586704,
+                2848.628112513693,
+                1038.0163549350514,
+                47.42885671492695
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5151891038656065,
+                0.8118062446604996,
+                0.41855498182864975,
+                0.013516345601290097
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 28,
+            "area": 70129.338,
+            "bbox": [
+                1275.1737459642636,
+                2980.929660192175,
+                1040.5115865574908,
+                67.39890164752887
+            ],
+            "html": "",
+            "text": "99",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5141829620823644,
+                0.8495097350219935,
+                0.41956112361189146,
+                0.019207438486044136
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 99,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 29,
+            "area": 14594.202,
+            "bbox": [
+                150.4308748291835,
+                197.51280175566933,
+                1088.1967542071723,
+                13.411363082175114
+            ],
+            "html": "",
+            "text": "99",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06065761081821915,
+                0.05628748981352788,
+                0.4387890137932146,
+                0.003821990049066718
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 99,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 30,
+            "area": 26729.037,
+            "bbox": [
+                215.82999999999998,
+                248.94999999999993,
+                573.0925700272526,
+                46.639999999999986
+            ],
+            "html": "",
+            "text": "다음 글을 읽고, 물음에 답하시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.0870282258064516,
+                0.07094613850099742,
+                0.23108571372066636,
+                0.013291536050156736
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 0,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 31,
+            "area": 2616066.488,
+            "bbox": [
+                166.80000000000007,
+                310.3599999999999,
+                1038.4,
+                2519.3244298331765
+            ],
+            "html": "",
+            "text": " As the train pulled into a quiet countryside station, the gentle chatter of passengers filled the air. Linda was excited to finally visit her grandparents after two years. She watched people getting onto the train and hurriedly finding their seats. A moment later, an elderly woman struggled with a heavy bag, trying to sit down next to her. The bag seemed almost too big for her small body.\n Linda hesitated, unsure if the elderly woman would want her help. But soon, she chose to assist the woman. \"Let me help you with your bag,\" she said. Before she could reach the bag, the elderly woman suddenly lost her balance and fell down. She lay on her back, and her face was pale. Linda froze for a moment, feeling the urgency of the situation. She quickly knelt down beside the fallen woman, as a few people rushed over.\n Linda carefully tapped the elderly woman's shoulder to check if she was alright. The woman groaned softly, trying to gather her strength. Linda moved closer, sliding a hand under the woman's back. As the woman's eyes slowly opened, she reassured her softly, \"It's okay, just relax for a moment.\" Linda helped the woman sit up slowly, then guided her back to her seat. As the situation settled, people around went back to their seats.\n As the elderly woman finally calmed down, she looked at Linda with a smile. \"I'm so sorry,\" she said. \"I have low blood pressure, and the sudden movement of the train must have made me feel dizzy. Thank you so much for helping me.\" Linda nodded gently in response, then turned her gaze back to the peaceful countryside scene. She thought that no matter how unsure she might feel, even the smallest act of help is much better for someone in need than doing nothing.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06725806451612906,
+                0.08844685095468792,
+                0.4187096774193549,
+                0.717960795050777
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 32,
+            "area": 17539.45,
+            "bbox": [
+                151.844699059547,
+                2843.7355851863927,
+                1087.7967155331676,
+                16.12383102225067
+            ],
+            "html": "",
+            "text": "99",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06122770123368831,
+                0.8104119650003969,
+                0.43862770787627725,
+                0.0045949931667855996
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 99,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 33,
+            "area": 27370.806,
+            "bbox": [
+                1339.2800000000002,
+                312.1,
+                611.2283716151617,
+                44.77999999999997
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"33\">위 글의 제목으로 가장 적절한 것은?</span></div>",
+            "text": "윗글의 제목으로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5400322580645162,
+                0.08894271872328299,
+                0.2464630530706297,
+                0.012761470504417205
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 34,
+            "area": 297003.818,
+            "bbox": [
+                1282.6099265775727,
+                373.96975210768335,
+                929.7806533707419,
+                319.4342843208973
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"34\">① When Kindness Comes With a Plan<br>② A Lesson About Traveling Alone at Night<br>③ Why You Shouldn&apos;t Interfere With Strangers<br>④ An Unexpected Incident and a Kind Choice<br>⑤ Missing the Train to Visit Grandparents</span></div>",
+            "text": "① When Kindness Comes With a Plan\n② A Lesson About Traveling Alone at Night\n③ Why You Shouldn't Interfere With Strangers\n④ An Unexpected Incident and a Kind Choice\n⑤ Missing the Train to Visit Grandparents",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5171814220070857,
+                0.10657445201130902,
+                0.374911553778525,
+                0.09103285389595249
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 35,
+            "area": 12404.939,
+            "bbox": [
+                1240.0258024418576,
+                765.5324214453901,
+                1099.0775703609193,
+                11.286681715575696
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5000104042104264,
+                0.21816255954556574,
+                0.443176439661661,
+                0.0032164952167499845
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 36,
+            "area": 35354.843,
+            "bbox": [
+                1342.65,
+                906.35,
+                738.2510510254924,
+                47.889999999999986
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"36\">위 글에 관한 내용으로 일치하지 <u>않는</u> 것은?</span></div>",
+            "text": "윗글에 관한 내용으로 일치하지 <u>않는</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5413911290322581,
+                0.2582929609575378,
+                0.297681875413505,
+                0.013647762895411794
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 37,
+            "area": 598466.836,
+            "bbox": [
+                1281.030843049114,
+                971.4412404249194,
+                1028.1693400150534,
+                582.0702999032571
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"37\">① Linda helped an elderly woman who had fallen on the train.<br>② The elderly woman fainted while getting off the train.<br>③ The elderly woman lost her balance before Linda could assist her.<br>④ Linda felt uncertain but decided to offer help.<br>⑤ People around came to help when the elderly woman fell.</span></div>",
+            "text": "① Linda helped an elderly woman who had fallen on the train.\n② The elderly woman fainted while getting off the train.\n③ The elderly woman lost her balance before Linda could assist her.\n④ Linda felt uncertain but decided to offer help.\n⑤ People around came to help when the elderly woman fell.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5165446947778686,
+                0.2768427587417838,
+                0.4145844112963925,
+                0.16587925332096243
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 38,
+            "area": 12404.939,
+            "bbox": [
+                1241.3819288670607,
+                1622.6682771459566,
+                1099.0775703609193,
+                11.286681715575696
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5005572293818793,
+                0.46243040101053196,
+                0.443176439661661,
+                0.0032164952167499845
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 39,
+            "area": 116884.405,
+            "bbox": [
+                1284.9774802671154,
+                1772.12,
+                1021.00283656177,
+                114.48000000000002
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"39\">위 글의 내용을 <u>한 문장</u>으로 요약하고자 한다. 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.</span></div>",
+            "text": "윗글의 내용을 <u>한 문장</u>으로 요약하고자 한다. 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5181360807528691,
+                0.5050213736107153,
+                0.41169469216200405,
+                0.032624679395839275
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 40,
+            "area": 231120.586,
+            "bbox": [
+                1298.7579006355807,
+                1988.8740160582238,
+                1002.3845289801932,
+                230.5707836181873
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"40\">Linda ______(A)______ a dizzy elderly woman on the train, demonstrating how ______(B)______ can make a big difference.</span></div>",
+            "text": "Linda ______(A)______ a dizzy elderly woman on the train, demonstrating how ______(B)______ can make a big difference.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5236927018691857,
+                0.5667922530801436,
+                0.40418731007265857,
+                0.06570840228503486
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 41,
+            "area": 271066.36,
+            "bbox": [
+                1334.8035857711566,
+                2312.0935473424192,
+                836.3948079432803,
+                324.0890035472421
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"41\"><table style=\"width: 100%; text-align: center;\"><tbody><tr><td style=\"width: 12%;\"></td><td style=\"width: 44%;\">(A)</td><td style=\"width: 44%;\">(B)</td></tr><tr><td style=\"width: 12%;\">①</td><td style=\"width: 44%;\">comforted</td><td style=\"width: 44%;\">hostility</td></tr><tr><td style=\"width: 12%;\">②</td><td style=\"width: 44%;\">neglected</td><td style=\"width: 44%;\">hostility</td></tr><tr><td style=\"width: 12%;\">③</td><td style=\"width: 44%;\">neglected</td><td style=\"width: 44%;\">hospitality</td></tr><tr><td style=\"width: 12%;\">④</td><td style=\"width: 44%;\">assisted</td><td style=\"width: 44%;\">hospitality</td></tr><tr><td style=\"width: 12%;\">⑤</td><td style=\"width: 44%;\">assisted</td><td style=\"width: 44%;\">cruelty</td></tr></tbody></table></span></div>",
+            "text": "(A)&&(B)\n① comforted&&hostility\n② neglected&&hostility\n③ neglected&&hospitality\n④ assisted&&hospitality\n⑤ assisted&&cruelty",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5382272523270792,
+                0.6589038322434937,
+                0.3372559709448711,
+                0.0923593626523916
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 42,
+            "area": 15691.225,
+            "bbox": [
+                1243.1691720907786,
+                2717.2395111795304,
+                1098.9088215976014,
+                14.278914802474901
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5012778919720882,
+                0.7743629270959049,
+                0.44310839580548445,
+                0.004069226219001112
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 43,
+            "area": 113330.963,
+            "bbox": [
+                239.93374628837608,
+                309.05980836960146,
+                959.859136997595,
+                118.07041129695682
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"43\">다음 <u>다섯 명</u>의 학생 중, 위 글을 읽고 난 후의 반응으로 적절하지 <u>않은</u> 것은?</span></div>",
+            "text": "다음 <u>다섯 명</u>의 학생 중, 윗글을 읽고 난 후의 반응으로 적절하지 <u>않은</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.09674747834208713,
+                0.08807632042450882,
+                0.3870399745958044,
+                0.03364788010742571
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 44,
+            "area": 732850.286,
+            "bbox": [
+                139.84148333942892,
+                442.5307080965962,
+                1085.6160827539638,
+                675.0547428499921
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"44\">① Jieun: I learned even small kindness can make a big difference.<br>② Minho: Linda&apos;s quick action taught me to help without hesitation.<br>③ Soojin: The story shows how courage can overcome uncertainty.<br>④ Hyunwoo: I realized that taking quick action can prevent bigger problems.<br>⑤ Daehyun: I became aware that the help we give is usually unwanted.</span></div>",
+            "text": "① Jieun: I learned even small kindness can make a big difference.\n② Minho: Linda's quick action taught me to help without hesitation.\n③ Soojin: The story shows how courage can overcome uncertainty.\n④ Hyunwoo: I realized that taking quick action can prevent bigger problems.\n⑤ Daehyun: I became aware that the help we give is usually unwanted.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.05638769489493101,
+                0.12611305445899007,
+                0.437748420465308,
+                0.1923780971359339
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 45,
+            "area": 13372.579,
+            "bbox": [
+                152.67382474314013,
+                1173.7687055897707,
+                1041.9861219813463,
+                12.833740358364821
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.061562026106104895,
+                0.33450233844108596,
+                0.42015569434731703,
+                0.0036573782725462583
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 46,
+            "area": 13240.83,
+            "bbox": [
+                144.9744199009134,
+                1204.5696824498464,
+                1031.7202488583775,
+                12.833740358364821
+            ],
+            "html": "",
+            "text": "99",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.058457427379400566,
+                0.34328004629519704,
+                0.41601622937837807,
+                0.0036573782725462583
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 99,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 47,
+            "area": 51382.325,
+            "bbox": [
+                1346.0895802541017,
+                1573.5178557478694,
+                834.1021912412252,
+                61.60195372015164
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"47\">다음 글의 밑줄 친 부분 중, 어법상 <u>틀린</u> 것은?</span></div>",
+            "text": "다음 글의 밑줄 친 부분 중, 어법상 <u>틀린</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5427780565540733,
+                0.44842344136445406,
+                0.3363315287263005,
+                0.017555415708222184
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 48,
+            "area": 912550.085,
+            "bbox": [
+                1263.9625952703504,
+                1649.3795449117674,
+                1067.6508047887687,
+                854.7271078671006
+            ],
+            "html": "<div class=\"contents question\"><span class=\"48\">Psychologist Barry Schwartz calls this the &apos;tyranny of choice&apos; because rather than ① <u>providing</u> freedom, it actually constrains our decision-making. He argues ② <u>that</u> wider choice increases unhappiness because we worry that we are going to make the wrong decision and so we get ③ <u>stressed</u> about trying to process all the comparisons in an effort ④ <u>to get</u> it right. This both increases our fear of making the wrong choice and raises expectations that we should be able to get the best choice. ⑤ <u>Having been made</u> the choice, we then start to regret, wondering whether it was the right one.</span></div>",
+            "text": "Psychologist Barry Schwartz calls this the 'tyranny of choice' because rather than ① <u>providing</u> freedom, it actually constrains our decision-making. He argues ② <u>that</u> wider choice increases unhappiness because we worry that we are going to make the wrong decision and so we get ③ <u>stressed</u> about trying to process all the comparisons in an effort ④ <u>to get</u> it right. This both increases our fear of making the wrong choice and raises expectations that we should be able to get the best choice. ⑤ <u>Having been made</u> the choice, we then start to regret, wondering whether it was the right one.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5096623368025607,
+                0.47004261752971427,
+                0.4305043567696648,
+                0.24358139295158182
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 49,
+            "area": 13339.642,
+            "bbox": [
+                1284.4943415162884,
+                2581.964684147192,
+                1039.4196537006042,
+                12.833740358364594
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5179412667404388,
+                0.7358121071949821,
+                0.41912082810508233,
+                0.0036573782725461937
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 50,
+            "area": 49138.265,
+            "bbox": [
+                242.83294862772107,
+                309.8386923816671,
+                823.5692694705489,
+                59.66500535891379
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"50\">다음 글의 밑줄 친 부분 중, 어법상 <u>틀린</u> 것은?</span></div>",
+            "text": "다음 글의 밑줄 친 부분 중, 어법상 <u>틀린</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.09791651154343592,
+                0.08829828794005902,
+                0.33208438285102776,
+                0.017003421304905612
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 51,
+            "area": 1308050.884,
+            "bbox": [
+                163.26,
+                381.63,
+                1042.03,
+                1255.291003307378
+            ],
+            "html": "<div class=\"contents question\"><span class=\"51\">As the train ① <u>pulled</u> into a quiet countryside station, the gentle chatter of passengers filled the air. Linda was excited to finally visit her grandparents after two years. She watched people ② <u>get</u> onto the train and hurriedly finding their seats. A moment later, an elderly woman struggled with a heavy bag, trying to sit down next to her. The bag seemed almost too big for her small body.<br>Linda ③ <u>was hesitated</u>, unsure if the elderly woman would want her help. But soon, she chose ④ <u>to assist</u> the woman. &quot;Let me help you with your bag,&quot; she said. Before she could reach the bag, the elderly woman suddenly lost her balance and fell down. She lay on her back, and her face was pale. Linda froze for a moment, ⑤ <u>feeling</u> the urgency of the situation. She quickly knelt down beside the fallen woman, as a few people rushed over.</span></div>",
+            "text": "As the train ① <u>pulled</u> into a quiet countryside station, the gentle chatter of passengers filled the air. Linda was excited to finally visit her grandparents after two years. She watched people ② <u>get</u> onto the train and hurriedly finding their seats. A moment later, an elderly woman struggled with a heavy bag, trying to sit down next to her. The bag seemed almost too big for her small body.\nLinda ③ <u>was hesitated</u>, unsure if the elderly woman would want her help. But soon, she chose ④ <u>to assist</u> the woman. \"Let me help you with your bag,\" she said. Before she could reach the bag, the elderly woman suddenly lost her balance and fell down. She lay on her back, and her face was pale. Linda froze for a moment, ⑤ <u>feeling</u> the urgency of the situation. She quickly knelt down beside the fallen woman, as a few people rushed over.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06583064516129032,
+                0.10875748076375036,
+                0.4201733870967742,
+                0.3577346831881955
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 52,
+            "area": 28223.714,
+            "bbox": [
+                159.0947446253615,
+                1710.7695981464267,
+                1049.70667484512,
+                26.8872390507579
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.0641511067037748,
+                0.4875376455247725,
+                0.4232688205020645,
+                0.007662365075736078
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 53,
+            "area": 46773.887,
+            "bbox": [
+                244.4661550179094,
+                1891.1500223833189,
+                822.1827892189149,
+                56.88988883059233
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"53\">다음 글의 밑줄 친 부분 중, 어법상 <u>틀린</u> 것은?</span></div>",
+            "text": "다음 글의 밑줄 친 부분 중, 어법상 <u>틀린</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.09857506250722153,
+                0.5389427251021143,
+                0.3315253182334334,
+                0.01621256450002631
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 54,
+            "area": 1388280.118,
+            "bbox": [
+                164.11,
+                1957.2600000000023,
+                1043.9499999999998,
+                1329.8339177260211
+            ],
+            "html": "<div class=\"contents question\"><span class=\"54\">Linda carefully tapped the elderly woman&apos;s shoulder ① <u>to check</u> if she was alright. The woman groaned softly, trying to gather her strength. Linda moved closer, sliding a hand under the woman&apos;s back. As the woman&apos;s eyes slowly opened, she reassured her softly, &quot;It&apos;s okay, just relax for a moment.&quot; Linda helped the woman ② <u>sitting</u> up slowly, then guided her back to her seat. As the situation settled, people around went back to their seats.<br>As the elderly woman finally calmed down, she looked at Linda with a smile. &quot;I&apos;m so sorry,&quot; she said. &quot;I have low blood pressure, and the sudden movement of the train ③ <u>must have made</u> me feel dizzy. Thank you so much for helping me.&quot; Linda nodded gently in response, then turned her gaze back to the peaceful countryside scene. She thought ④ <u>that</u> no matter how unsure she might feel, even the smallest act of help ⑤ <u>is</u> much better for someone in need than doing nothing.</span></div>",
+            "text": "Linda carefully tapped the elderly woman's shoulder ① <u>to check</u> if she was alright. The woman groaned softly, trying to gather her strength. Linda moved closer, sliding a hand under the woman's back. As the woman's eyes slowly opened, she reassured her softly, \"It's okay, just relax for a moment.\" Linda helped the woman ② <u>sitting</u> up slowly, then guided her back to her seat. As the situation settled, people around went back to their seats.\nAs the elderly woman finally calmed down, she looked at Linda with a smile. \"I'm so sorry,\" she said. \"I have low blood pressure, and the sudden movement of the train ③ <u>must have made</u> me feel dizzy. Thank you so much for helping me.\" Linda nodded gently in response, then turned her gaze back to the peaceful countryside scene. She thought ④ <u>that</u> no matter how unsure she might feel, even the smallest act of help ⑤ <u>is</u> much better for someone in need than doing nothing.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.0661733870967742,
+                0.5577828441151331,
+                0.4209475806451612,
+                0.37897803297977234
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 55,
+            "area": 28326.909,
+            "bbox": [
+                158.41437935418026,
+                3362.730530818263,
+                1053.5447248445537,
+                26.88723905075767
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06387676586862107,
+                0.9583159107490063,
+                0.4248164213082878,
+                0.007662365075736014
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 56,
+            "area": 124806.459,
+            "bbox": [
+                1352.0296817931956,
+                304.83087928152355,
+                955.6744498589944,
+                130.59516110368003
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"56\">다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 <u>않은</u> 것은?</span></div>",
+            "text": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 <u>않은</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5451732587875788,
+                0.08687115397022614,
+                0.38535260074959454,
+                0.03721720179643204
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 57,
+            "area": 1310636.415,
+            "bbox": [
+                1274.5299999999997,
+                445.30999999999926,
+                1041.04,
+                1258.9683536840591
+            ],
+            "html": "<div class=\"contents question\"><span class=\"57\">As the train ① <u>pulled</u> into a quiet countryside station, the gentle chatter of passengers filled the air. Linda was excited to finally visit her grandparents after two years. She watched people getting onto the train and ② <u>hurriedly</u> finding their seats. A moment later, an elderly woman struggled with a heavy bag, trying to sit down next to her. The bag seemed almost too big for her small body.<br>Linda ③ <u>hesitated</u>, unsure if the elderly woman would want her help. But soon, she chose to ④ <u>hinder</u> the woman. &quot;Let me help you with your bag,&quot; she said. Before she could reach the bag, the elderly woman suddenly lost her balance and fell down. She lay on her back, and her face was ⑤ <u>pale</u>. Linda froze for a moment, feeling the urgency of the situation. She quickly knelt down beside the fallen woman, as a few people rushed over.</span></div>",
+            "text": "As the train ① <u>pulled</u> into a quiet countryside station, the gentle chatter of passengers filled the air. Linda was excited to finally visit her grandparents after two years. She watched people getting onto the train and ② <u>hurriedly</u> finding their seats. A moment later, an elderly woman struggled with a heavy bag, trying to sit down next to her. The bag seemed almost too big for her small body.\nLinda ③ <u>hesitated</u>, unsure if the elderly woman would want her help. But soon, she chose to ④ <u>hinder</u> the woman. \"Let me help you with your bag,\" she said. Before she could reach the bag, the elderly woman suddenly lost her balance and fell down. She lay on her back, and her face was ⑤ <u>pale</u>. Linda froze for a moment, feeling the urgency of the situation. She quickly knelt down beside the fallen woman, as a few people rushed over.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5139233870967741,
+                0.12690510116842385,
+                0.4197741935483871,
+                0.3587826599270616
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 58,
+            "area": 26157.751,
+            "bbox": [
+                1270.8168754776573,
+                1785.623450905971,
+                1047.704678278469,
+                24.96672197570365
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5124261594667973,
+                0.5088696069837477,
+                0.42246156382196326,
+                0.00711505328461204
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 59,
+            "area": 120976.956,
+            "bbox": [
+                237.27312251316334,
+                308.252632211049,
+                972.1135126039023,
+                124.44735549369562
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"59\">다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 <u>않은</u> 것은?</span></div>",
+            "text": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 <u>않은</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.09567464617466263,
+                0.08784629017128782,
+                0.3919812550822187,
+                0.035465191078283165
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 60,
+            "area": 1473511.063,
+            "bbox": [
+                158.13775939733478,
+                444.10457269696735,
+                1056.14484022059,
+                1395.1789627465303
+            ],
+            "html": "<div class=\"contents question\"><span class=\"60\">Linda carefully tapped the elderly woman&apos;s shoulder to check if she was alright. The woman groaned softly, trying to gather her strength. Linda moved closer, sliding a hand under the woman&apos;s back. As the woman&apos;s eyes slowly opened, she ① <u>reassured</u> her softly, &quot;It&apos;s okay, just relax for a moment.&quot; Linda helped the woman sit up slowly, then guided her back to her seat. As the situation ② <u>settled</u>, people around went back to their seats.<br>As the elderly woman finally calmed down, she looked at Linda with a smile. &quot;I&apos;m so sorry,&quot; she said. &quot;I have low blood pressure, and the ③ <u>sudden</u> movement of the train must have made me feel dizzy. Thank you so much for helping me.&quot; Linda nodded gently in response, then turned her gaze back to the ④ <u>peaceful</u> countryside scene. She thought that no matter how unsure she might feel, even the ⑤ <u>greatest</u> act of help is much better for someone in need than doing nothing.</span></div>",
+            "text": "Linda carefully tapped the elderly woman's shoulder to check if she was alright. The woman groaned softly, trying to gather her strength. Linda moved closer, sliding a hand under the woman's back. As the woman's eyes slowly opened, she ① <u>reassured</u> her softly, \"It's okay, just relax for a moment.\" Linda helped the woman sit up slowly, then guided her back to her seat. As the situation ② <u>settled</u>, people around went back to their seats.\nAs the elderly woman finally calmed down, she looked at Linda with a smile. \"I'm so sorry,\" she said. \"I have low blood pressure, and the ③ <u>sudden</u> movement of the train must have made me feel dizzy. Thank you so much for helping me.\" Linda nodded gently in response, then turned her gaze back to the ④ <u>peaceful</u> countryside scene. She thought that no matter how unsure she might feel, even the ⑤ <u>greatest</u> act of help is much better for someone in need than doing nothing.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06376522556344144,
+                0.12656157671614915,
+                0.42586485492765724,
+                0.3976001603723369
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 61,
+            "area": 27367.695,
+            "bbox": [
+                161.4505711005229,
+                1896.9164893739392,
+                1056.5233600761387,
+                25.903540150487288
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06510103673408181,
+                0.5405860613775831,
+                0.4260174839016688,
+                0.007382029110996662
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 62,
+            "area": 119501.193,
+            "bbox": [
+                1283.75073782702,
+                305.0310468684477,
+                1030.6342228980768,
+                115.94917972122852
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"62\">주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.</span></div>",
+            "text": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.  ",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5176414265431533,
+                0.08692819802463599,
+                0.4155783156847084,
+                0.033043368401604024
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 63,
+            "area": 317127.702,
+            "bbox": [
+                1299.3792173578913,
+                451.19427094678986,
+                998.2983883642764,
+                317.66824954969707
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"63\">Shoppers confronted with the choice of thirty different varieties of gourmet chocolates are more likely to walk away without buying any, compared with when they are presented with only half a dozen choices.</span></div>",
+            "text": "Shoppers confronted with the choice of thirty different varieties of gourmet chocolates are more likely to walk away without buying any, compared with when they are presented with only half a dozen choices.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5239432328056013,
+                0.12858200938922482,
+                0.40253967272753083,
+                0.09052956669982817
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 64,
+            "area": 458755.207,
+            "bbox": [
+                1268.822885228855,
+                832.9530677420427,
+                1057.214358825119,
+                433.9282790240708
+            ],
+            "html": "",
+            "text": "(A) People who choose Paris complain that it doesn't have the ocean and those who choose Hawaii regret that it doesn't have the museums. Psychologist Barry Schwartz calls this the 'tyranny of choice' because rather than providing freedom, it actually constrains our decision-making.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5116221311406673,
+                0.23737619485381667,
+                0.42629611242948345,
+                0.12366152152296118
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 65,
+            "area": 587768.888,
+            "bbox": [
+                1268.8815994750044,
+                1276.071065501822,
+                1058.850913560143,
+                555.1007041100377
+            ],
+            "html": "",
+            "text": "(B) If employees are given a free trip to Paris, they are happy. If you give them a free trip to Hawaii, they are happy. But if you offer them the choice between the two destinations, they are less happy, no matter what they choose. Why might choice be so disruptive? The reason is that choice forces us to make comparisons and acknowledge relative disadvantages.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5116458062399211,
+                0.36365661598798005,
+                0.4269560135323157,
+                0.1581934180991843
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 66,
+            "area": 652928.26,
+            "bbox": [
+                1269.721195488322,
+                1842.2874496181078,
+                1060.487468295166,
+                615.6869166530212
+            ],
+            "html": "",
+            "text": "(C) He argues that wider choice increases unhappiness because we worry that we are going to make the wrong decision and so we get stressed about trying to process all the comparisons in an effort to get it right. This both increases our fear of making the wrong choice and raises expectations that we should be able to get the best choice. Having made the choice, we then start to regret, wondering whether it was the right one.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5119843530194848,
+                0.5250177969843567,
+                0.4276159146351476,
+                0.17545936638729587
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 67,
+            "area": 160118.136,
+            "bbox": [
+                1266.6744222952393,
+                2509.634749459331,
+                782.2731633411877,
+                204.68315048305158
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"67\"><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 50%;\">① (A) - (C) - (B)</td></tr><tr><td style=\"width: 50%;\">② (B) - (A) - (C)</td></tr><tr><td style=\"width: 50%;\">③ (B) - (C) - (A)</td></tr><tr><td style=\"width: 50%;\">④ (C) - (A) - (B)</td></tr><tr><td style=\"width: 50%;\">⑤ (C) - (B) - (A)</td></tr></tbody></table></span></div>",
+            "text": "① (A) - (C) - (B)\n② (B) - (A) - (C)\n③ (B) - (C) - (A)\n④ (C) - (A) - (B)\n⑤ (C) - (B) - (A)",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5107558154416287,
+                0.7151994156338931,
+                0.3154327271537047,
+                0.05833090637875508
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 68,
+            "area": 27827.058,
+            "bbox": [
+                1267.1863304938315,
+                2780.135918727613,
+                1062.1240230301892,
+                26.19944326183031
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5109622300378353,
+                0.7922872381668888,
+                0.4282758157379795,
+                0.007466356016480567
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 69,
+            "area": 123695.428,
+            "bbox": [
+                168.2330135402616,
+                307.13434802554826,
+                1029.5265662689244,
+                120.14787430683913
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"69\">글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 것을 고르시오.</span></div>",
+            "text": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.0678358925565571,
+                0.08752759989328819,
+                0.41513167994714695,
+                0.03423991858274127
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 70,
+            "area": 262711.98,
+            "bbox": [
+                186.88266285213263,
+                456.61454300826074,
+                1016.9142904156922,
+                258.34230355220654
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"70\">Psychologist Barry Schwartz calls this the &apos;tyranny of choice&apos; because rather than providing freedom, it actually constrains our decision-making.</span></div>",
+            "text": "Psychologist Barry Schwartz calls this the 'tyranny of choice' because rather than providing freedom, it actually constrains our decision-making.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07535591244037605,
+                0.13012668652273032,
+                0.4100460848450372,
+                0.07362277103226177
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 71,
+            "area": 1662038.602,
+            "bbox": [
+                154.3961114576265,
+                772.7263784495598,
+                1051.7234385297788,
+                1580.3000492758288
+            ],
+            "html": "<div class=\"contents question\"><span class=\"71\">Shoppers confronted with the choice of thirty different varieties of gourmet chocolates are more likely to walk away without buying any, compared with when they are presented with only half a dozen choices. If employees are given a free trip to Paris, they are happy. If you give them a free trip to Hawaii, they are happy. But if you offer them the choice between the two destinations, they are less happy, no matter what they choose. Why might choice be so disruptive? (①) The reason is that choice forces us to make comparisons and acknowledge relative disadvantages. (②) People who choose Paris complain that it doesn&apos;t have the ocean and those who choose Hawaii regret that it doesn&apos;t have the museums. (③) He argues that wider choice increases unhappiness because we worry that we are going to make the wrong decision and so we get stressed about trying to process all the comparisons in an effort to get it right. (④) This both increases our fear of making the wrong choice and raises expectations that we should be able to get the best choice. (⑤) Having made the choice, we then start to regret, wondering whether it was the right one.</span></div>",
+            "text": "Shoppers confronted with the choice of thirty different varieties of gourmet chocolates are more likely to walk away without buying any, compared with when they are presented with only half a dozen choices. If employees are given a free trip to Paris, they are happy. If you give them a free trip to Hawaii, they are happy. But if you offer them the choice between the two destinations, they are less happy, no matter what they choose. Why might choice be so disruptive? (①) The reason is that choice forces us to make comparisons and acknowledge relative disadvantages. (②) People who choose Paris complain that it doesn't have the ocean and those who choose Hawaii regret that it doesn't have the museums. (③) He argues that wider choice increases unhappiness because we worry that we are going to make the wrong decision and so we get stressed about trying to process all the comparisons in an effort to get it right. (④) This both increases our fear of making the wrong choice and raises expectations that we should be able to get the best choice. (⑤) Having made the choice, we then start to regret, wondering whether it was the right one.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.062256496555494555,
+                0.22021270403236243,
+                0.4240820316652334,
+                0.4503562408879535
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 72,
+            "area": 8607.125,
+            "bbox": [
+                156.39316913596548,
+                2442.3794302364267,
+                959.5223022440834,
+                8.970218873340855
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06306176174837318,
+                0.6960328954791755,
+                0.3869041541306788,
+                0.0025563462163980775
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 73,
+            "area": 137385.804,
+            "bbox": [
+                1276.276799378143,
+                306.50705222277077,
+                1034.8492867193204,
+                132.75923932543964
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"73\">글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 것을 고르시오.</span></div>",
+            "text": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5146277416847351,
+                0.08734883220939606,
+                0.41727793819327436,
+                0.037833924002690124
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 74,
+            "area": 52453.59,
+            "bbox": [
+                1292.418296051408,
+                460.7948168442275,
+                885.9888173992094,
+                59.203444564047345
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"74\">But soon, she chose to assist the woman.</span></div>",
+            "text": "But soon, she chose to assist the woman.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5211364096981485,
+                0.1313179871314413,
+                0.35725355540290704,
+                0.01687188502822666
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 75,
+            "area": 1233933.344,
+            "bbox": [
+                1273.2508332978161,
+                573.3498230669645,
+                1060.1148489435798,
+                1163.9619473978735
+            ],
+            "html": "<div class=\"contents question\"><span class=\"75\">As the train pulled into a quiet countryside station, the gentle chatter of passengers filled the air. Linda was excited to finally visit her grandparents after two years. She watched people getting onto the train and hurriedly finding their seats. (①) A moment later, an elderly woman struggled with a heavy bag, trying to sit down next to her. (②) The bag seemed almost too big for her small body. Linda hesitated, unsure if the elderly woman would want her help. (③) &quot;Let me help you with your bag,&quot; she said. Before she could reach the bag, the elderly woman suddenly lost her balance and fell down. (④) She lay on her back, and her face was pale. Linda froze for a moment, feeling the urgency of the situation. (⑤) She quickly knelt down beside the fallen woman, as a few people rushed over.</span></div>",
+            "text": "As the train pulled into a quiet countryside station, the gentle chatter of passengers filled the air. Linda was excited to finally visit her grandparents after two years. She watched people getting onto the train and hurriedly finding their seats. (①) A moment later, an elderly woman struggled with a heavy bag, trying to sit down next to her. (②) The bag seemed almost too big for her small body. Linda hesitated, unsure if the elderly woman would want her help. (③) \"Let me help you with your bag,\" she said. Before she could reach the bag, the elderly woman suddenly lost her balance and fell down. (④) She lay on her back, and her face was pale. Linda froze for a moment, feeling the urgency of the situation. (⑤) She quickly knelt down beside the fallen woman, as a few people rushed over.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5134075940717001,
+                0.16339407895895255,
+                0.42746566489660476,
+                0.331707594014783
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 76,
+            "area": 14560.471,
+            "bbox": [
+                1277.4934700103502,
+                1848.8967980907735,
+                948.1762203426163,
+                15.356291873152486
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5151183346815928,
+                0.5269013388688439,
+                0.3823291211058937,
+                0.004376258727031202
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 77,
+            "area": 123638.109,
+            "bbox": [
+                172.0601212196466,
+                311.45108984582635,
+                1031.81622080748,
+                119.8257080610021
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"77\">글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 것을 고르시오.</span></div>",
+            "text": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06937908113695428,
+                0.08875779134962278,
+                0.4160549277449516,
+                0.03414810717041952
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 78,
+            "area": 105543.607,
+            "bbox": [
+                200.20000000000005,
+                467.41277156023705,
+                943.78,
+                111.83073091305084
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"78\">As the situation settled, people around went back to their seats.</span></div>",
+            "text": "As the situation settled, people around went back to their seats.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.08072580645161292,
+                0.13320398163586122,
+                0.3805564516129032,
+                0.031869686780578756
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 79,
+            "area": 1301441.951,
+            "bbox": [
+                153.12,
+                649.6958826045782,
+                1069.8200000000002,
+                1216.505534531696
+            ],
+            "html": "<div class=\"contents question\"><span class=\"79\">Linda carefully tapped the elderly woman&apos;s shoulder to check if she was alright. The woman groaned softly, trying to gather her strength. Linda moved closer, sliding a hand under the woman&apos;s back. As the woman&apos;s eyes slowly opened, she reassured her softly, &quot;It&apos;s okay, just relax for a moment.&quot; Linda helped the woman sit up slowly, then guided her back to her seat. (①) As the elderly woman finally calmed down, she looked at Linda with a smile. (②) &quot;I&apos;m so sorry,&quot; she said. (③) &quot;I have low blood pressure, and the sudden movement of the train must have made me feel dizzy. Thank you so much for helping me.&quot; (④) Linda nodded gently in response, then turned her gaze back to the peaceful countryside scene. (⑤) She thought that no matter how unsure she might feel, even the smallest act of help is much better for someone in need than doing nothing.</span></div>",
+            "text": "Linda carefully tapped the elderly woman's shoulder to check if she was alright. The woman groaned softly, trying to gather her strength. Linda moved closer, sliding a hand under the woman's back. As the woman's eyes slowly opened, she reassured her softly, \"It's okay, just relax for a moment.\" Linda helped the woman sit up slowly, then guided her back to her seat. (①) As the elderly woman finally calmed down, she looked at Linda with a smile. (②) \"I'm so sorry,\" she said. (③) \"I have low blood pressure, and the sudden movement of the train must have made me feel dizzy. Thank you so much for helping me.\" (④) Linda nodded gently in response, then turned her gaze back to the peaceful countryside scene. (⑤) She thought that no matter how unsure she might feel, even the smallest act of help is much better for someone in need than doing nothing.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06174193548387097,
+                0.18515129170834374,
+                0.43137903225806457,
+                0.34668154304123566
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 80,
+            "area": 81818.081,
+            "bbox": [
+                154.50985663092547,
+                1969.2129163787695,
+                1052.3063915581351,
+                77.75119617224914
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06230236154472801,
+                0.5611892038696977,
+                0.4243170933702158,
+                0.02215765066179799
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 81,
+            "area": 26223.794,
+            "bbox": [
+                1251.3489726198843,
+                387.7995632312916,
+                1069.9308041618458,
+                24.509803921568675
+            ],
+            "html": "",
+            "text": "99",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5045761986370502,
+                0.11051569200093804,
+                0.431423711355583,
+                0.006984840103040375
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 99,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 82,
+            "area": 33474.818,
+            "bbox": [
+                1316.6882583702263,
+                434.09585952758795,
+                585.331101513478,
+                57.18954248365998
+            ],
+            "html": "",
+            "text": "다음 글을 읽고, 물음에 답하시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5309226848267041,
+                0.12370927886223652,
+                0.23602060544898304,
+                0.016297960240427466
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 0,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 83,
+            "area": 1987667.588,
+            "bbox": [
+                1255.9899999999998,
+                504.2000000000005,
+                1067.21,
+                1862.4896579796648
+            ],
+            "html": "",
+            "text": "Shoppers ______①______ with the choice of thirty different varieties of gourmet chocolates are more likely to walk away without buying any, compared with when they are presented with only half a dozen choices. If employees are given a free trip to Paris, they are happy. If you give them a free trip to Hawaii, they are happy. But if you offer them the choice between the two destinations, (A) [ </u>no / choose / they / matter / less / be / they / happy / what</u> ]. Why might choice be so ______②______? The reason is that choice forces us to make comparisons and acknowledge relative disadvantages. People who choose Paris complain that it doesn't have the ocean and those who choose Hawaii regret that it doesn't have the museums. Psychologist Barry Schwartz calls this the 'tyranny of choice' because (B) [ <u>rather / our / freedom / actually / constrain / decision-making / provide / than / it</u> ]. He argues that wider choice increases unhappiness because we worry that we are going to make the wrong decision and so we get stressed about trying to process all the comparisons in an effort to get it right. This both increases our fear of making the wrong choice and raises ______③______ that we should be able to get the best choice. (C) [ <u>it / start / right / the / the / one / regret / to / wonder / we / choice / whether / then / make / be</u> ].",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5064475806451612,
+                0.1436876603020805,
+                0.4303266129032258,
+                0.530775052145815
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 84,
+            "area": 37694.479,
+            "bbox": [
+                1254.7418522553455,
+                2387.2373366037723,
+                1064.724056517816,
+                35.40305010893189
+            ],
+            "html": "",
+            "text": "99",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5059442952642522,
+                0.6803184202347599,
+                0.4293242163378291,
+                0.010089213482169249
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 99,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 85,
+            "area": 213731.715,
+            "bbox": [
+                173.5260237609125,
+                234.5205228622646,
+                1026.47468208902,
+                208.21917808219183
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"85\">위 글을 읽고, 괄호 (A) 안의 단어들을 글의 흐름과 어법에 맞도록 <u>한 번씩</u> <u>모두</u> 사용하여 문장을 완성하시오. (단, 필요하면 어형 변화할 것, 새로운 단어 추가 금지)</span></div>",
+            "text": "윗글을 읽고, 괄호 (A) 안의 단어들을 글의 흐름과 어법에 맞도록 <u>한 번씩</u> <u>모두</u> 사용하여 문장을 완성하시오. (단, 필요하면 어형 변화할 것, 새로운 단어 추가 금지) ",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06997017087133568,
+                0.06683400480543306,
+                0.4139010814875081,
+                0.05933860874385632
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 86,
+            "area": 129363.933,
+            "bbox": [
+                172.92139558830797,
+                456.1438105334977,
+                1026.4746820890205,
+                126.02739726027403
+            ],
+            "html": "<div class=\"open-ended-set\"><span>➝_________________________________________________</span></div>",
+            "text": "_____",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06972636918883386,
+                0.12999253648717518,
+                0.41390108148750826,
+                0.03591547371338673
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 7,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 87,
+            "area": 10709.084,
+            "bbox": [
+                179.00055539872056,
+                636.4178123996685,
+                977.2038973487472,
+                10.958904109589184
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07217764330593571,
+                0.1813672876602076,
+                0.3940338295761077,
+                0.00312308467072932
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 88,
+            "area": 212044.359,
+            "bbox": [
+                167.44686395049985,
+                666.5547987010384,
+                1031.9492137268282,
+                205.4794520547946
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"88\">위 글을 읽고, 괄호 (B) 안의 단어들을 글의 흐름과 어법에 맞도록 <u>한 번씩</u> <u>모두</u> 사용하여 문장을 완성하시오. (단, 필요하면 어형 변화할 것, 새로운 단어 추가 금지)</span></div>",
+            "text": "윗글을 읽고, 괄호 (B) 안의 단어들을 글의 흐름과 어법에 맞도록 <u>한 번씩</u> <u>모두</u> 사용하여 문장을 완성하시오. (단, 필요하면 어형 변화할 것, 새로운 단어 추가 금지) ",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06751889675423381,
+                0.18995577050471313,
+                0.41610855392210816,
+                0.058557837576174006
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 89,
+            "area": 143807.697,
+            "bbox": [
+                164.70959813159584,
+                882.9931548654221,
+                1029.211947907924,
+                139.72602739726028
+            ],
+            "html": "<div class=\"open-ended-set\"><span>➝_________________________________________________</span></div>",
+            "text": "_____",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.0664151605369338,
+                0.25163669275161643,
+                0.41500481770480807,
+                0.039819329551798316
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 7,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 90,
+            "area": 11159.045,
+            "bbox": [
+                170.1841297694039,
+                1063.2671253779167,
+                1018.262884632308,
+                10.958904109588957
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06862263297153383,
+                0.30301143498943195,
+                0.41058987283560805,
+                0.0031230846707292555
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 91,
+            "area": 207342.261,
+            "bbox": [
+                156.4978006748837,
+                1093.4041116792864,
+                1051.1100744591558,
+                197.26027397260327
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"91\">위 글을 읽고, 괄호 (C) 안의 단어들을 글의 흐름과 어법에 맞도록 <u>한 번씩</u> <u>모두</u> 사용하여 문장을 완성하시오. (단, 필요하면 어형 변화할 것, 새로운 단어 추가 금지)</span></div>",
+            "text": "윗글을 읽고, 괄호 (C) 안의 단어들을 글의 흐름과 어법에 맞도록 <u>한 번씩</u> <u>모두</u> 사용하여 문장을 완성하시오. (단, 필요하면 어형 변화할 것, 새로운 단어 추가 금지) ",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06310395188503375,
+                0.3115999178339374,
+                0.423834707443208,
+                0.05621552407312718
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 92,
+            "area": 143612.714,
+            "bbox": [
+                162.57696048529635,
+                1307.102741816273,
+                1048.3728086402525,
+                136.98630136986299
+            ],
+            "html": "<div class=\"open-ended-set\"><span>➝_________________________________________________</span></div>",
+            "text": "_____",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06555522600213563,
+                0.37250006891315846,
+                0.42273097122590825,
+                0.03903855838411598
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 7,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 93,
+            "area": 12584.703,
+            "bbox": [
+                173.52999999999997,
+                1484.7642909676579,
+                1021.0,
+                12.325860122752374
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06997177419354837,
+                0.42313031945501794,
+                0.41169354838709676,
+                0.0035126418132665643
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 94,
+            "area": 100003.944,
+            "bbox": [
+                165.31422630420036,
+                1510.9383559031035,
+                1042.8982770024436,
+                95.89041095890411
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"94\">위 글을 읽고 문맥상 빈칸 ①, ②, ③에 들어갈 말을 각각 <u>한 단어</u>로 쓰시오.</span></div>",
+            "text": "윗글을 읽고 문맥상 빈칸 ①, ②, ③에 들어갈 말을 각각 <u>한 단어</u>로 쓰시오. ",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06665896221943562,
+                0.43058944311858177,
+                0.4205234987913079,
+                0.027326990868881195
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 95,
+            "area": 155686.681,
+            "bbox": [
+                159.83969466639223,
+                1645.1849273263597,
+                947.0939733408022,
+                164.38356164383572
+            ],
+            "html": "<div class=\"open-ended-set\"><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 10.3838%;\">①</td><td style=\"width: 23.095%;\">___________</td><td style=\"width: 10.3838%;\">②</td><td style=\"width: 23.095%;\">___________</td><td style=\"width: 10.3838%;\">③</td><td style=\"width: 22.7369%;\">___________</td></tr></tbody></table></div>",
+            "text": "\n\n| ① |   | ② |   | ③ |   |\n\n",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06445148978483557,
+                0.46884722921811334,
+                0.38189273118580735,
+                0.04684627006093922
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 7,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 96,
+            "area": 30642.799,
+            "bbox": [
+                164.52501660320377,
+                1922.378769383286,
+                1011.2123514624036,
+                30.303030303030255
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06634073250129184,
+                0.5478423395221675,
+                0.40774691591225953,
+                0.008635802309213524
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 97,
+            "area": 24073.863,
+            "bbox": [
+                158.46985282199194,
+                2002.3788433652937,
+                993.0468601187672,
+                24.24242424242425
+            ],
+            "html": "",
+            "text": "99",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06389913420241611,
+                0.5706408787019931,
+                0.40042212101563196,
+                0.006908641847370832
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 99,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 98,
+            "area": 20938.209,
+            "bbox": [
+                1310.0959667786988,
+                200.25341629655424,
+                955.3057707975145,
+                21.917808219178085
+            ],
+            "html": "",
+            "text": "99",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5282645027333462,
+                0.057068514191095536,
+                0.38520393983770745,
+                0.0062461693414585595
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 99,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 99,
+            "area": 28789.529,
+            "bbox": [
+                1320.44,
+                246.83000000000004,
+                583.7293023714178,
+                49.31999999999999
+            ],
+            "html": "",
+            "text": "다음 글을 읽고, 물음에 답하시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5324354838709677,
+                0.07034197777144487,
+                0.23537471869815235,
+                0.014055286406383583
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 0,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 100,
+            "area": 2727981.723,
+            "bbox": [
+                1262.96,
+                312.58000000000015,
+                1042.9,
+                2615.765388316361
+            ],
+            "html": "",
+            "text": "As the train pulled into a quiet countryside station, the gentle chatter of passengers filled the air. Linda was excited to finally visit her grandparents after two years. She watched people getting onto the train and hurriedly finding their seats. A moment later, an elderly woman struggled with a heavy bag, trying to sit down next to her. (A) [ <u>almost / bag / too / small / the / big / for / her / body / seem</u> ].\n\nLinda ______①______, unsure if the elderly woman would want her help. But soon, she chose to assist the woman. \"Let me help you with your bag,\" she said. Before she could reach the bag, the elderly woman suddenly lost her balance and fell down. She lay on her back, and her face was pale. Linda (B) [ <u>urgency / freeze /a / of / for / the / moment / situation / the / feel</u> ]. She quickly knelt down beside the fallen woman, as a few people rushed over.\n\nLinda carefully tapped the elderly woman's shoulder to check if she was alright. The woman groaned softly, trying to gather her strength. Linda moved closer, sliding a hand under the woman's back. As the woman's eyes slowly opened, she ______②______ her softly, \"It's okay, just relax for a moment.\" Linda helped the woman sit up slowly, then guided her back to her seat. As the situation settled, people around went back to their seats.\n\nAs the elderly woman finally calmed down, she looked at Linda with a smile. \"I'm so sorry,\" she said. \"I have low blood pressure, and the sudden movement of the train must have made me feel dizzyy. Thank you so much for helping me.\" Linda nodded gently in response, then turned her gaze back to the  ______③______ countryside scene. She thought that no matter how unsure she might feel, (C) [ <u>do / nothing / need / even / than / act / for / better / smallest / help / be / in / someone / much / the / of</u> ].",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5092580645161291,
+                0.08907950983186097,
+                0.42052419354838716,
+                0.7454446817658481
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 101,
+            "area": 18165.491,
+            "bbox": [
+                1272.6199885649994,
+                2981.772727272727,
+                999.102023899979,
+                18.181818181818016
+            ],
+            "html": "",
+            "text": "99",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5131532211955643,
+                0.8497499935231482,
+                0.40286371931450765,
+                0.0051814813855280755
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 99,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 102,
+            "area": 198975.586,
+            "bbox": [
+                170.36777629616176,
+                239.8463802568484,
+                1030.2132513165582,
+                193.14019314019308
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"102\">위 글을 읽고, 괄호 (A) 안의 단어들을 글의 흐름과 어법에 맞도록 <u>한 번씩</u> <u>모두</u> 사용하여 문장을 완성하시오. (단, 필요하면 어형 변화할 것, 새로운 단어 추가 금지)</span></div>",
+            "text": "윗글을 읽고, 괄호 (A) 안의 단어들을 글의 흐름과 어법에 맞도록 <u>한 번씩</u> <u>모두</u> 사용하여 문장을 완성하시오. (단, 필요하면 어형 변화할 것, 새로운 단어 추가 금지)",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06869668399038781,
+                0.06835177550779378,
+                0.41540856907925733,
+                0.055041377355426926
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 103,
+            "area": 145715.172,
+            "bbox": [
+                163.71050165114355,
+                450.90983100440405,
+                1041.8634819453396,
+                139.86013986013984
+            ],
+            "html": "<div class=\"open-ended-set\"><span>➝_________________________________________________</span></div>",
+            "text": "_____",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06601229905288046,
+                0.1285009492745523,
+                0.420106242719895,
+                0.03985754911944709
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 7,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 104,
+            "area": 22479.109,
+            "bbox": [
+                165.37482031239813,
+                627.3020693025032,
+                1038.5348446228304,
+                21.645021645021643
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06668339528725731,
+                0.17876946973568061,
+                0.4187640502511413,
+                0.006168430220866812
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 105,
+            "area": 204506.689,
+            "bbox": [
+                170.36777629616176,
+                740.5221825226165,
+                1023.5559766715398,
+                199.80019980019983
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"105\">위 글을 읽고, 괄호 (B) 안의 단어들을 글의 흐름과 어법에 맞도록 <u>한 번씩</u> <u>모두</u> 사용하여 문장을 완성하시오. (단, 필요하면 어형 변화할 것, 새로운 단어 추가 금지)</span></div>",
+            "text": "윗글을 읽고, 괄호 (B) 안의 단어들을 글의 흐름과 어법에 맞도록 <u>한 번씩</u> <u>모두</u> 사용하여 문장을 완성하시오. (단, 필요하면 어형 변화할 것, 새로운 단어 추가 금지)",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06869668399038781,
+                0.2110351047371378,
+                0.41272418414174994,
+                0.05693935588492443
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 106,
+            "area": 143520.466,
+            "bbox": [
+                163.71050165114355,
+                950.3123923128263,
+                1038.5348446228304,
+                138.19513819513816
+            ],
+            "html": "<div class=\"open-ended-set\"><span>➝_________________________________________________</span></div>",
+            "text": "_____",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06601229905288046,
+                0.27082142841630846,
+                0.4187640502511413,
+                0.039383054487072716
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 7,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 107,
+            "area": 17402.466,
+            "bbox": [
+                162.04618298988908,
+                1146.7825824315455,
+                1045.1921192678487,
+                16.650016650016596
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06534120281850365,
+                0.3268117932264307,
+                0.42144843518864866,
+                0.004744946323743686
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 108,
+            "area": 201752.222,
+            "bbox": [
+                170.52232610694261,
+                1229.379457136022,
+                1026.8846139940488,
+                196.47019647019647
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"108\">위 글을 읽고, 괄호 (C) 안의 단어들을 글의 흐름과 어법에 맞도록 <u>한 번씩</u> <u>모두</u> 사용하여 문장을 완성하시오. (단, 필요하면 어형 변화할 것, 새로운 단어 추가 금지)</span></div>",
+            "text": "윗글을 읽고, 괄호 (C) 안의 단어들을 글의 흐름과 어법에 맞도록 <u>한 번씩</u> <u>모두</u> 사용하여 문장을 완성하시오. (단, 필요하면 어형 변화할 것, 새로운 단어 추가 금지)",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06875900246247686,
+                0.35035037250955314,
+                0.41406637661050355,
+                0.05599036662017568
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 109,
+            "area": 146036.619,
+            "bbox": [
+                168.85800744568803,
+                1439.169666926232,
+                1031.8775699778125,
+                141.52514152514163
+            ],
+            "html": "<div class=\"open-ended-set\"><span>➝_________________________________________________</span></div>",
+            "text": "_____",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06808790622810001,
+                0.41013669618872384,
+                0.4160796653136341,
+                0.0403320437518215
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 7,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 110,
+            "area": 25771.168,
+            "bbox": [
+                167.19368878443356,
+                1630.4489788415299,
+                1031.8775699778128,
+                24.975024975025235
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06741680999372321,
+                0.46464775686563975,
+                0.41607966531363416,
+                0.007117419485615627
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 111,
+            "area": 118929.784,
+            "bbox": [
+                163.8625587230406,
+                1688.9470551473262,
+                1035.2062073003217,
+                114.88511488511517
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"111\">위 글을 읽고 문맥상 빈칸 ①, ②, ③에 들어갈 말을 각각 <u>한 단어</u>로 쓰시오.</span></div>",
+            "text": "윗글을 읽고 문맥상 빈칸 ①, ②, ③에 들어갈 말을 각각 <u>한 단어</u>로 쓰시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06607361238832282,
+                0.4813186250063625,
+                0.4174218577823878,
+                0.032740129633831626
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 112,
+            "area": 136138.274,
+            "bbox": [
+                165.52687738429518,
+                1845.4572116574827,
+                888.7461651099225,
+                153.18015318015318
+            ],
+            "html": "<div class=\"open-ended-set\"><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 10.3838%;\">①</td><td style=\"width: 23.095%;\">___________</td><td style=\"width: 10.3838%;\">②</td><td style=\"width: 23.095%;\">___________</td><td style=\"width: 10.3838%;\">③</td><td style=\"width: 22.7369%;\">___________</td></tr></tbody></table></div>",
+            "text": "| ① |   | ② |   | ③ |   |",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06674470862269967,
+                0.5259211204495533,
+                0.3583653891572268,
+                0.04365350617844206
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 7,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 113,
+            "area": 22335.012,
+            "bbox": [
+                165.52687738429518,
+                2075.423327339083,
+                1031.8775699778125,
+                21.645021645022098
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06674470862269967,
+                0.5914572035734064,
+                0.4160796653136341,
+                0.006168430220866942
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 114,
+            "area": 45030.267,
+            "bbox": [
+                160.53392140053154,
+                2147.018398934155,
+                1040.199163284085,
+                43.290043290043286
+            ],
+            "html": "",
+            "text": "99",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06473141991956917,
+                0.6118604727655044,
+                0.41943514648551816,
+                0.012336860441733623
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 99,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 115,
+            "area": 6003374.517,
+            "bbox": [
+                220.59197300671622,
+                587.2364495469428,
+                1510.691205894917,
+                3973.9256397875415
+            ],
+            "html": "",
+            "text": "1) (5)\n2) (3)\n3) ©\n4) (5)\n5) (2)\n6) (1)\n7) (4)\n8) (2)\n9) (4)\n10) (5)\n11) (1)\n12) (5)\n13) (3)\n14) (2)\n15) (4)\n16) (5)\n17) (2)\n18) (3)\n19) (3)\n20) (1)\n21) (A): they are less happy, no matter what they choose\n22) (B): rather than providing freedom, it actually constrains our decision-making\n23) (C): Having made the choice, we then start to regret, wondering whether it was the right one\n24) (1): confronted (2): disruptive (3): expectations\n25) (A): The bag seemed almost too big for her small body\n26) (B): froze for a moment, feeling the urgency of the situation\n27) (C): even the smallest act of help is much better for someone in need than doing nothing\n28) (1) : hesitated (2) : reassured (3) : peaceful",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.062419913131498646,
+                0.11744728990938856,
+                0.42747345950620175,
+                0.7947851279575083
+            ],
+            "image_id": 10,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 9,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": -1,
+            "area": 395241.234,
+            "bbox": [
+                1278.6422136389956,
+                376.1377582291997,
+                1035.9391472698153,
+                381.52939250040924
+            ],
+            "html": "<div class=\"answer\">⑤</div>",
+            "text": "⑤",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5155815377576595,
+                0.10719229359623815,
+                0.41771739809266745,
+                0.10872880948999979
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -2,
+            "area": 395241.234,
+            "bbox": [
+                1278.6422136389956,
+                376.1377582291997,
+                1035.9391472698153,
+                381.52939250040924
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--2\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5155815377576595,
+                0.10719229359623815,
+                0.41771739809266745,
+                0.10872880948999979
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -3,
+            "area": 695689.851,
+            "bbox": [
+                1268.822885228855,
+                1104.6314829380708,
+                1049.0315851500025,
+                663.1734075650891
+            ],
+            "html": "<div class=\"answer\">③</div>",
+            "text": "③",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5116221311406673,
+                0.3147995106691567,
+                0.4229966069153236,
+                0.18899213666716702
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -4,
+            "area": 695689.851,
+            "bbox": [
+                1268.822885228855,
+                1104.6314829380708,
+                1049.0315851500025,
+                663.1734075650891
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--4\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5116221311406673,
+                0.3147995106691567,
+                0.4229966069153236,
+                0.18899213666716702
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -5,
+            "area": 298765.702,
+            "bbox": [
+                1303.1905346643466,
+                2506.75261224694,
+                877.1933379725447,
+                340.5927624037986
+            ],
+            "html": "<div class=\"answer\">②</div>",
+            "text": "②",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5254800543001398,
+                0.7143780599164833,
+                0.35370699111796156,
+                0.09706262821424867
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -6,
+            "area": 298765.702,
+            "bbox": [
+                1303.1905346643466,
+                2506.75261224694,
+                877.1933379725447,
+                340.5927624037986
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--6\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5254800543001398,
+                0.7143780599164833,
+                0.35370699111796156,
+                0.09706262821424867
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -7,
+            "area": 408418.216,
+            "bbox": [
+                1277.668977586704,
+                438.15285794146905,
+                1035.5211233126115,
+                394.4083874188715
+            ],
+            "html": "<div class=\"answer\">⑤</div>",
+            "text": "⑤",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5151891038656065,
+                0.12486544825918183,
+                0.4175488400454079,
+                0.11239908447388756
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -8,
+            "area": 408418.216,
+            "bbox": [
+                1277.668977586704,
+                438.15285794146905,
+                1035.5211233126115,
+                394.4083874188715
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--8\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5151891038656065,
+                0.12486544825918183,
+                0.4175488400454079,
+                0.11239908447388756
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -9,
+            "area": 611151.114,
+            "bbox": [
+                1280.1642092091438,
+                1102.1568519504553,
+                1033.0258916901716,
+                591.6125811283075
+            ],
+            "html": "<div class=\"answer\">②</div>",
+            "text": "②",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5161952456488483,
+                0.31409428667724576,
+                0.416542698262166,
+                0.16859862671083142
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -10,
+            "area": 611151.114,
+            "bbox": [
+                1280.1642092091438,
+                1102.1568519504553,
+                1033.0258916901716,
+                591.6125811283075
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--10\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5161952456488483,
+                0.31409428667724576,
+                0.416542698262166,
+                0.16859862671083142
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -11,
+            "area": 690175.087,
+            "bbox": [
+                1280.1642092091438,
+                2100.6324550142244,
+                1035.5211233126115,
+                666.5002496255611
+            ],
+            "html": "<div class=\"answer\">①</div>",
+            "text": "①",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5161952456488483,
+                0.5986413379920845,
+                0.4175488400454079,
+                0.18994022502865804
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -12,
+            "area": 690175.087,
+            "bbox": [
+                1280.1642092091438,
+                2100.6324550142244,
+                1035.5211233126115,
+                666.5002496255611
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--12\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5161952456488483,
+                0.5986413379920845,
+                0.4175488400454079,
+                0.18994022502865804
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -13,
+            "area": 297003.818,
+            "bbox": [
+                1282.6099265775727,
+                373.96975210768335,
+                929.7806533707419,
+                319.4342843208973
+            ],
+            "html": "<div class=\"answer\">④</div>",
+            "text": "④",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5171814220070857,
+                0.10657445201130902,
+                0.374911553778525,
+                0.09103285389595249
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -14,
+            "area": 297003.818,
+            "bbox": [
+                1282.6099265775727,
+                373.96975210768335,
+                929.7806533707419,
+                319.4342843208973
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--14\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5171814220070857,
+                0.10657445201130902,
+                0.374911553778525,
+                0.09103285389595249
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -15,
+            "area": 598466.836,
+            "bbox": [
+                1281.030843049114,
+                971.4412404249194,
+                1028.1693400150534,
+                582.0702999032571
+            ],
+            "html": "<div class=\"answer\">②</div>",
+            "text": "②",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5165446947778686,
+                0.2768427587417838,
+                0.4145844112963925,
+                0.16587925332096243
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -16,
+            "area": 598466.836,
+            "bbox": [
+                1281.030843049114,
+                971.4412404249194,
+                1028.1693400150534,
+                582.0702999032571
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--16\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5165446947778686,
+                0.2768427587417838,
+                0.4145844112963925,
+                0.16587925332096243
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -17,
+            "area": 271066.36,
+            "bbox": [
+                1334.8035857711566,
+                2312.0935473424192,
+                836.3948079432803,
+                324.0890035472421
+            ],
+            "html": "<div class=\"answer\">④</div>",
+            "text": "④",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5382272523270792,
+                0.6589038322434937,
+                0.3372559709448711,
+                0.0923593626523916
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -18,
+            "area": 271066.36,
+            "bbox": [
+                1334.8035857711566,
+                2312.0935473424192,
+                836.3948079432803,
+                324.0890035472421
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--18\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5382272523270792,
+                0.6589038322434937,
+                0.3372559709448711,
+                0.0923593626523916
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -19,
+            "area": 732850.286,
+            "bbox": [
+                139.84148333942892,
+                442.5307080965962,
+                1085.6160827539638,
+                675.0547428499921
+            ],
+            "html": "<div class=\"answer\">⑤</div>",
+            "text": "⑤",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.05638769489493101,
+                0.12611305445899007,
+                0.437748420465308,
+                0.1923780971359339
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -20,
+            "area": 732850.286,
+            "bbox": [
+                139.84148333942892,
+                442.5307080965962,
+                1085.6160827539638,
+                675.0547428499921
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--20\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.05638769489493101,
+                0.12611305445899007,
+                0.437748420465308,
+                0.1923780971359339
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -21,
+            "area": 912550.085,
+            "bbox": [
+                1263.9625952703504,
+                1649.3795449117674,
+                1067.6508047887687,
+                854.7271078671006
+            ],
+            "html": "<div class=\"answer\">⑤</div>",
+            "text": "⑤",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5096623368025607,
+                0.47004261752971427,
+                0.4305043567696648,
+                0.24358139295158182
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -22,
+            "area": 912550.085,
+            "bbox": [
+                1263.9625952703504,
+                1649.3795449117674,
+                1067.6508047887687,
+                854.7271078671006
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--22\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5096623368025607,
+                0.47004261752971427,
+                0.4305043567696648,
+                0.24358139295158182
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -23,
+            "area": 1308050.884,
+            "bbox": [
+                163.26,
+                381.63,
+                1042.03,
+                1255.291003307378
+            ],
+            "html": "<div class=\"answer\">③</div>",
+            "text": "③",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06583064516129032,
+                0.10875748076375036,
+                0.4201733870967742,
+                0.3577346831881955
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -24,
+            "area": 1308050.884,
+            "bbox": [
+                163.26,
+                381.63,
+                1042.03,
+                1255.291003307378
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--24\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06583064516129032,
+                0.10875748076375036,
+                0.4201733870967742,
+                0.3577346831881955
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -25,
+            "area": 1388280.118,
+            "bbox": [
+                164.11,
+                1957.2600000000023,
+                1043.9499999999998,
+                1329.8339177260211
+            ],
+            "html": "<div class=\"answer\">②</div>",
+            "text": "②",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.0661733870967742,
+                0.5577828441151331,
+                0.4209475806451612,
+                0.37897803297977234
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -26,
+            "area": 1388280.118,
+            "bbox": [
+                164.11,
+                1957.2600000000023,
+                1043.9499999999998,
+                1329.8339177260211
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--26\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.0661733870967742,
+                0.5577828441151331,
+                0.4209475806451612,
+                0.37897803297977234
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -27,
+            "area": 1310636.415,
+            "bbox": [
+                1274.5299999999997,
+                445.30999999999926,
+                1041.04,
+                1258.9683536840591
+            ],
+            "html": "<div class=\"answer\">④</div>",
+            "text": "④",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5139233870967741,
+                0.12690510116842385,
+                0.4197741935483871,
+                0.3587826599270616
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -28,
+            "area": 1310636.415,
+            "bbox": [
+                1274.5299999999997,
+                445.30999999999926,
+                1041.04,
+                1258.9683536840591
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--28\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5139233870967741,
+                0.12690510116842385,
+                0.4197741935483871,
+                0.3587826599270616
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -29,
+            "area": 1473511.063,
+            "bbox": [
+                158.13775939733478,
+                444.10457269696735,
+                1056.14484022059,
+                1395.1789627465303
+            ],
+            "html": "<div class=\"answer\">⑤</div>",
+            "text": "⑤",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06376522556344144,
+                0.12656157671614915,
+                0.42586485492765724,
+                0.3976001603723369
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -30,
+            "area": 1473511.063,
+            "bbox": [
+                158.13775939733478,
+                444.10457269696735,
+                1056.14484022059,
+                1395.1789627465303
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--30\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06376522556344144,
+                0.12656157671614915,
+                0.42586485492765724,
+                0.3976001603723369
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -31,
+            "area": 160118.136,
+            "bbox": [
+                1266.6744222952393,
+                2509.634749459331,
+                782.2731633411877,
+                204.68315048305158
+            ],
+            "html": "<div class=\"answer\">②</div>",
+            "text": "②",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5107558154416287,
+                0.7151994156338931,
+                0.3154327271537047,
+                0.05833090637875508
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -32,
+            "area": 160118.136,
+            "bbox": [
+                1266.6744222952393,
+                2509.634749459331,
+                782.2731633411877,
+                204.68315048305158
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--32\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5107558154416287,
+                0.7151994156338931,
+                0.3154327271537047,
+                0.05833090637875508
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -33,
+            "area": 1662038.602,
+            "bbox": [
+                154.3961114576265,
+                772.7263784495598,
+                1051.7234385297788,
+                1580.3000492758288
+            ],
+            "html": "<div class=\"answer\">③</div>",
+            "text": "③",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.062256496555494555,
+                0.22021270403236243,
+                0.4240820316652334,
+                0.4503562408879535
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -34,
+            "area": 1662038.602,
+            "bbox": [
+                154.3961114576265,
+                772.7263784495598,
+                1051.7234385297788,
+                1580.3000492758288
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--34\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.062256496555494555,
+                0.22021270403236243,
+                0.4240820316652334,
+                0.4503562408879535
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -35,
+            "area": 1233933.344,
+            "bbox": [
+                1273.2508332978161,
+                573.3498230669645,
+                1060.1148489435798,
+                1163.9619473978735
+            ],
+            "html": "<div class=\"answer\">③</div>",
+            "text": "③",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5134075940717001,
+                0.16339407895895255,
+                0.42746566489660476,
+                0.331707594014783
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -36,
+            "area": 1233933.344,
+            "bbox": [
+                1273.2508332978161,
+                573.3498230669645,
+                1060.1148489435798,
+                1163.9619473978735
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--36\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5134075940717001,
+                0.16339407895895255,
+                0.42746566489660476,
+                0.331707594014783
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -37,
+            "area": 1301441.951,
+            "bbox": [
+                153.12,
+                649.6958826045782,
+                1069.8200000000002,
+                1216.505534531696
+            ],
+            "html": "<div class=\"answer\">①</div>",
+            "text": "①",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06174193548387097,
+                0.18515129170834374,
+                0.43137903225806457,
+                0.34668154304123566
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -38,
+            "area": 1301441.951,
+            "bbox": [
+                153.12,
+                649.6958826045782,
+                1069.8200000000002,
+                1216.505534531696
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--38\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06174193548387097,
+                0.18515129170834374,
+                0.43137903225806457,
+                0.34668154304123566
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -39,
+            "area": 129363.933,
+            "bbox": [
+                172.92139558830797,
+                456.1438105334977,
+                1026.4746820890205,
+                126.02739726027403
+            ],
+            "html": "<div class=\"answer\">they are less happy, no matter what they choose</div>",
+            "text": "they are less happy, no matter what they choose",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06972636918883386,
+                0.12999253648717518,
+                0.41390108148750826,
+                0.03591547371338673
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -40,
+            "area": 129363.933,
+            "bbox": [
+                172.92139558830797,
+                456.1438105334977,
+                1026.4746820890205,
+                126.02739726027403
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--40\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06972636918883386,
+                0.12999253648717518,
+                0.41390108148750826,
+                0.03591547371338673
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -41,
+            "area": 143807.697,
+            "bbox": [
+                164.70959813159584,
+                882.9931548654221,
+                1029.211947907924,
+                139.72602739726028
+            ],
+            "html": "<div class=\"answer\">rather than providing freedom, it actually constrains our decision making</div>",
+            "text": "rather than providing freedom, it actually constrains our decision making",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.0664151605369338,
+                0.25163669275161643,
+                0.41500481770480807,
+                0.039819329551798316
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -42,
+            "area": 143807.697,
+            "bbox": [
+                164.70959813159584,
+                882.9931548654221,
+                1029.211947907924,
+                139.72602739726028
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--42\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.0664151605369338,
+                0.25163669275161643,
+                0.41500481770480807,
+                0.039819329551798316
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -43,
+            "area": 143612.714,
+            "bbox": [
+                162.57696048529635,
+                1307.102741816273,
+                1048.3728086402525,
+                136.98630136986299
+            ],
+            "html": "<div class=\"answer\">Having made the choice, we then start to regret, wondering whether it was the right one</div>",
+            "text": "Having made the choice, we then start to regret, wondering whether it was the right one",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06555522600213563,
+                0.37250006891315846,
+                0.42273097122590825,
+                0.03903855838411598
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -44,
+            "area": 143612.714,
+            "bbox": [
+                162.57696048529635,
+                1307.102741816273,
+                1048.3728086402525,
+                136.98630136986299
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--44\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06555522600213563,
+                0.37250006891315846,
+                0.42273097122590825,
+                0.03903855838411598
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -45,
+            "area": 155686.681,
+            "bbox": [
+                159.83969466639223,
+                1645.1849273263597,
+                947.0939733408022,
+                164.38356164383572
+            ],
+            "html": "<div class=\"answer\">① confronted    ② disruptive    ③ expectations</div>",
+            "text": "① confronted    ② disruptive    ③ expectations",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06445148978483557,
+                0.46884722921811334,
+                0.38189273118580735,
+                0.04684627006093922
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -46,
+            "area": 155686.681,
+            "bbox": [
+                159.83969466639223,
+                1645.1849273263597,
+                947.0939733408022,
+                164.38356164383572
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--46\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06445148978483557,
+                0.46884722921811334,
+                0.38189273118580735,
+                0.04684627006093922
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -47,
+            "area": 145715.172,
+            "bbox": [
+                163.71050165114355,
+                450.90983100440405,
+                1041.8634819453396,
+                139.86013986013984
+            ],
+            "html": "<div class=\"answer\">(A) The bag seemed almost too big for her small body</div>",
+            "text": "(A) The bag seemed almost too big for her small body",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06601229905288046,
+                0.1285009492745523,
+                0.420106242719895,
+                0.03985754911944709
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -48,
+            "area": 145715.172,
+            "bbox": [
+                163.71050165114355,
+                450.90983100440405,
+                1041.8634819453396,
+                139.86013986013984
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--48\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06601229905288046,
+                0.1285009492745523,
+                0.420106242719895,
+                0.03985754911944709
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -49,
+            "area": 143520.466,
+            "bbox": [
+                163.71050165114355,
+                950.3123923128263,
+                1038.5348446228304,
+                138.19513819513816
+            ],
+            "html": "<div class=\"answer\">(B) froze for a moment, feeling the urgency of the situation</div>",
+            "text": "(B) froze for a moment, feeling the urgency of the situation",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06601229905288046,
+                0.27082142841630846,
+                0.4187640502511413,
+                0.039383054487072716
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -50,
+            "area": 143520.466,
+            "bbox": [
+                163.71050165114355,
+                950.3123923128263,
+                1038.5348446228304,
+                138.19513819513816
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--50\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06601229905288046,
+                0.27082142841630846,
+                0.4187640502511413,
+                0.039383054487072716
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -51,
+            "area": 146036.619,
+            "bbox": [
+                168.85800744568803,
+                1439.169666926232,
+                1031.8775699778125,
+                141.52514152514163
+            ],
+            "html": "<div class=\"answer\">(C) even the smallest act of help is much better for someone in need than doing nothing</div>",
+            "text": "(C) even the smallest act of help is much better for someone in need than doing nothing",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06808790622810001,
+                0.41013669618872384,
+                0.4160796653136341,
+                0.0403320437518215
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -52,
+            "area": 146036.619,
+            "bbox": [
+                168.85800744568803,
+                1439.169666926232,
+                1031.8775699778125,
+                141.52514152514163
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--52\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06808790622810001,
+                0.41013669618872384,
+                0.4160796653136341,
+                0.0403320437518215
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -53,
+            "area": 136138.274,
+            "bbox": [
+                165.52687738429518,
+                1845.4572116574827,
+                888.7461651099225,
+                153.18015318015318
+            ],
+            "html": "<div class=\"answer\">① hesitated    ② reassured    ③ peaceful</div>",
+            "text": "① hesitated    ② reassured    ③ peaceful",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06674470862269967,
+                0.5259211204495533,
+                0.3583653891572268,
+                0.04365350617844206
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -54,
+            "area": 136138.274,
+            "bbox": [
+                165.52687738429518,
+                1845.4572116574827,
+                888.7461651099225,
+                153.18015318015318
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--54\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06674470862269967,
+                0.5259211204495533,
+                0.3583653891572268,
+                0.04365350617844206
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "category_id": 9
+        }
+    ]
+}
