@@ -71,9 +71,9 @@
 
         .content-area {
             display: grid;
-            grid-template-columns: 1fr 1fr;
+            grid-template-rows: 2fr 1fr;
             gap: 20px;
-            min-height: 600px;
+            min-height: 800px;
         }
 
         .json-panel, .viewer-panel {
@@ -95,8 +95,15 @@
 
         .panel-content {
             padding: 20px;
-            height: 600px;
             overflow-y: auto;
+        }
+
+        .viewer-panel .panel-content {
+            height: 500px;
+        }
+
+        .json-panel .panel-content {
+            height: 300px;
         }
 
         .json-tree {
@@ -266,11 +273,19 @@
 
         @media (max-width: 768px) {
             .content-area {
-                grid-template-columns: 1fr;
+                grid-template-rows: 1fr 1fr;
             }
             
             .header h1 {
                 font-size: 2em;
+            }
+
+            .viewer-panel .panel-content {
+                height: 400px;
+            }
+
+            .json-panel .panel-content {
+                height: 300px;
             }
         }
     </style>
@@ -294,18 +309,6 @@
         <div id="statsArea"></div>
 
         <div class="content-area">
-            <div class="json-panel">
-                <div class="panel-header">
-                    <span>🔧 JSON Delta 구조</span>
-                    <button class="toggle-btn" onclick="toggleAllJson()">전체 토글</button>
-                </div>
-                <div class="panel-content">
-                    <div id="jsonTree" class="json-tree">
-                        JSON 파일을 선택하세요...
-                    </div>
-                </div>
-            </div>
-
             <div class="viewer-panel">
                 <div class="panel-header">
                     <span>📝 문항 뷰어</span>
@@ -313,6 +316,18 @@
                 </div>
                 <div class="panel-content">
                     <div id="itemViewer">
+                        JSON 파일을 선택하세요...
+                    </div>
+                </div>
+            </div>
+
+            <div class="json-panel">
+                <div class="panel-header">
+                    <span>🔧 JSON Delta 구조</span>
+                    <button class="toggle-btn" onclick="toggleAllJson()">전체 토글</button>
+                </div>
+                <div class="panel-content">
+                    <div id="jsonTree" class="json-tree">
                         JSON 파일을 선택하세요...
                     </div>
                 </div>
