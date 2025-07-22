@@ -328,7 +328,7 @@
         // JSON 파일 목록 로드
         async function loadFileList() {
             try {
-                const response = await fetch('17차_output/output/');
+                const response = await fetch('output/');
                 const text = await response.text();
                 
                 // 간단한 파일 목록 파싱 (실제로는 서버에서 API로 제공하는 것이 좋음)
@@ -476,7 +476,7 @@
                 document.getElementById('jsonTree').innerHTML = '<div class="loading">파일을 로드하는 중...</div>';
                 document.getElementById('itemViewer').innerHTML = '<div class="loading">파일을 로드하는 중...</div>';
                 
-                const response = await fetch(`17차_output/output/${filename}`);
+                const response = await fetch(`output/${filename}`);
                 if (!response.ok) {
                     throw new Error(`HTTP ${response.status}: ${response.statusText}`);
                 }
